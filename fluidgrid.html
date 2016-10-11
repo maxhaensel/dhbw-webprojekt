@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+      <link rel="stylesheet" href="css/stylesheet.css">
+      <style>.helper div{border: thin solid black; 
+    background: -webkit-linear-gradient(top, #ff3019 0%,#cf0404 100%);
+    min-height: 30px;}
+      </style>
+    <title>Fluid-Grid</title>
+  </head>
+  <body class="helper">
+      <div>content außerhalb und vor dem grid</div> 
+   <div class="grid-row">
+        <div class="cell lg-cell-4 md-cell-4 sm-cell-4">
+            <div class="grid-row">
+                <div class="cell lg-cell-4 md-cell-4 sm-cell-2">Example content</div>
+                <div class="cell lg-cell-2 md-cell-4 sm-cell-2">Example content</div>
+                <div class="cell lg-cell-2 md-cell-4 sm-cell-2">Example content</div>
+                <div class="cell lg-cell-1 md-cell-2 sm-cell-1">Example content</div>
+                <div class="cell lg-cell-1 md-cell-2 sm-cell-1">Example content</div>
+                <div class="cell lg-cell-1 md-cell-2 sm-cell-1">Example content</div>
+                <div class="cell lg-cell-1 md-cell-2 sm-cell-1">Example content</div>
+            </div>
+       </div>
+   </div>
+      <div>content außerhalb des grid</div>
+      <div class="grid-row">
+        <div class="cell lg-cell-1 md-cell-2 sm-cell-4 lg-cell-offset-1">lg-cell-1 md-cell-2  sm-cell-4</div>
+        <div class="cell lg-cell-1 md-cell-2 sm-cell-4 lg-cell-offset-2">lg-cell-1 md-cell-2  sm-cell-4</div>    
+        <div class="cell lg-cell-1 md-cell-2 sm-cell-4 lg-cell-offset-3">lg-cell-1 md-cell-2  sm-cell-4</div>
+        <div class="cell lg-cell-1 md-cell-2 sm-cell-4 md-cell-offset-2">lg-cell-1 md-cell-2 sm-cell-4</div>  
+        <div class="cell lg-cell-2 md-cell-2 sm-cell-4">lg-cell-2 md-cell-2 sm-cell-4</div>
+        <div class="cell lg-cell-2 md-cell-2 sm-cell-4">lg-cell-2 md-cell-2 sm-cell-4</div>
+        <div class="cell lg-cell-2 md-cell-4 sm-cell-4">lg-cell-2 md-cell-4 sm-cell-4</div>
+        <div class="cell lg-cell-2 md-cell-4 sm-cell-1 sm-cell-offset-1">lg-cell-2 md-cell-4  sm-cell-2</div>
+        <div class="cell lg-cell-4 md-cell-4 sm-cell-1 sm-cell-offset-2">lg-cell-4 md-cell-4  sm-cell-2</div>
+      </div>  
+     <div>content außerhalb und nach dem grid</div>  
+  </body>
+  <footer>
+</html>
