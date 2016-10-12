@@ -1,8 +1,7 @@
 .dropbtn {display: none;}
-@media (min-width: 0px) and (max-width: 499px){
+@media (min-width: 0px) and (max-width: 2000px){
     nav ul li {list-style: none;}
     .dropdown {position: relative; display: inline-block;}
-
     /* Dropdownbutton */
     .dropbtn {
         padding: 9px;
@@ -49,7 +48,6 @@
     /* Dropdownbutton */
 
 .dropdown-content {
-   
     position: absolute;
     background-color: whitesmoke;
     min-width: 160px;
