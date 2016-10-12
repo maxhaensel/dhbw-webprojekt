@@ -1,19 +1,23 @@
-.dropbtn {display: none;}
-@media (min-width: 0px) and (max-width: 2000px){
+nav .dropbtn {display: none;}
+@media (min-width: 0px) and (max-width: 500px){
     nav ul li {list-style: none;}
+    /* dropbox-div */
     .dropdown {position: relative; display: inline-block;}
+    .dropdown:hover .dropbtn {opacity: 0.8;}
+    /* dropbox-div */
+    
     /* Dropdownbutton */
     .dropbtn {
         padding: 9px;
         height: 50px;
         width: 50px;
-        display: block;
+        display: block !important;
         background-color: #e98a17;
         color: white;
         border: none;
         cursor: pointer;
     }
-    .dropbtn span,  .dropbtn span::before,  .dropbtn span::after{height: 3px; width: 30px;}
+    .dropbtn span, .dropbtn span::before, .dropbtn span::after{height: 3px; width: 30px;}
         .dropbtn span{
             -webkit-transition: -webkit-transform 0.2s ease-in;
             position: relative;
@@ -46,31 +50,31 @@
     }
 
     /* Dropdownbutton */
+    
+    /* Dropdowncontent */
+    .dropdown-content {
+        position: absolute;
+        background-color: #eee;
+        min-width: 100vw;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        visibility: hidden;
+        opacity: 0;
+        transition: visibility 0s, opacity 0.5s linear;
+    }
 
-.dropdown-content {
-    position: absolute;
-    background-color: whitesmoke;
-    min-width: 160px;
-    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-    visibility: hidden;
-    opacity: 0;
-    transition: visibility 0s, opacity 0.5s linear;
-}
+    .dropdown-content a {
+        color: #e98a17;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+    }
 
-.dropdown-content a {
-    color: black;
-    padding: 12px 16px;
-    text-decoration: none;
-    display: block;
-}
+    .dropdown-content a:hover {background-color: #aaa; color: black}
 
-.dropdown-content a:hover {background-color: #f1f1f1}
-
-.dropdown:hover .dropdown-content, .dropdown:focus .dropdown-content {
-    display: block;
-    visibility: visible;
-    opacity: 1;
-}
-
-.dropdown:hover .dropbtn {opacity: 0.8;}
+    .dropdown:hover .dropdown-content, .dropdown:focus .dropdown-content {
+        display: block;
+        visibility: visible;
+        opacity: 1;
+    }
+    /* Dropdowncontent */
 }
