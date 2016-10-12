@@ -1,0 +1,84 @@
+<style>div {margin-bottom: 30px}
+    body {font-family: arial;}
+    code {margin-bottom: 5px;}
+</style>
+<h1>Grid fuer das Webprojekt</h1>
+<div>
+    <h3>Media Queries</h3>
+    <code>
+        
+        lg = <1000px <br>
+        md = <500px >999px <br>
+        sm = >500px <br>
+    </code>
+</div>
+<div>
+        <h3>Klassen</h3>
+    <code>
+        .grid-row<br><br>
+    </code>
+    <code>
+        .lg-cell-1 <br>
+        .lg-cell-2 <br>
+        .lg-cell-3 <br>
+        .lg-cell-4 <br>
+        .lg-cell-5 <br>
+        .lg-cell-6 <br>
+        .lg-cell-7 <br>
+        .lg-cell-8 <br>
+        
+        .md-cell-1 <br>
+        .md-cell-2 <br>
+        .md-cell-3 <br>
+        .md-cell-4 <br>
+        .md-cell-5 <br>
+        .md-cell-6 <br>
+        
+        .sm-cell-1 <br>
+        .sm-cell-2 <br>
+        .sm-cell-3 <br> <br>
+    </code>
+     <code>
+        .lg-cell-offset-1 <br>
+        .lg-cell-offset-2 <br>
+        .lg-cell-offset-3 <br>
+        .lg-cell-offset-4 <br>
+        .lg-cell-offset-5 <br>
+        .lg-cell-offset-6 <br>
+        .lg-cell-offset-7 <br>
+         
+        .md-cell-offset-1 <br>
+        .md-cell-offset-2 <br>
+        .md-cell-offset-3 <br>
+        .md-cell-offset-4 <br>
+        .md-cell-offset-5 <br>
+         
+        .sm-cell-offset-1 <br>
+        .sm-cell-offset-2 <br>
+    </code>
+</div>    
+<div>
+    <h3>Struktur des Grid</h3>
+    <code>
+          &lt;div class="grid-row"&gt; <br> 
+           &nbsp; &lt;div class="lg-cell-1"&gt; "Content" &lt;/div&gt;<br>
+          &lt;/div&gt;
+    </code>
+    <pre>
+    Die Cells Divs muessen immer von dem Div mit der Klasse <strong>grid-row</strong> umschlossen werden.
+    </pre>
+    <pre>
+    Bei nicht vergabe von kleineren klassen wie <strong>.md-cell-</strong> oder <strong>.sm-cell-</strong> wird am Breakpoint immer auf 100% Breite Skaliert.
+    </pre>
+</div>
+<div>
+    <h3>Offset von Cells</h3>
+    <code>
+          &lt;div class="grid-row"&gt; <br> 
+           &nbsp; &lt;div class="lg-cell-1 lg-cell-offset-2"&gt; "Content" &lt;/div&gt;<br>
+          &lt;/div&gt;
+    </code>
+    <pre>
+    Um eine Cell einzuruecken muss einfach die jeweilige klasse hinzugefuegt werden. <strong>lg-cell-offset-</strong>.
+    </pre>
+</div>   
