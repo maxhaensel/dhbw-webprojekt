@@ -12,58 +12,47 @@ nav .dropbtn {display: none;}
         height: 50px;
         width: 50px;
         display: block !important;
-        background-color: #e98a17;
-        color: white;
         border: none;
         cursor: pointer;
     }
     .dropbtn span, .dropbtn span::before, .dropbtn span::after{height: 3px; width: 30px;}
         .dropbtn span{
-            -webkit-transition: -webkit-transform 0.2s ease-in;
-            position: relative;
-            display: block;
-            content: '';
-            background-color: white;
+        -webkit-transition: -webkit-transform 0.2s ease-in;
+        position: relative;
+        display: block;
+        content: '';
+        background-color: white;
         }
-    .dropbtn span::before{
-         position: absolute;
-            top: -8px;
-            display: block;
-            content: '';
-            background-color: white;
+    .dropbtn span::before, .dropbtn span::after{
+        position: absolute;
+        display: block;
+        content: '';
+        background-color: inherit;
         }
-    .dropbtn span::after{
-         position: absolute;
-            top: 8px;
-            display: block;
-            content: '';
-            background-color: white;
-        }
+    .dropbtn span::before{top: -8px;}
+    .dropbtn span::after{top: 8px;}
     
     .dropdown:hover .dropbtn span {
-        transform:  rotate(45deg) !important;
+        transform: rotate(45deg) !important;
         top: 0px;
     }
     .dropdown:hover .dropbtn span::before, .dropdown:hover .dropbtn span::after {
         transform:  rotate(90deg) !important;
         top: 0px;
     }
-
     /* Dropdownbutton */
     
     /* Dropdowncontent */
     .dropdown-content {
-        position: absolute;
+        max-height: 0px;
+        transition: max-height 0.8s ease-out;
+        overflow: hidden;
         background-color: #eee;
         min-width: 100vw;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
-        visibility: hidden;
-        opacity: 0;
-        transition: visibility 0s, opacity 0.5s linear;
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);    
     }
-
     .dropdown-content a {
-        color: #e98a17;
+      /*  color: red;*/
         padding: 12px 16px;
         text-decoration: none;
         display: block;
@@ -72,9 +61,8 @@ nav .dropbtn {display: none;}
     .dropdown-content a:hover {background-color: #aaa; color: black}
 
     .dropdown:hover .dropdown-content, .dropdown:focus .dropdown-content {
-        display: block;
-        visibility: visible;
-        opacity: 1;
+        max-height: 1000px;
+        transition: max-height 1s ease-in;
     }
     /* Dropdowncontent */
 }
