@@ -9,24 +9,40 @@
   </head>
   <body>
       <header>
-      <nav>
-          <div class="dropdown">
-            <button class="dropbtn primary-color"><span></span></button>
-            <div class="dropdown-content">
-                <ul>
-                    <li> <a class="primary-text-color" href="#">Link 1 laaaaaaaeeenger laaaaaaaeeenger</a></li>
-                    <li> <a class="primary-text-color" href="#">Link 2</a></li>
-                    <li> <a class="primary-text-color" href="#">Link 3</a></li>
-                </ul>
-            </div>
-            </div>
-      </nav>
-     <div class="brand">Brand</div>
+          <!--------------------------- Brand --------------------------->
+           <div class="brand">
+               <figure>
+                   <img src="pictures/logo.jpg">
+               </figure>
+           </div>
+          <!--------------------------- Brand --------------------------->
+          <!--------------------------- Navigation --------------------------->
+          <nav>
+              <div class="dropdown">    
+                <button class="dropbtn primary-color"><span></span></button>
+                <div class="dropdown-content">
+                    <ul class="level-1">
+                        <li> <a class="primary-text-color" href="#">Link 1</a></li>
+                        <li> <a class="primary-text-color" href="#">Link 2</a></li>
+                        <li> <a class="primary-text-color" href="#">Link 3</a>
+                            <ul class="level-2">
+                                <li> <a class="primary-text-color" href="#">Link 1</a></li>
+                                <li> <a class="primary-text-color" href="#">Link 2</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+              </div>
+          </nav>
+          <!--------------------------- Navigation --------------------------->
+  
     </header>      
       
       <main>
           <div class="grid-row">
               <div class="lg-cell-4 md-cell-3 sm-cell-3">
+                  
+                  <!--------------------------- EVENT-BOX --------------------------->
                   <div class="event event-box primary-color">
                       <div class="event event-date">
                           <span class="date-daymo white-text-color">10.12</span> <br>
@@ -43,7 +59,7 @@
                       <div class="event event-footer white-color">
                           <ul class="footer-link-list">
                               <li><a href="#">
-                                  <i class="fa fa-thumbs-o-up primary-text-color" aria-hidden="true"></i>
+                                  <i class="fa fa-calendar primary-text-color" aria-hidden="true"></i>
                                   </a></li>
                               <li><a href="#">
                                   <i class="fa fa-thumbs-o-up primary-text-color" aria-hidden="true"></i>
@@ -58,9 +74,8 @@
                       </div>
                   </div>
               </div>
+              <!--------------------------- EVENT-BOX --------------------------->
               <div class="lg-cell-4 md-cell-3 sm-cell-3">
-                     <div class="event event-date">12.12</div>
-                     <div class="event event-location">Köln</div>
               </div>
           </div>
       </main>

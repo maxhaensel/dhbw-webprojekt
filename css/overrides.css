@@ -4,7 +4,7 @@ body{
 }
 a{text-decoration: none;}
 
-ul, li{   
+ul, li, figure{   
     list-style-type: none;
     -webkit-margin-before: 0;
     -webkit-margin-after: 0;
