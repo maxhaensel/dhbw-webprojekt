@@ -4,15 +4,26 @@ body {
     height: 100vh;
     width: 100vw;
 }
+/* Hintergrundfarben */
 .primary-color {background-color: #e98a17;}
+.primary-color-10 {background-color: #FFE7CA;}
 .primary-color-20 {background-color: #F2CFA5;}
 .secondary-color {background-color: blue;}
 .white-color {background-color: white;}
+/* Hintergrundfarben */
 
-.primary-text-color {color: #e98a17;}
-.secondary-text-color {color: blue;}
-.white-text-color {color: white;}
+/* Textfarben */
+.black-text-color{color:#000}
+.black-text-color-80{color:#333}
 
+.primary-text-color {color: #e98a17; }
+.primary-text-color-10 {color: #FFE7CA;}
+.primary-text-color-20 {color: #F2CFA5;}
+
+.secondary-text-color {color: blue; }
+
+.white-text-color {color: #fff;}
+/* Textfarben */
 
 @media (min-width: 1000px){
 main{width: 1000px; margin: auto;}

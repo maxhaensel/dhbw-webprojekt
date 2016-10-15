@@ -1,12 +1,11 @@
 /* helperclass */
-header .brand{background: re;}
-
-nav .dropbtn {}
+nav .dropbtn, .mobile-brand{display: none;}
 @media (min-width: 0px) and (max-width: 500px){
     header{margin-bottom: 1em;}
     nav ul li {list-style: none;}
     /* Brand */
-    header .brand{
+    header .mobile-brand{
+        display: block;
         width: 60%; 
         height: 50px; 
         float: right; 
@@ -32,7 +31,7 @@ nav .dropbtn {}
     
     /* Dropdownbutton */
     .dropbtn {
-        
+        display: inline !important;
         padding: 9px;
         height: 50px;
         width: 50px;

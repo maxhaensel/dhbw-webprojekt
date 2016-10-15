@@ -2,9 +2,9 @@ body{
     margin: 0;
     padding: 0;
 }
-a{text-decoration: none;}
+a{text-decoration: none; color: inherit;}
 
-ul, li, figure{   
+p, ul, li, figure{   
     list-style-type: none;
     -webkit-margin-before: 0;
     -webkit-margin-after: 0;
