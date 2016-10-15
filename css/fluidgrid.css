@@ -1,12 +1,13 @@
-div.grid-row, .lg-cell-1, .lg-cell-2, .lg-cell-3,  .lg-cell-4, .lg-cell-5, .lg-cell-6, .lg-cell-7, .lg-cell-8, .md-cell-1, .md-cell-2, .md-cell-3, .md-cell-4, .md-cell-5, .md-cell-6, .sm-cell-1, .sm-cell-2, .sm-cell-3{box-sizing:border-box;}
 div.grid-row:after{content: ''; display: table;clear: both;}
-.lg-cell-1, .lg-cell-2, .lg-cell-3,  .lg-cell-4, .lg-cell-5, .lg-cell-6, .lg-cell-7, .lg-cell-8, .md-cell-1, .md-cell-2, .md-cell-3, .md-cell-4, .md-cell-5, .md-cell-6, .sm-cell-1, .sm-cell-2, .sm-cell-3
-{   position: relative;
+div.grid-row [class*="lg-cell-"], div.grid-row [class*="md-cell-"], div.grid-row [class*="sm-cell-"] {
+    box-sizing:border-box;
+    position: relative;
     min-height: 1px;
-    padding-right: 15px;
-    padding-left: 15px;
     float: left;
 }
+div.grid-row [class*="lg-cell-"],div.grid-row [class*="md-cell-"],div.grid-row [class*="md-cell-"]{margin-top: 1em;}
+@media (min-width: 501px){div.grid-row [class*="lg-cell-"],div.grid-row [class*="md-cell-"] {padding-right: 15px;padding-left: 15px;}}
+
 @media (min-width: 1000px){
     .lg-cell-1 {width: 12.49999%;}
     .lg-cell-2 {width: 24.49999%;}
@@ -26,7 +27,7 @@ div.grid-row:after{content: ''; display: table;clear: both;}
     }
 @media (min-width: 501px) and (max-width: 999px){
      /* Gridfallback für lg auf allen lg-cell spaces */
-    .lg-cell-1, .lg-cell-2, .lg-cell-3,  .lg-cell-4, .lg-cell-5, .lg-cell-6, .lg-cell-7, .lg-cell-8  {width: 99.99999%;}
+    div.grid-row [class*="lg-cell-"]  {width: 99.99999%;}
      /* Gridfallback für lg auf allen lg-cell spaces */
     .md-cell-1{width: 16.59999%; !important}
     .md-cell-2{width: 33.23333%; !important}
@@ -40,9 +41,9 @@ div.grid-row:after{content: ''; display: table;clear: both;}
     .md-cell-offset-4{margin-left: 66.59999%}
     .md-cell-offset-5{margin-left: 83.29999%}
     }
-@media (min-width: 0px) and (max-width: 500px){
+@media (max-width: 500px){
     /* Gridfallback für mobile auf allen cell spaces */
-    .lg-cell-1, .lg-cell-2, .lg-cell-3,  .lg-cell-4, .lg-cell-5, .lg-cell-6, .lg-cell-7, .lg-cell-8, .md-cell-1, .md-cell-2, .md-cell-3, .md-cell-4, .md-cell-5, .md-cell-6 {width: 99.99999%;}
+    div.grid-row [class*="lg-cell-"], div.grid-row [class*="md-cell-"] {width: 99.99999%;}
     /* Gridfallback für mobile auf allen cell spaces */
     .sm-cell-1{width: 33.33333%; !important}
     .sm-cell-2{width: 66.66666%; !important}
