@@ -1,6 +1,6 @@
 .input-group button{cursor: pointer;}
 div.input-group:not(:first-child):not(:last-child){margin-top: 0.7em;}
-div.input-group:last-child{margin-top: 0.7em}
+/* div.input-group:last-child{margin-top: 0.7em}*/
 .input-group{
     width: 100%;
     position: relative;
