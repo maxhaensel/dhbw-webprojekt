@@ -1,0 +1,38 @@
+header .desktop-brand{display: none;}
+@media (min-width: 700px){
+    header{width: 1000px; margin: auto; height: 100px; background: yellow}
+    header nav ul{background: blue;}
+    /* Brand */
+    header .desktop-brand{
+        display: block !important;
+        height: inherit; 
+        float: right; 
+    }
+     header figure{height: inherit; padding: 0.5em;}
+     header img{    
+        height: auto;
+        max-height: 100%;
+        max-width: 100%;
+        top: 50%;
+        right: -100%;
+        position: relative;
+        -ms-transform: translate(-100%, -50%);
+        -webkit-transform: translate(-100%, -50%);
+        transform: translate(-100%, -50%);}
+    /* Brand */
+    
+    header nav{background: red;
+        height: 20px;
+        top: 50%;
+        position: relative;
+        -ms-transform: translate(0, -50%);
+        -webkit-transform: translate(0, -50%);
+        transform: translate(0, -50%);
+        }
+    header nav ul li{
+        float: left; 
+        max-width: 10em;
+        margin: 0 1em;
+        }
+    header nav ul li .level-2 {display: none;}
+}

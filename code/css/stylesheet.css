@@ -1,9 +1,16 @@
 @import "overrides.css";
-@import "basic-stylesheet.css";
+
 @import "fluidgrid.css";
-@import "mobile-navigation.css";
-@import "tour-event.css";
+/* Basiccss */
+@import "basic-stylesheet.css";
 @import "basic-mobile.css";
+
+/* Navigation */
+@import "mobile-navigation.css";
+@import "desktop-navigation.css";
+
+/* Typbasiertescss */
+@import "tour-event.css";
 @import "form.css";
 @import "faq.css";
 

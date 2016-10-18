@@ -1,5 +1,6 @@
+header nav .dropbtn, header .mobile-brand{ display: none;}
 @media (max-width: 500px){
-    nav ul li {list-style: none;}
+    header nav ul li {list-style: none;}
     /* Brand */
     header .mobile-brand{
         display: block;
@@ -8,8 +9,8 @@
         float: right; 
         padding-right: 1em; 
         box-sizing: border-box;}
-    header figure{height: inherit; padding: 0.3em; box-sizing: border-box}
-    header img{    
+     header figure{height: inherit; padding: 0.3em; box-sizing: border-box}
+     header img{    
         height: auto;
         max-height: 100%;
         max-width: 100%;
@@ -22,12 +23,12 @@
     /* Brand */
     
     /* dropbox-div */
-    .dropdown {position: relative; display: inline !important;}
-    .dropdown:hover .dropbtn {opacity: 0.8;}
+     header .dropdown {position: relative; display: inline !important;}
+     header .dropdown:hover .dropbtn {opacity: 0.8;}
     /* dropbox-div */
     
     /* Dropdownbutton */
-    .dropbtn {
+     header .dropbtn {
         display: inline !important;
         padding: 9px;
         height: 50px;
@@ -35,8 +36,8 @@
         border: none;
         cursor: pointer;
     }
-    .dropbtn span, .dropbtn span::before, .dropbtn span::after{height: 3px; width: 30px;}
-        .dropbtn span{
+     header .dropbtn span,  header .dropbtn span::before,  header .dropbtn span::after{height: 3px; width: 30px;}
+        header .dropbtn span{
         -webkit-transition: -webkit-transform 0.2s ease-in;
         position: relative;
         display: block;
