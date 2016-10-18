@@ -67,24 +67,23 @@
         max-height: 0px;
         transition: max-height 0.8s ease-out;
         overflow: hidden;
-        background-color: #eee;
         min-width: 100vw;
-        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);    
+        box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+        background: #eee;
     }
-    .dropdown-content .level-1 li a {
-      /*  color: red;*/
+    .dropdown-content .level-1 li a, .dropdown-content .input-group{
         padding: 12px 16px;
-        text-decoration: none;
+        border-bottom: thin solid #ccc;}
+    .dropdown-content .level-1 li a{
         display: block;
-        border-bottom: thin solid #ccc;
-    }
-     .dropdown-content .level-2 li a {
+        text-decoration: none;     
+    }    
+     .dropdown-content .level-2 li {
         font-size: 0.8em;
-        padding: 8px 16px;
-        margin-left: 20px;
+        margin-left: 1em;
     }
 
-    .dropdown-content a:hover {background-color: #aaa; color: black}
+    .dropdown-content li a:hover {background-color: #e98a17; color: white;}
 
     .dropdown:hover .dropdown-content, .dropdown:focus .dropdown-content {
         max-height: 1000px;
