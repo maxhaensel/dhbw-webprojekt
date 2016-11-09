@@ -1,5 +1,6 @@
 header .desktop-brand{display: none;}
 @media (min-width: 700px){
+    header{width: 1000px; margin: auto; height: 200px; margin-top: 3em; margin-bottom: 2em;position: relative; z-index: 50;}
     header nav ul{}
     /* Brand */
     header .desktop-brand{
