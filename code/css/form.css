@@ -1,6 +1,5 @@
 .input-group button{cursor: pointer;}
-div.input-group:not(:first-child):not(:last-child){margin-top: 0.7em;}
-/* div.input-group:last-child{margin-top: 0.7em}*/
+div.input-group:not(:first-child):not(:last-child){margin-bottom: 0.5em; margin-top: 0.5em}
 .input-group{
     width: 100%;
     position: relative;
@@ -24,6 +23,7 @@ div.input-group:not(:first-child):not(:last-child){margin-top: 0.7em;}
 }
 .input-group .input-group-addon:first-child{border-bottom-right-radius: 0; border-top-right-radius: 0;}
 .input-group .input-group-addon:last-child{border-bottom-left-radius: 0; border-top-left-radius: 0;}
+.input-group .input-group-addon:not(:first-child){cursor: pointer}
 .input-group .form-control{
     display: table-cell;
     position: relative;

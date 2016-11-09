@@ -1,0 +1,58 @@
+header .desktop-brand{display: none;}
+@media (min-width: 700px){
+    header{width: 1000px; margin: auto; height: 200px; margin-top: 3em; margin-bottom: 2em;position: relative; z-index: 50;}
+    header nav ul{}
+    /* Brand */
+    header .desktop-brand{
+        position: absolute;
+        right: 0; top:0;
+        width: 30%;
+        display: block !important;
+        height: inherit; 
+    }
+     header figure{height: inherit; padding: 0.5em;}
+     header img{    
+        height: auto;
+        max-height: 100%;
+        max-width: 100%;
+        top: 50%;
+        right: -100%;
+        position: relative;
+        -ms-transform: translate(-100%, -50%);
+        -webkit-transform: translate(-100%, -50%);
+        transform: translate(-100%, -50%);}
+    /* Brand */
+    
+    header nav{
+        top: 50%;
+        width: 69.999999%;
+        position: relative;
+        -ms-transform: translate(0, -50%);
+        -webkit-transform: translate(0, -50%);
+        transform: translate(0, -50%);
+        }
+     header nav.dropdown ul li{
+        float: left;
+        max-width: 10em;
+        margin-left: 1em;
+        line-height: 2em;
+         position: relative;
+        }
+    header nav.dropdown::after{content: ""; clear: both; display: block;}
+    header nav.dropdown ul.dropdown-content::after{content: ""; clear: both; display: block;}
+    header nav.dropdown ul li a{
+        
+        font-weight:400;
+        display: block; 
+        padding: 5px 10px;
+        border-radius: 5px;
+       }
+    header nav.dropdown ul li a:hover{background: #e98a17; color: white;}
+    header nav.dropdown ul li div.input-group{margin-top: 4px;}
+    header nav.dropdown ul li.sublinks:hover ul.level-2{max-height: 1000px;}
+    header nav.dropdown ul li.sublinks:hover ul.level-2{min-width: 200px}    
+    header nav.dropdown ul li .level-2 {position: absolute; max-height: 0px; overflow: hidden;}
+    header nav.dropdown ul li ul.level-2 li{float: none; max-width:30em;}
+    
+    
+}
