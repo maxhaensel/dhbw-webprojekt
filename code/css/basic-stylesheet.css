@@ -44,10 +44,32 @@ body {
 	h1{font-size: 2em}
 	h2{font-size: 1,5em}
 	h3{font-size: 1,5em;color: #8e8e8e}
-	h4{	}
-	h5{	}
-	h6{	}
+	h4{font-size: 1em}
 /* Überschriften */
+
+/* Text */
+    .standardtext {
+    line-height: normal;
+    
+}
+/* Text */
+
+/* Zitate */
+    .zitat {
+        border-left-color: gray;
+        margin-right: 3em;
+        margin-left: 3em;
+}
+/* Zitate */
+
+/* Bilder */
+    .picture-standard {
+        float: left;
+        max-width:  width: 50%;
+        height:auto;
+        border-radius: 18px;
+    }
+
 
 
 @media (min-width: 1000px){
