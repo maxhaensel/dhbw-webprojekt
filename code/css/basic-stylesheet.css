@@ -40,6 +40,16 @@ body {
     /* standard */
 /* Textfarben */
 
+/* Überschriften */
+	.h1 {font-size: 2em; 	}
+	.h2 {font-size: 1,5em}
+	.h3 {font-size: 1,5em;color: #8e8e8e;}
+	.h4 {	}
+	.h5 {	}
+	.h6 {	}
+/* Überschriften */
+
+
 @media (min-width: 1000px){
 main{width: 1000px; margin: auto;}
 }
