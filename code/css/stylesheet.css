@@ -10,6 +10,7 @@
 @import "desktop-navigation.css";
 
 /* Typbasiertescss */
+@import "kalender-picker.css";
 @import "tour-event.css";
 @import "form.css";
 @import "faq.css";

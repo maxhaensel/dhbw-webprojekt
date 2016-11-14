@@ -1,5 +1,33 @@
 .input-group button{cursor: pointer;}
-div.input-group:not(:first-child):not(:last-child){margin-bottom: 0.5em; margin-top: 0.5em}
+div.form-group:not(:first-child):not(:last-child){margin-bottom: 0.5em; margin-top: 0.5em}
+
+.datepicker{
+  position: relative;
+}
+
+.date-picker .kalenderpicker{
+  Opacity: 0;
+  overflow: hidden;
+  margin-top: 5px;
+  max-width: 100%;
+  max-height: 0px;
+  border-radius: 4px;
+  position: absolute;
+  transition: opacity .25s ease-in-out;
+ -moz-transition: opacity .25s ease-in-out;
+ -webkit-transition: opacity .25s ease-in-out;
+ -webkit-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.3);
+ -moz-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.3);
+ box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.3);
+ z-index: 5;
+}
+.date-picker:hover .kalenderpicker{
+  width: 100%;
+  max-height: 1000px;
+  transition-delay:0.3s;
+  Opacity: 1;
+
+}
 .input-group{
     width: 100%;
     position: relative;
@@ -78,10 +106,15 @@ div.input-group:not(:first-child):not(:last-child){margin-bottom: 0.5em; margin-
     -webkit-transition-duration: 0.3s;
     transition-duration: 0.3s;
     -webkit-transition-timing-function: ease-out;
-    transition-timing-function: ease-out;    
+    transition-timing-function: ease-out;
 }
 .input-group .btn-default.hover-to-top:hover{}
 .input-group .btn-default.hover-to-top:hover::before{
     -webkit-transform: scaleY(1);
     transform: scaleY(1);
+}
+.site-footer{
+  text-align: center;
+  border-top:1px solid #e8e8e8;
+  padding:15px 50px;
 }
