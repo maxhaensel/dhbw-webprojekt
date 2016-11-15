@@ -40,28 +40,17 @@ body {
     /* standard */
 /* Textfarben */
 
-/* Bilder */
-.picture-left {
-    float:left;
-    
-    padding-left: 10px;
-    padding-right: 20px;
-    padding-bottom: 15px;
-    padding-bottom: 15px;
-}
-.picture-right {
-    float:right;
-    padding: 10px 20px 15px 15px;
-}
+/* Bilder */   
+.picture-left {float:left;  padding: 15px 20px 10px 15px;}
+.picture-right {float:right;  padding: 15px 20px 10px 15px;}
 .picture-corner{border-radius: 15px;}
-.picture {
-    margin: 0;
-    border: solid black 1px;
+figcaption {
+    padding: 10px;
+    text-align: center;
 }
 /* Bilder */
 /* Überschriften */
 h1 {
-
     margin-top: 1.5em;
     margin-bottom: 1em;
 }
@@ -102,14 +91,12 @@ h6 {
     border-left: solid #444 0.2em;
     color: #444;
 }
-.link-special {
+main a {
     color: #e98a17;
     font-weight: bold;
 }
-figcaption {
-    padding: 10px;
-    text-align: center;
-}
+main a:hover{color: #5a8de2 !important;}
+
 /* Text */
 
 @media (min-width: 1000px){
