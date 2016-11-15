@@ -113,8 +113,3 @@ div.form-group:not(:first-child):not(:last-child){margin-bottom: 0.5em; margin-t
     -webkit-transform: scaleY(1);
     transform: scaleY(1);
 }
-.site-footer{
-  text-align: center;
-  border-top:1px solid #e8e8e8;
-  padding:15px 50px;
-}

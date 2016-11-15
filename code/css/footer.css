@@ -1,0 +1,8 @@
+footer{background: #222; padding-top: 2em;padding-bottom: 2em; margin-top: 3em; color: white;}
+footer p.adress, footer p.disclaimer{line-height: 1.4em;}
+footer ul.horizontal li{float: left;}
+footer ul li .fa-big{font-size: 1.7em;} 
+footer ul.horizontal li a{padding-right: 1.5em;}
+footer ul.vertikal li{padding-bottom: 0.6em;}
+footer ul li a:hover{color:#e98a17;}
+footer a.nummber{color:#5a8de2}
