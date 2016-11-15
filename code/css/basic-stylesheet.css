@@ -1,7 +1,7 @@
 *{box-sizing: border-box;}
+main{border: solid black 1px}
 body {
     font-family: 'Open Sans', Arial, sans-serif;
-    /* background: -webkit-linear-gradient(top, rgb(255,175,75) 0%,rgb(255,146,10) 100%); */
 }
 /* Hintergrundfarben */
     /* primary */
@@ -43,7 +43,7 @@ body {
 /* Bilder */
 .picture-left {
     float:left;
-    border-radius: 15px;
+    
     padding-left: 10px;
     padding-right: 20px;
     padding-bottom: 15px;
@@ -51,51 +51,39 @@ body {
 }
 .picture-right {
     float:right;
-    border-radius: 15px;
-    padding-right: 10px;
-    padding-left: 20px;
-    padding-bottom: 15px;
-    padding-top: 15px;
+    padding: 10px 20px 15px 15px;
 }
+.picture-corner{border-radius: 15px;}
 .picture {
     margin: 0;
-    border: 1px;
+    border: solid black 1px;
 }
 /* Bilder */
-
 /* Überschriften */
-.main-heading {
-    color:black;
+h1 {
+
     margin-top: 1.5em;
     margin-bottom: 1em;
-    margin-left: 1em;
 }
-.second-heading {
-    color: gray;
+h2 {
     margin-top: 1em;
     margin-bottom: 0.75em;
-    margin-left: 1em;
 }
-.third-heading {
-    color: green;
+h3 {
     margin-top: 0.75em;
     margin-bottom: 0.5em;
-    margin-left: 1em;
 }
-.fourth-heading {
+h4 {
     margin-top: 0.5em;
     margin-bottom: 0.25em;
-    margin-left: 1em;
 }
-.fifth-heading {
+h5 {
     margin-top: 0.25em;
     margin-bottom: 0.3em;
-    margin-left: 1em;
 }
-.sixth-heading {
+h6 {
     margin-top: 0.1em;
     margin-bottom: 0.1em;
-    margin-left: 1em;
 }
 /* Überschriften */
 
@@ -105,20 +93,14 @@ body {
     margin-top: 0.5em;
     margin-bottom: 0.5em;
     margin-right: 2em;
-    margin-left: 2em;
 }
 .quote {
     display: block;
-    float: right;
+    margin-left: 2em;
     padding-left: 5px;
     padding-right: 5px;
-    margin-left: 2em;
-    border-style: solid;
-    border-width: 2px;
-    border-left-color: black;
-    border-right-color: transparent;
-    border-top-color: transparent;
-    border-bottom-color: transparent;
+    border-left: solid #444 0.2em;
+    color: #444;
 }
 .link-special {
     color: #e98a17;
