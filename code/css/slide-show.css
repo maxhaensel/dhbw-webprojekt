@@ -1,0 +1,100 @@
+main figure.banner{position: relative; background: #e98a17;}
+@media (min-width: 1000px){
+    main figure.banner{height: 70vh;}
+    main figure.banner img{top:-25%;}
+}
+@media (min-width: 501px) and (max-width: 999px){
+    main figure.banner{height: 50vh;}
+    main figure.banner img{top:-15%}
+}
+@media (max-width: 500px){
+    main figure.banner{height: 35vh;}
+    main figure.banner img{top:0}
+    main .banner .text-box{padding-top: 2em;}
+    main .banner h1{font-size: 1.2em}
+    main .banner h2{font-size: 1.0em}
+}
+main figure.banner img{position: absolute; left:0; opacity: 1;}
+main figure.banner img:nth-child(2) {
+  -webkit-animation: banner-1 infinite 15s;
+          animation: banner-1 infinite 15s;}
+main figure.banner img:nth-child(3) {
+  -webkit-animation: banner-2 infinite 15s;
+          animation: banner-2 infinite 15s;}
+main figure.banner img:nth-child(4) {
+  -webkit-animation: banner-3 infinite 15s;
+          animation: banner-3 infinite 15s;}
+
+@-webkit-keyframes banner-1 {
+    50% {opacity: 1;}
+    70% {opacity: 1;}
+    75% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes banner-1 {
+    50% {opacity: 1;}
+    70% {opacity: 1;}
+    75% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@-webkit-keyframes banner-2 {
+    25% {opacity: 1;}
+    45% {opacity: 1;}
+    50% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@keyframes banner-2 {
+    25% {opacity: 1;}
+    45% {opacity: 1;}
+    50% {opacity: 0;}
+    100% {opacity: 0;}
+}
+@-webkit-keyframes banner-3 {
+    0% {opacity: 1;}
+    20% {opacity: 1;}
+    25% {opacity: 0;}
+    90% {opacity: 0;}
+    100% {opacity: 1;}
+}
+@keyframes banner-3 {
+    0% {opacity: 1;}
+    20% {opacity: 1;}
+    25% {opacity: 0;}
+    90% {opacity: 0;}
+    100% {opacity: 1;}
+}
+
+main .banner h1,main .banner h2{color:white; text-shadow: 0px 2px 3px black;}
+main .banner .text-box h1{position: relative; }
+main .banner .text-box h2{position: relative;}
+main .banner .text-box{position: absolute; left:10%; white-space: nowrap; overflow: hidden;text-overflow: ellipsis;}
+main .banner .text-box{
+  -webkit-animation: text-box-1 forwards 2s;
+          animation: text-box-1 forwards 2s;
+  -webkit-animation-timing-function: easy-out;
+          animation-timing-function: easy-out;  
+}
+@-webkit-keyframes text-box-1 {
+    0% {
+        top:100%;
+        -webkit-transform: scale(0.1) translateX(40px);
+                transform: scale(0.1) translateX(40px);
+    }
+    100%{
+        top:35%;
+        -webkit-transform: scale(1.0) translateX(0px);
+                transform: scale(1.0) translateX(0px);
+    }
+}
+@keyframes text-box-1 {
+    0% {
+        top:100%;
+        -webkit-transform: scale(0.1) translateX(40px);
+                transform: scale(0.1) translateX(40px);
+    }
+    100%{
+        top:35%;
+        -webkit-transform: scale(1.0) translateX(0px);
+                transform: scale(1.0) translateX(0px);
+    }
+}

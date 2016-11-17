@@ -1,8 +1,8 @@
-header nav .dropbtn, header .mobile-brand{ display: none;}
+header nav .dropbtn{display: none;}
 @media (max-width: 500px){
     header nav ul li {list-style: none;}
     /* Brand */
-    header .mobile-brand{
+    header .brand{
         display: block;
         width: 60%; 
         height: 50px; 
