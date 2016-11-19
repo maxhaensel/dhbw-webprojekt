@@ -6,6 +6,9 @@ a{text-decoration: none; color: inherit;}
 
 p, ul, li, figure{   
     list-style-type: none;
+    padding: 0;
+    margin: 0;
+
     -webkit-margin-before: 0;
     -webkit-margin-after: 0;
     -webkit-margin-start: 0;
