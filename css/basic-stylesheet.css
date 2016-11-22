@@ -14,9 +14,7 @@ body {
     .secondary--color--10{background-color: blue;}
     .secondary--color--20{background-color: blue;}
     /* secondary */
-    /* tertiary  */
-.purple--text--color{color:purple}
-    /* standard */
+
     .white--color{background-color: #fff;}
     .black--color{background-color: #000; !important}
     /* standard */
@@ -32,6 +30,10 @@ body {
     /* secondary */
     .secondary--text--color {color: #5a8de2; }
     /* secondary */
+
+    /* tertiary  */
+    .purple--text--color{color:purple}
+    /* standard */
 
     /* standard */
     .white--text--color{color: #fff;}
@@ -98,10 +100,9 @@ h6 {
 .quote {
     display: block;
     margin-left: 2em;
-    padding-left: 5px;
-    padding-right: 5px;
+    padding-left: 1em;
+    padding-right: 1em;
     border-left: solid #444 0.2em;
-    color: #444;
 }
 main a {
     color: #e98a17;

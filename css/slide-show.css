@@ -14,55 +14,248 @@ main figure.banner{position: relative; background: #e98a17;}
     main .banner h1{font-size: 1.2em}
     main .banner h2{font-size: 1.0em}
 }
-main figure.banner img{position: absolute; left:0; opacity: 1;}
-main figure.banner img:nth-child(2) {
-  -webkit-animation: banner-1 infinite 15s;
-          animation: banner-1 infinite 15s;}
-main figure.banner img:nth-child(3) {
-  -webkit-animation: banner-2 infinite 15s;
-          animation: banner-2 infinite 15s;}
-main figure.banner img:nth-child(4) {
-  -webkit-animation: banner-3 infinite 15s;
-          animation: banner-3 infinite 15s;}
+/* SLIDESHOW */
+banner {
+  position: relative;
+  height: 70vh;
+  overflow: hidden;
+}
+.banner img {
+  position: absolute;
+  left: 0;
+  top: -10%;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+}
+.banner img:nth-child(1) {
+  opacity: 1;
+}
+.banner img:nth-child(2) {
+  animation: slide-1 infinite 150s;
+}
+@keyframes slide-1 {
+  0% {
+    transform: scale(1.2);
+    opacity: 0;
+    filter: blur(6px);
+  }
+  1.5% {
+    transform: scale(1.5);
+    opacity: 1;
+    filter: none;
+  }
+  11.5% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.banner img:nth-child(3) {
+  animation: slide-2 infinite 150s;
+}
+@keyframes slide-2 {
+  10% {
+    transform: scale(1.2);
+    opacity: 0;
+    filter: blur(6px);
+  }
+  11.5% {
+    transform: scale(1.5);
+    opacity: 1;
+    filter: none;
+  }
+  21.5% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.banner img:nth-child(4) {
+  animation: slide-3 infinite 150s;
+}
+@keyframes slide-3 {
+  20% {
+    transform: scale(1.2);
+    opacity: 0;
+    filter: blur(6px);
+  }
+  21.5% {
+    transform: scale(1.5);
+    opacity: 1;
+    filter: none;
+  }
+  31.5% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.banner img:nth-child(5) {
+  animation: slide-4 infinite 150s;
+}
+@keyframes slide-4 {
+  30% {
+    transform: scale(1.2);
+    opacity: 0;
+    filter: blur(6px);
+  }
+  31.5% {
+    transform: scale(1.5);
+    opacity: 1;
+    filter: none;
+  }
+  41.5% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.banner img:nth-child(6) {
+  animation: slide-5 infinite 150s;
+}
+@keyframes slide-5 {
+  40% {
+    transform: scale(1.2);
+    opacity: 0;
+    filter: blur(6px);
+  }
+  41.5% {
+    transform: scale(1.5);
+    opacity: 1;
+    filter: none;
+  }
+  51.5% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.banner img:nth-child(7) {
+  animation: slide-6 infinite 150s;
+}
+@keyframes slide-6 {
+  50% {
+    transform: scale(1.2);
+    opacity: 0;
+    filter: blur(6px);
+  }
+  51.5% {
+    transform: scale(1.5);
+    opacity: 1;
+    filter: none;
+  }
+  61.5% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.banner img:nth-child(8) {
+  animation: slide-7 infinite 150s;
+}
+@keyframes slide-7 {
+  60% {
+    transform: scale(1.2);
+    opacity: 0;
+    filter: blur(6px);
+  }
+  61.5% {
+    transform: scale(1.5);
+    opacity: 1;
+    filter: none;
+  }
+  71.5% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.banner img:nth-child(9) {
+  animation: slide-8 infinite 150s;
+}
+@keyframes slide-8 {
+  70% {
+    transform: scale(1.2);
+    opacity: 0;
+    filter: blur(6px);
+  }
+  71.5% {
+    transform: scale(1.5);
+    opacity: 1;
+    filter: none;
+  }
+  81.5% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.banner img:nth-child(10) {
+  animation: slide-9 infinite 150s;
+}
+@keyframes slide-9 {
+  80% {
+    transform: scale(1.2);
+    opacity: 0;
+    filter: blur(6px);
+  }
+  81.5% {
+    transform: scale(1.5);
+    opacity: 1;
+    filter: none;
+  }
+  91.5% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.banner img:nth-child(11) {
+  animation: slide-10 infinite 150s;
+}
+@keyframes slide-10 {
+  90% {
+    transform: scale(1.2);
+    opacity: 0;
+    filter: blur(6px);
+  }
+  91.5% {
+    transform: scale(1.5);
+    opacity: 1;
+    filter: none;
+  }
+  101.5% {
+    opacity: 1;
+    transform: scale(1.2);
+  }
+  100% {
+    opacity: 0;
+  }
+}
 
-@-webkit-keyframes banner-1 {
-    50% {opacity: 1;}
-    70% {opacity: 1;}
-    75% {opacity: 0;}
-    100% {opacity: 0;}
-}
-@keyframes banner-1 {
-    50% {opacity: 1;}
-    70% {opacity: 1;}
-    75% {opacity: 0;}
-    100% {opacity: 0;}
-}
-@-webkit-keyframes banner-2 {
-    25% {opacity: 1;}
-    45% {opacity: 1;}
-    50% {opacity: 0;}
-    100% {opacity: 0;}
-}
-@keyframes banner-2 {
-    25% {opacity: 1;}
-    45% {opacity: 1;}
-    50% {opacity: 0;}
-    100% {opacity: 0;}
-}
-@-webkit-keyframes banner-3 {
-    0% {opacity: 1;}
-    20% {opacity: 1;}
-    25% {opacity: 0;}
-    90% {opacity: 0;}
-    100% {opacity: 1;}
-}
-@keyframes banner-3 {
-    0% {opacity: 1;}
-    20% {opacity: 1;}
-    25% {opacity: 0;}
-    90% {opacity: 0;}
-    100% {opacity: 1;}
-}
+
+/* SLIDESHOW */
+
+/* TEXTBOX */
+
 
 main .banner h1,main .banner h2{color:white; text-shadow: 0px 2px 3px black;}
 main .banner .text-box h1{position: relative; }
