@@ -80,7 +80,10 @@ h6 {
 }
 /* Überschriften */
 /* Schriftgrößen */
+.text--size-1,5x {font-size:1,5em;}
 .text--size--2x {font-size: 2em;}
+.text--size--2,5 {font-size:2,5em;}
+
 /* Text */
 .fa-big{font-size: 1.7em !important;}
 
