@@ -134,6 +134,7 @@ nav > ul > li:hover {
 }
 nav > ul > li:hover a {
   color: #fff;
+    border-bottom: 3px solid #e98a17
 }
 nav > ul > li:hover ul.drop-menu {
   position: absolute;
@@ -227,6 +228,10 @@ nav > ul > li:hover ul.drop-menu li:last-child {
 
 ul.drop-menu li {
   display: none;
+    
+}
+nav > ul > li:hover ul.drop-menu li a {
+  border-bottom:0px;
 }
 
 li:hover > ul.drop-menu li {

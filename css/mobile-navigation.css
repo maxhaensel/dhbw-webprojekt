@@ -66,6 +66,7 @@ header nav .dropbtn{display: none;}
     /* Dropdowncontent */
     .dropdown-content {
         max-height: 0px;
+        -webkit-transition: max-height 0.8s ease-out;
         transition: max-height 0.8s ease-out;
         overflow: hidden;
         min-width: 100vw;

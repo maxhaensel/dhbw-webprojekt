@@ -1,20 +1,18 @@
-li {
-  list-style: none;
-}
-li:last-child .box-content {
+
+.faq-list li:last-child .box-content {
   border-bottom: 1px solid #999;
 }
 
-.box-content {
+.faq-list .box-content {
   position: relative;
   border-top: 1px solid #999;
-  margin-bottom: 1em;
+  padding-bottom: 1em;
+
 }
-.box-content h2 {
-  
+.faq-list .box-content h2 {
   float: left;
 }
-.box-content input {
+.faq-list .box-content input {
   opacity: 0;
   z-index: 1;
   height: 60px;
@@ -24,7 +22,7 @@ li:last-child .box-content {
   right: 17px;
     cursor: pointer;
 }
-.box-content label.radio {
+.faq-list .box-content label.radio {
   position: absolute;
   top: 10px;
   right: 20px;
@@ -34,17 +32,16 @@ li:last-child .box-content {
   background-position: 0 -21px;
   background-image: url(http://www.wwi16a3.projekt.dhbw-heidenheim.de/pictures/arrow.png);
 }
-.box-content .clear {
+.faq-list .box-content .clear {
   clear: both;
 }
-.box-content .content {
-  max-height: 0px;
-  overflow: hidden;
+.faq-list .box-content .content {
+    max-height: 0;
+    overflow: hidden;
+    -webkit-transition:max-height 1s ease-in-out;
+    transition: max-height 1s ease-in-out;
 }
-.box-content .radio-faq:checked ~ label.radio {
-  background-position: 0 0px;
-}
-.box-content .radio-faq:checked ~ .content {
-  max-height: 700px;
-  padding: 1em;
-}
+.faq-list .box-content .radio-faq:hover ~ h2 {color: #5a8de2;}
+.faq-list .box-content .radio-faq:checked ~ h2 {color: #e98a17;}
+.faq-list .box-content .radio-faq:checked ~ label.radio {background-position: 0 0px;}
+.faq-list .box-content .radio-faq:checked ~ .content {max-height: 700px;}

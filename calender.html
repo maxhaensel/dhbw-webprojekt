@@ -1,14 +1,4 @@
 <!DOCTYPE html>
-<?php
-$_SESSION['passwort'] = $_POST["passwort"];
-$passwort = $_SESSION['passwort'];
-if($passwort != "2345!") {
-    header("Location: http://www.wwi16a3.projekt.dhbw-heidenheim.de/login.php"); 
-    exit; 
-}
-else{
-}
-?>
 <html>
   <head>
     <meta charset="utf-8">
@@ -31,10 +21,19 @@ else{
        <nav class="dropdown">
            <button class="dropbtn primary--color"><span></span></button>
             <ul class="dropdown-content level-1">
-                <li><a href="index.html" class="primary--text--color">Home</a>
-                    <ul class="drop-menu">
-                        <!--li asd-->
-                    </ul>
+                 <li><a href="index.html" class="primary--text--color active">Die Fundraising Tour</a>
+                  <ul class="drop-menu level-2">
+                    <li> <a href="about-f2a.html" class="black--text--color--80">Was ist Foot 2 Afrika</a>
+                    </li>
+                    <li> <a href="our-work.html" class="primary--text--color ">Unsere Arbeit</a>
+                    </li>
+                    <li> <a href="current-project.html" class="primary--text--color">Aktuelles Projekt</a>
+                    </li>
+                    <li> <a href="current-goal.html" class="primary--text--color">Derzeitige Ziele</a>
+                    </li>
+                    <li> <a href="how-to-help.html" class="primary--text--color">Wie kannst Du helfen?</a>
+                    </li>
+                  </ul>
                 </li>
                 <li><a href="calender.html" class="primary--text--color">Kalender</a></li>
                 <li><a href="faq.html" class="primary--text--color">FAQ</a></li>
