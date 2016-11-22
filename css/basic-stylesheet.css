@@ -44,6 +44,7 @@ body {
 main img {width: 100%; height: auto;}
 main figure{overflow: hidden;}
 main figure.articel--150{max-height:150px;}
+main figure.articel--300{max-height: 300px;}
 
 .picture-left {float:left;  padding: 15px 20px 10px 15px;}
 .picture-right {float:right;  padding: 15px 20px 10px 15px;}
@@ -120,5 +121,6 @@ main a:hover{color: #5a8de2 !important;font-weight: 600}
 @media (max-width: 500px){
     footer, section{padding-left: 15px;padding-right: 15px;}
     p{text-align: justify;}
+    .hide-xs {display: none; }
 }
 
