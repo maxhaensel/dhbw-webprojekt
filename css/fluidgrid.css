@@ -21,13 +21,17 @@ div.grid-row [class*="lg-cell-"],div.grid-row [class*="md-cell-"],div.grid-row [
     .lg-cell-10 {width: 83.23333%;}
     .lg-cell-11 {width: 91.56666%;}
     .lg-cell-12 {width: 99.99999%;}
-    .lg-cell-offset-1{margin-left: 12.49999%}
-    .lg-cell-offset-2{margin-left: 24.49999%}
-    .lg-cell-offset-3{margin-left: 36.49999%}
-    .lg-cell-offset-4{margin-left: 49.99999%}
-    .lg-cell-offset-5{margin-left: 62.49999%}
-    .lg-cell-offset-6{margin-left: 74.99999%}
-    .lg-cell-offset-7{margin-left: 87.49999%}
+    .lg-cell-offset-1{margin-left: 8.233333%;}
+    .lg-cell-offset-2{margin-left: 16.56666%;}
+    .lg-cell-offset-3{margin-left: 24.99999%;}
+    .lg-cell-offset-4{margin-left: 33.23333%;}
+    .lg-cell-offset-5{margin-left: 41.56666%;}
+    .lg-cell-offset-6{margin-left: 49.99999%;}
+    .lg-cell-offset-7{margin-left: 58.23333%;}
+    .lg-cell-offset-8{margin-left: 66.56666%;}
+    .lg-cell-offset-9{margin-left: 74.99999%;}
+    .lg-cell-offset-10{margin-left: 83.23333%;}
+    .lg-cell-offset-11{margin-left: 99.99999%;}
     }
 @media (min-width: 501px) and (max-width: 999px){
     /* Gridfallback für lg auf allen lg-cell spaces */
