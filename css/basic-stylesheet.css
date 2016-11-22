@@ -14,7 +14,8 @@ body {
     .secondary--color--10{background-color: blue;}
     .secondary--color--20{background-color: blue;}
     /* secondary */
-
+    /* tertiary  */
+.purple--text--color{color:purple}
     /* standard */
     .white--color{background-color: #fff;}
     .black--color{background-color: #000; !important}
@@ -78,7 +79,8 @@ h6 {
     margin-bottom: 0.1em;
 }
 /* Überschriften */
-
+/* Schriftgrößen */
+.text--size--2x {font-size: 2em;}
 /* Text */
 .fa-big{font-size: 1.7em !important;}
 
