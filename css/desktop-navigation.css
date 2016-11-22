@@ -72,6 +72,7 @@
       margin: 0;
       display: inline-block;
       position: relative;
+      z-index: 1;
     }
     nav > ul:after, nav > ul:before {
       background: red;
