@@ -68,8 +68,7 @@ nav > ul > li a {
   padding: 20px 35px;
 }
 nav > ul > li .active {
-  background: #e98a17;
-  color: #fff;
+  border-bottom: 3px solid
 }
 nav > ul > li:nth-child(1) {
   animation-name: level_1;
@@ -144,6 +143,7 @@ nav > ul > li:hover ul.drop-menu {
   padding: 0;
 }
 nav > ul > li:hover ul.drop-menu li {
+  border-bottom: 1px solid #ccc;
   background: #e6e6e6;
   opacity: 0;
   -webkit-box-shadow: 0px 2px 4px #333;
