@@ -1,0 +1,395 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+     <link rel="icon" type="image/png" href=pictures/titellogo.png />
+      <link rel="stylesheet" href="css/stylesheet.css">
+    <title>Foot to Africa - Fundraising Tour Deutschland</title>
+
+  </head>
+  <body>
+      <header class="desktop-center">
+          <!--------------------------- Brand --------------------------->
+           <div class="brand">
+               <figure>
+                   <a href="index.html"><img src="pictures/logo.png"></a>
+               </figure>
+           </div>
+          <!--------------------------- Brand --------------------------->
+          <!--------------------------- Navigation --------------------------->
+       <nav class="dropdown">
+           <button class="dropbtn primary--color"><span></span></button>
+            <ul class="dropdown-content level-1">
+                 <li><a href="index.html" class="primary--text--color">Die Fundraising Tour</a>
+                  <ul class="drop-menu">
+                    <li> <a href="about-f2a.html" class="black--text--color--80">Was ist Foot 2 Afrika</a>
+                    </li>
+                    <li> <a href="our-work.html" class="primary--text--color">Unsere Arbeit</a>
+                    </li>
+                    <li> <a href="current-project.html" class="primary--text--color">Aktuelles Projekt</a>
+                    </li>
+                    <li> <a href="current-goal.html" class="primary--text--color">Derzeitige Ziele</a>
+                    </li>
+                    <li> <a href="how-to-help.html" class="primary--text--color">Wie kannst Du helfen?</a>
+                    </li>
+                  </ul>
+                </li>
+                <li><a href="calender.html" class="primary--text--color">Kalender</a></li>
+                <li><a href="faq.html" class="primary--text--color">FAQ</a></li>
+                <li><a href="kontakt.html" class="primary--text--color">Kontakt</a></li>
+           </ul>
+        </nav>
+      </header>
+      <main>
+          <div class="grid-row desktop-center">
+              <div class="lg-cell-12">
+                <div class="lg-cell-12"><h1 class="primary--text--color"> Kontaktformular </h1></div>
+          	<form id="kontaktformular" name="kontaktformular" action="">
+              </div>
+              
+              
+              <div class="lg-cell-12">Anrede
+               <div >
+                  <label class="primary--text--color">Anrede:</label>
+                  <fieldset>
+                    <input type="radio" id="mc" name="Geschlecht" value="Frau" required>
+                    <label for="mc"> Frau</label>
+                    <br>
+                    <input type="radio" id="vi" name="Geschlecht" value="Herr" required>
+                    <label for="vi"> Herr</label>
+                    <br>
+                  </fieldset>
+              </div>
+                  
+                  
+              <div class="lg-cell-6">L vorname  straße plz land
+                  <div>
+                <label class="primary--text--color" for="Vorname">Vorname:</label>
+                <input  type="text" id="Vorname" name="Vorname" required/>
+              </div>
+                
+                <div>
+            <label class="primary--text--color" for="Straße">Straße:</label>
+            <input type="text" id="Straße" name="Straße" />
+          </div>
+                
+                <div>
+            <label class="primary--text--color" for="PLZ">PLZ:</label>
+            <input type="text" id="PLZ" name="PLZ" />
+          </div> 
+                
+                <form action="#">
+		<label class="primary--text--color">Land:
+			<select name="land">
+        <option>Bitte Auswahl treffen</option>
+				<option>Takatukaland</option>
+				<option>Jupiter</option>
+				<option>Buxtehude</option>
+				<option>Ibiza</option>
+				<option>Kartoffelland</option>
+			</select>
+		</label>
+	</form> 
+              </div>
+                  
+                  
+              <div class="lg-cell-6">R nachname hausnummer stadt
+                  <div>
+                <label class="primary--text--color" for="Nachname">Nachname:</label>
+                <input type="text" id="Nachname" name="Nachname" required/>
+              </div>
+                
+          <div>
+            <label class="primary--text--color" for="Hausnummer">Hausnummer</label>
+            <input type="text" id="Hausnummer" name="Hausnummer" />
+          </div>
+                
+                
+                <div>
+            <label class="primary--text--color" for="Stadt">Stadt:</label>
+            <input type="text" id="Stadt" name="Stadt" />
+          </div>
+              </div>
+                  
+              <div class="lg-cell-12">
+              <div class="lg-cell-6">email
+                <div>
+                <label class="primary--text--color" for="absender">Ihre E-Mail-Adresse:</label>
+                <input type="text" id="absender" name="absender" required/>
+                </div>   
+              </div>
+              <div class="lg-cell-6">telefon
+                  <div>
+                    <label class="primary--text--color" for="Nummer">Mobiltelefonnummer:</label>
+                    <input type="text" id="Nummer" name="Nummer" />
+                  </div> 
+              </div>
+              </div>
+              <div class="lg-cell-6">Anliegen Nachricht
+                
+                  <div>
+                  <form action="#">
+                    <label class="primary--text--color" for="absender">Bitte wählen Sie Ihr Anliegen (Mehrfachauswahl möglich):</label>
+                    <fieldset>
+                      <ul>
+                        <li>
+                          <label>
+                            <input type="checkbox" name="anliegen" value="newsletter" id="check1">Newsletter</label>
+                        </li>
+                        <li>
+                          <label>
+                            <input type="checkbox" name="anliegen" value="infom" id="check2">Infomaterial anfordern</label>
+                        </li>
+                        <li>
+                          <label for="check3">
+                            <input type="checkbox" name="anliegen" value="kontaktaufnahme" id="check3">Kontaktaufnahme</label>
+                        </li>
+                      </ul>
+                    </fieldset>
+                  </form>  
+                      </div>
+                  
+                  <div>
+            <p class="primary--text--color">Ihre persönliche Nachricht an uns:
+            </div>
+          <div>
+
+            <textarea id="nachricht" name="nachricht" cols="50" rows="10"></textarea>
+          </div>
+          <div>
+            <input type="submit" value="Abschicken" />
+          </div>
+              </div>
+              <div class="lg-cell-6">Kontaktfoto?!
+                  <img src="/pictures/kontaktfoto.png" alt="kontaktfoto"> 
+              </div>
+          </div>
+
+       <!-- <div class="grid-row desktop-center">
+          <div class="lg-cell-12"><h1 class="primary--text--color"> Kontaktformular </h1></div>
+          	<form id="kontaktformular" name="kontaktformular" action="">
+
+
+                
+              <div >
+                  <label class="primary--text--color">Anrede:</label>
+                  <fieldset>
+                    <input type="radio" id="mc" name="Geschlecht" value="Frau" required>
+                    <label for="mc"> Frau</label>
+                    <br>
+                    <input type="radio" id="vi" name="Geschlecht" value="Herr" required>
+                    <label for="vi"> Herr</label>
+                    <br>
+                  </fieldset>
+
+
+
+
+
+            <div class="lg-cell-6 ">
+                
+              <div>
+                <label class="primary--text--color" for="Vorname">Vorname:</label>
+                <input  type="text" id="Vorname" name="Vorname" required/>
+              </div>
+                
+                <div>
+            <label class="primary--text--color" for="Straße">Straße:</label>
+            <input type="text" id="Straße" name="Straße" />
+          </div>
+                
+                <div>
+            <label class="primary--text--color" for="PLZ">PLZ:</label>
+            <input type="text" id="PLZ" name="PLZ" />
+          </div> 
+                
+                <form action="#">
+		<label class="primary--text--color">Land:
+			<select name="land">
+        <option>Bitte Auswahl treffen</option>
+				<option>Takatukaland</option>
+				<option>Jupiter</option>
+				<option>Buxtehude</option>
+				<option>Ibiza</option>
+				<option>Kartoffelland</option>
+			</select>
+		</label>
+	</form>
+              
+                
+            </div>
+
+
+
+                  
+                  
+                  
+                  
+            <div class="lg-cell-6">
+              <div>
+                <label class="primary--text--color" for="Nachname">Nachname:</label>
+                <input type="text" id="Nachname" name="Nachname" required/>
+              </div>
+                
+          <div>
+            <label class="primary--text--color" for="Hausnummer">Hausnummer</label>
+            <input type="text" id="Hausnummer" name="Hausnummer" />
+          </div>
+                
+                
+                <div>
+            <label class="primary--text--color" for="Stadt">Stadt:</label>
+            <input type="text" id="Stadt" name="Stadt" />
+          </div>
+                
+                
+              
+
+                
+              
+            </div>
+                  
+                  <div class="lg-cell-12">
+                  
+                    <div class="lg-cell-6">
+                      
+                        
+                          <div>
+            <label class="primary--text--color" for="absender">Ihre E-Mail-Adresse:</label>
+            <input type="text" id="absender" name="absender" required/>
+          </div>
+                        links
+                      
+                      
+                      </div>
+                      
+                      
+                    <div class="lg-cell-6">
+                      
+                        
+                          <div>
+            <label class="primary--text--color" for="Nummer">Mobiltelefonnummer:</label>
+            <input type="text" id="Nummer" name="Nummer" />
+          </div>
+                      rechts
+                      
+                      
+                      </div>
+                      
+                      
+                      
+                      
+                      
+                      
+                      
+                  </div>
+                  
+          </form>
+
+
+
+
+
+
+
+
+
+         
+          
+         
+          
+
+	
+
+
+          
+          
+        </div> -->
+
+
+       <!--   <div class="grid-row desktop-center">
+          <div class="lg-cell-6">
+
+
+
+          <form action="#">
+            <label class="primary--text--color" for="absender">Bitte wählen Sie Ihr Anliegen (Mehrfachauswahl möglich):</label>
+            <fieldset>
+              <ul>
+                <li>
+                  <label>
+                    <input type="checkbox" name="anliegen" value="newsletter" id="check1">Newsletter</label>
+                </li>
+                <li>
+                  <label>
+                    <input type="checkbox" name="anliegen" value="infom" id="check2">Infomaterial anfordern</label>
+                </li>
+                <li>
+                  <label for="check3">
+                    <input type="checkbox" name="anliegen" value="kontaktaufnahme" id="check3">Kontaktaufnahme</label>
+                </li>
+              </ul>
+            </fieldset>
+          </form>
+          <div>
+            <p class="primary--text--color">Ihre persönliche Nachricht an uns:
+            </div>
+          <div>
+
+            <textarea id="nachricht" name="nachricht" cols="50" rows="10"></textarea>
+          </div>
+          <div>
+            <input type="submit" value="Abschicken" />
+          </div>
+              
+              
+                        <div class="grid-row desktop-center">
+                        <div class="lg-cell-6">
+                            
+                        <img src="kontaktfoto.png" alt="Kontaktfoto"> 
+     
+</div>
+</div>
+</div>
+</div> -->
+
+
+
+      </main>
+
+     <footer>
+          <div class="grid-row desktop-center">
+            <div class="lg-cell-4 md-cell-3 sm-cell-3">
+                <div class="lg-cell-12">
+                <ul class="horizontal link-list">
+                    <li><a href="https://www.facebook.com/MoshiYouthVillage/"><i class="fa fa-big fa-facebook" aria-hidden="true"></i></a></li>
+                    <li><a href="https://twitter.com/foot2afrka"><i class="fa fa-big fa-twitter" aria-hidden="true"></i></a></li>
+                    <li><a href="mailto:adventuresafari@gmail.com"><i class="fa fa-big fa-envelope-o" aria-hidden="true"></i></a></li>
+                </ul>
+                </div>
+                <div class="lg-cell-12">
+                <p class="adress">
+                P.O. Box 6898<br>Moshi, Kilimanjaro<br>Tanzania - East Africa<br>director@foot2afrika.com<br>
+                    <a class="nummber" href="tel:+255 027 2754538">+255 027 2754538</a></p>
+                </div>
+            </div>
+            <div class="lg-cell-4 md-cell-3 sm-cell-3">
+
+                  <ul class="vertikal link-list">
+                    <li><a href="#"><i class="fa fa-big fa-github" aria-hidden="true"></i> Github</a></li>
+                    <li><a href="#"><i class="fa fa-big fa-cc" aria-hidden="true"></i> Creative Commons</a></li>
+                    <li><a href="#"><i class="fa fa-big fa-envelope-o" aria-hidden="true"></i> lala</a></li>
+                </ul>
+
+            </div>
+            <div class="lg-cell-4 md-cell-6 sm-cell-3">
+                <p class="disclaimer">Foot2Afrika is a certified Tanzanian <br>
+                    non-governmental organization, NGO #004310.
+                </p>
+            </div>
+          </div>
+      </footer>
+  </body>
+
+</html>
