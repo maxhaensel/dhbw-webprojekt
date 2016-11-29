@@ -1,7 +1,7 @@
 .kalenderpicker{
 /*    width: 100%;*/
-    position: relative;
-
+position: relative;
+ z-index: 3;
 }
 /* Month header */
 .month {
@@ -68,10 +68,30 @@
     color:#777;
     text-align: center;
 }
+.inactivedays {
+    padding: 5px;
+  /*  background: #ddd ;*/
+    margin: 0;
+    color:#D3d3d3   !important;
+    
+}
+
+.inactivedays li {
+    list-style-type: none;
+    display: inline-block;
+    width: 13%;
+    text-align: center;
+    margin-bottom: 0px;
+    margin: 0px;
+    font-size:12px;
+    color:ghostwhite !important;
+    text-align: center;
+}
 
 /* Highlight the "current" day */
 .days li .active {
     padding: 5px;
-    background: #e98a17;
+    background: #e98a17(0,5);
+    background-color:rgba(245,138,31,0.3);
     color: white !important
 }
