@@ -1,4 +1,5 @@
 <style type="text/css">
+
 .form-style-2{
     max-width: 500px;
     padding: 20px 12px 10px 20px;
@@ -62,6 +63,7 @@
     height:100px;
     width: 55%;
 }
+
 .form-style-2 input[type=submit],
 .form-style-2 input[type=button]{
     border: none;
