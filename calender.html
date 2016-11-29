@@ -1,4 +1,14 @@
 <!DOCTYPE html>
+<?php
+$_SESSION['passwort'] = $_POST["passwort"];
+$passwort = $_SESSION['passwort'];
+if($passwort != "2345!") {
+    header("Location: http://www.wwi16a3.projekt.dhbw-heidenheim.de/login.php"); 
+    exit; 
+}
+else{
+}
+?>
 <html>
   <head>
     <meta charset="utf-8">
@@ -13,7 +23,7 @@
           <!--------------------------- Brand --------------------------->
            <div class="brand">
                <figure>
-                   <a href="index.html"><img src="pictures/logo.png" alt="Das Logo der Organisation Foot2Afrika"></a>
+                   <a href="index.html"><img src="pictures/logo.png"></a>
                </figure>
            </div>
           <!--------------------------- Brand --------------------------->
@@ -21,21 +31,12 @@
        <nav class="dropdown">
            <button class="dropbtn primary--color"><span></span></button>
             <ul class="dropdown-content level-1">
-                 <li><a href="index.html" class="primary--text--color active">Die Fundraising Tour</a>
-                  <ul class="drop-menu level-2">
-                    <li> <a href="about-f2a.html" class="primary--text--color">Was ist Foot 2 Afrika</a>
-                    </li>
-                    <li> <a href="our-work.html" class="primary--text--color ">Unsere Arbeit</a>
-                    </li>
-                    <li> <a href="current-project.html" class="primary--text--color">Aktuelles Projekt</a>
-                    </li>
-                    <li> <a href="current-goal.html" class="primary--text--color">Derzeitige Ziele</a>
-                    </li>
-                    <li> <a href="how-to-help.html" class="primary--text--color">Wie kannst Du helfen?</a>
-                    </li>
-                  </ul>
+                <li><a href="index.html" class="primary--text--color">Home</a>
+                    <ul class="drop-menu">
+                        <!--li asd-->
+                    </ul>
                 </li>
-                <li><a href="calender.html" class="black--text--color--80 active">Kalender</a></li>
+                <li><a href="calender.html" class="primary--text--color">Kalender</a></li>
                 <li><a href="faq.html" class="primary--text--color">FAQ</a></li>
                 <li><a href="kontakt.html" class="primary--text--color">Kontakt</a></li>
            </ul>
@@ -64,8 +65,8 @@
                           <li class="prev">❮</li>
                           <li class="next">❯</li>
                           <li style="text-align:center">
-                            August<br>
-                            <span style="font-size:18px">2016</span>
+                            Januar<br>
+                            <span style="font-size:18px">2017</span>
                           </li>
                         </ul>
                       </div>
@@ -80,30 +81,36 @@
                           <li>Su</li>
                         </ul>
 
-                        <ul class="days">
-                          <li>1</li>
+                       <ul class="days">
+                          <li><span class="inactivedays">26</span></li>
+                          <li><span class="inactivedays">27</span></li>
+                          <li><span class="inactivedays">28</span></li>
+                          <li><span class="inactivedays">29</span></li>
+                          <li><span class="inactivedays">30</span></li>
+                          <li><span class="inactivedays">31</span></li>
+                          <li><span class="active">01</span></li>
                           <li>2</li>
                           <li>3</li>
                           <li>4</li>
                           <li>5</li>
                           <li>6</li>
                           <li>7</li>
-                          <li>8</li>
+                          <li><span class="active">08</span></li>
                           <li>9</li>
-                          <li><span class="active">10</span></li>
+                          <li>10</li>
                           <li>11</li>
                           <li>12</li>
                           <li>13</li>
                           <li>14</li>
-                          <li>15</li>
+                          <li><span class="active">15</span></li>
                           <li>16</li>
                           <li>17</li>
                           <li>18</li>
                           <li>19</li>
-                          <li>20</li>
+                          <li><span class="active">20</span></li>
                           <li>21</li>
                           <li>22</li>
-                          <li>23</li>
+                          <li><span class="active">23</span></li>
                           <li>24</li>
                           <li>25</li>
                           <li>26</li>
@@ -112,6 +119,11 @@
                           <li>29</li>
                           <li>30</li>
                           <li>31</li>
+                          <li><span class="inactivedays">1</span></li>
+                          <li><span class="inactivedays">2</span></li>
+                          <li><span class="inactivedays">3</span></li>
+                          <li><span class="inactivedays">4</span></li>
+                          <li><span class="inactivedays">5</span></li>
                         </ul>
                     </div>
                 </div>
@@ -127,8 +139,8 @@
                         <li class="prev">❮</li>
                         <li class="next">❯</li>
                         <li style="text-align:center">
-                          August<br>
-                          <span style="font-size:18px">2016</span>
+                          Januar<br>
+                          <span style="font-size:18px">2017</span>
                         </li>
                       </ul>
                     </div>
@@ -144,38 +156,49 @@
                       </ul>
 
                       <ul class="days">
-                        <li>1</li>
-                        <li>2</li>
-                        <li>3</li>
-                        <li>4</li>
-                        <li>5</li>
-                        <li>6</li>
-                        <li>7</li>
-                        <li>8</li>
-                        <li>9</li>
-                        <li><span class="active">10</span></li>
-                        <li>11</li>
-                        <li>12</li>
-                        <li>13</li>
-                        <li>14</li>
-                        <li>15</li>
-                        <li>16</li>
-                        <li>17</li>
-                        <li>18</li>
-                        <li>19</li>
-                        <li>20</li>
-                        <li>21</li>
-                        <li>22</li>
-                        <li>23</li>
-                        <li>24</li>
-                        <li>25</li>
-                        <li>26</li>
-                        <li>27</li>
-                        <li>28</li>
-                        <li>29</li>
-                        <li>30</li>
-                        <li>31</li>
-                      </ul>
+                          <li><span class="inactivedays">26</span></li>
+                          <li><span class="inactivedays">27</span></li>
+                          <li><span class="inactivedays">28</span></li>
+                          <li><span class="inactivedays">29</span></li>
+                          <li><span class="inactivedays">30</span></li>
+                          <li><span class="inactivedays">31</span></li>
+                          <li><span class="active">01</span></li>
+                          <li>2</li>
+                          <li>3</li>
+                          <li>4</li>
+                          <li>5</li>
+                          <li>6</li>
+                          <li>7</li>
+                          <li><span class="active">08</span></li>
+                          <li>9</li>
+                          <li>10</li>
+                          <li>11</li>
+                          <li>12</li>
+                          <li>13</li>
+                          <li>14</li>
+                          <li><span class="active">15</span></li>
+                          <li>16</li>
+                          <li>17</li>
+                          <li>18</li>
+                          <li>19</li>
+                          <li><span class="active">20</span></li>
+                          <li>21</li>
+                          <li>22</li>
+                          <li><span class="active">23</span></li>
+                          <li>24</li>
+                          <li>25</li>
+                          <li>26</li>
+                          <li>27</li>
+                          <li>28</li>
+                          <li>29</li>
+                          <li>30</li>
+                          <li>31</li>
+                          <li><span class="inactivedays">1</span></li>
+                          <li><span class="inactivedays">2</span></li>
+                          <li><span class="inactivedays">3</span></li>
+                          <li><span class="inactivedays">4</span></li>
+                          <li><span class="inactivedays">5</span></li>
+                        </ul>
                   </div>
               </div>
 
@@ -196,7 +219,7 @@
                       </div>
 
                       <div class="event event-content white--color">
-                          <figure class="picture"><img src="pictures/DHBW_Heidenheim.jpg" alt="Die DHBW in Heidenheim"></figure>
+                          <figure class="picture"><img src="pictures/DHBW_Heidenheim.jpg"></figure>
                           <p class="black--text--color--80">
                               Die Duale Hochschule Baden-Württemberg Heidenheim (Baden-Wuerttemberg Cooperative State University) ist einer der Standorte der Dualen Hochschule Baden-Württemberg. Sie wurde im Jahr 1976 als Außenstelle der Berufsakademie Stuttgart mit 38 Studierenden, davon 15 im Studienbereich Technik und 23 im Bereich Wirtschaft, gegründet. Sie war nach den Gründungen in den Wirtschaftszentren Mannheim und Stuttgart im Jahr 1974 und nach Einrichtung einer Berufsakademie-Außenstelle in Villingen-Schwenningen im Jahr 1975 die zweite Berufsakademie außerhalb der Ballungszentren. Seit dem 1. Oktober 1979 war die Berufsakademie Heidenheim selbständig. Zum 1. März 2009 wurde sie Teil der Dualen Hochschule Baden-Württemberg.
                           </p>

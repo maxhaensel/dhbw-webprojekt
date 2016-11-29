@@ -1,6 +1,6 @@
 .kalenderpicker{
 /*    width: 100%;*/
-    position: relative;
+position: relative;
 
 }
 /* Month header */
@@ -66,6 +66,25 @@
     margin-bottom: 5px;
     font-size:12px;
     color:#777;
+    text-align: center;
+}
+.inactivedays {
+    padding: 5px;
+  /*  background: #ddd ;*/
+    margin: 0;
+    color:#D3d3d3   !important;
+    
+}
+
+.inactivedays li {
+    list-style-type: none;
+    display: inline-block;
+    width: 13%;
+    text-align: center;
+    margin-bottom: 0px;
+    margin: 0px;
+    font-size:12px;
+    color:ghostwhite !important;
     text-align: center;
 }
 

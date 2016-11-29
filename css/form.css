@@ -6,6 +6,7 @@ div.form-group:not(:first-child):not(:last-child){margin-bottom: 0.5em; margin-t
 }
 
 .date-picker .kalenderpicker{
+  position: relative;    
   Opacity: 0;
   overflow: hidden;
   max-width: 100%;
