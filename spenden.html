@@ -54,12 +54,11 @@
                         </td>
                     </tr>
                     <div class="form-style-2">
+                        
                         <tr>
-                            <td class="primary--text--color"><span>Betrag </span>
-                               <!-- <p>Betrag: </p> -->
-                            </td>
+                            <td class="primary--text--color">Betrag </td>
                             <td class="spalte_right">
-                                <input type="number" class="euro_field" name="quantity" min="1.00" placeholder="1" step="0.50"> Euro </td>
+                                <input type="number" class="formular_field" name="quantity" min="1.00" placeholder="1" step="0.50" autofocus> Euro </td>
                         </tr>
                     </div>
                 </table>
@@ -98,17 +97,17 @@
                             
                             <td class="primary--text--color"> Vorname* </td>
                             <td class="spalte_right">
-                                <input type="text" class=formular_field placeholder="Vorname" autofocus required="required"> </td>
+                                <input type="text" class=formular_field placeholder="Vorname" required> </td>
                         </tr>
                         <tr>
                             <td class="primary--text--color"> Nachname* </td>
                             <td class="spalte_right">
-                                <input type="text" class="formular_field" placeholder="Nachname" required="required"> </td>
+                                <input type="text" class="formular_field" placeholder="Nachname" required> </td>
                         </tr>
                         <tr>
                             <td class="primary--text--color"> E-Mail* </td>
                             <td class="spalte_right">
-                                <input class="formular_field" placeholder="email@example.com" required="required"> </td>
+                                <input class="formular_field" placeholder="email@example.com" required> </td>
                         </tr>
                         <tr>
                             <td class="primary--text--color"> Telefon </td>
@@ -129,7 +128,7 @@
                         <input type="checkbox" name="Zahltabelle" checked>
                         <div class="checkWrap"></div>
                         <div class="text">
-                            <input type="radio" id="mc" name="Zahlmethode" value="Mastercard" required="required" checked>
+                            <input type="radio" id="mc" name="Zahlmethode" value="Mastercard" checked>
                             <label for="mc"> Mastercard</label>
                             <br>
                             <input type="radio" id="vi" name="Zahlmethode" value="Visa">
@@ -144,22 +143,22 @@
                                     <tr>
                                         <td class="primary--text--color"> Karteninhaber </td>
                                         <td class="spalte_right">
-                                            <input type="text" class="formular_field" placeholder="Karteninhaber" required="required"> </td>
+                                            <input type="text" class="formular_field" placeholder="Karteninhaber" required> </td>
                                     </tr>
                                     <tr>
                                         <td class="primary--text--color"> Kartennummer </td>
                                         <td class="spalte_right">
-                                            <input type="number" class="formular_field" placeholder="Kartennummer" required="required"> </td>
+                                            <input type="number" class="formular_field" placeholder="Kartennummer" required> </td>
                                     </tr>
                                     <tr>
                                         <td class="primary--text--color"> Ablaufdatum </td>
                                         <td class="spalte_right">
-                                            <input type="date" class="formular_field" placeholder="Ablaufdatum" required="required"> </td>
+                                            <input type="date" class="formular_field" placeholder="Ablaufdatum" required> </td>
                                     </tr>
                                     <tr>
                                         <td class="primary--text--color"> Sicherheitscode </td>
                                         <td class="spalte_right">
-                                            <input type="number" class="formular_field" placeholder="Sicherheitscode" min="111" max="999" required="required"> </td>
+                                            <input type="number" class="formular_field" placeholder="Sicherheitscode" min="111" max="999" required> </td>
                                     </tr>
                             </table>
                         </div>
@@ -179,12 +178,12 @@
                                     <tr>
                                         <td class="primary--text--color"> Account Nummer </td>
                                         <td class="spalte_right">
-                                            <input type="number" class="formular_field" placeholder="Account Nummer" required="required"> </td>
+                                            <input type="number" class="formular_field" placeholder="Account Nummer" required> </td>
                                     </tr>
                                     <tr>
-                                        <td class="primary--text--color"> Retype Account# </td>
+                                        <td class="primary--text--color"> Acc.Nr. wiederholen </td>
                                         <td class="spalte_right">
-                                            <input type="text" class="formular_field" placeholder="Retype Account#" required="required"> </td>
+                                            <input type="text" class="formular_field" placeholder="Account Nummer wiederholen" require> </td>
                                     </tr>
                                     <tr>
                                         <td class="primary--text--color"> Account Typ </td>
@@ -209,6 +208,13 @@
                                         <td class="spalte_right">
                                             <input type="number" class="formular_field" placeholder="Check Nummer" min="111" max="999" required="required"> </td>
                                     </tr>
+                                    <tr>
+                                    <td>
+                                    <div class="form-style-2">    
+                                    <input type="submit" value="Abschicken" />
+                                    </div>    
+                                   </td>
+                                    </tr>
                             </table>
                         </div>
                 </ul>
@@ -216,39 +222,6 @@
         </div>
        
         <!---------------------------------------------------- HTML ausm netzt --------------------------------------------->
-        <div class="form-style-2">
-            <div class="form-style-2-heading">Provide your information</div>
-            <div class="lg-cell-6">
-                <form action="" method="post">
-                    <label class="primary--text--color" for="field1"><span>Name <span class="required">*</span></span>
-                        <input type="text" class="input-field" name="field1" value="" /> </label>
-            </div>
-            </form>
-            <div class="lg-cell-6">
-                <form action="" method="post">
-                    <label class="primary--text--color" for="field1"><span>Name <span class="required">*</span></span>
-                        <input type="text" class="input-field" name="field1" value="" /> </label>
-            </div>
-            </form>
-            <label for="field2"><span>Email <span class="required">*</span></span>
-                <input type="text" class="input-field" name="field2" value="" /> </label>
-            <label><span>Telephone</span>
-                <input type="text" class="tel-number-field" name="tel_no_1" value="" maxlength="4" />-
-                <input type="text" class="tel-number-field" name="tel_no_2" value="" maxlength="4" />-
-                <input type="text" class="tel-number-field" name="tel_no_3" value="" maxlength="10" /> </label>
-            <label for="field4"><span>Regarding</span>
-                <select name="field4" class="select-field">
-                    <option value="General Question">General</option>
-                    <option value="Advertise">Advertisement</option>
-                    <option value="Partnership">Partnership</option>
-                </select>
-            </label>
-            <label for="field5"><span>Message <span class="required">*</span></span>
-                <textarea name="field5" class="textarea-field"></textarea>
-            </label>
-            <label><span>&nbsp;</span>
-                <input type="submit" value="Submit" /> </label>
-        </div>
     </main>
     <footer>
         <div class="grid-row desktop-center">
