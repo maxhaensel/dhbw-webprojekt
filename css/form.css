@@ -6,6 +6,7 @@ div.form-group:not(:first-child):not(:last-child){margin-bottom: 0.5em; margin-t
 }
 
 .date-picker .kalenderpicker{
+  position: relative;    
   Opacity: 0;
   overflow: hidden;
   max-width: 100%;
@@ -18,7 +19,7 @@ div.form-group:not(:first-child):not(:last-child){margin-bottom: 0.5em; margin-t
  -webkit-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.3);
  -moz-box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.3);
  box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.3);
- z-index: 5;
+ z-index: 2;
 }
 .date-picker:hover .kalenderpicker{
   width: 100%;
@@ -32,6 +33,7 @@ div.form-group:not(:first-child):not(:last-child){margin-bottom: 0.5em; margin-t
     position: relative;
     display: table;
     border-collapse: separate;
+    z-index: 1;
 }
 .input-group-addon{
     padding: 6px 12px;

@@ -1,0 +1,286 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" type="image/png" href=pictures/titellogo.png />
+    <link rel="stylesheet" href="css/stylesheet.css">
+    <title>Foot to Africa - Fundraising Tour Deutschland</title>
+</head>
+
+<body>
+    <header class="desktop-center">
+        <!--------------------------- Brand --------------------------->
+        <div class="brand">
+            <figure>
+                <a href="index.html"><img src="pictures/logo.png"></a>
+            </figure>
+        </div>
+        <!--------------------------- Brand --------------------------->
+        <!--------------------------- Navigation --------------------------->
+        <nav class="dropdown">
+            <button class="dropbtn primary--color"><span></span></button>
+            <ul class="dropdown-content level-1">
+                <li><a href="index.html" class="primary--text--color">Die Fundraising Tour</a>
+                    <ul class="drop-menu">
+                        <li> <a href="about-f2a.html" class="black--text--color--80">Was ist Foot 2 Afrika</a> </li>
+                        <li> <a href="our-work.html" class="primary--text--color">Unsere Arbeit</a> </li>
+                        <li> <a href="current-project.html" class="primary--text--color">Aktuelles Projekt</a> </li>
+                        <li> <a href="current-goal.html" class="primary--text--color">Derzeitige Ziele</a> </li>
+                        <li> <a href="how-to-help.html" class="primary--text--color">Wie kannst Du helfen?</a> </li>
+                    </ul>
+                </li>
+                <li><a href="calender.html" class="primary--text--color">Kalender</a></li>
+                <li><a href="faq.html" class="primary--text--color">FAQ</a></li>
+                <li><a href="kontakt.html" class="primary--text--color">Kontakt</a></li>
+                 <li><a href="spenden.html" class="primary--text--color">Spenden</a></li>
+            </ul>
+        </nav>
+    </header>
+    <main>
+        <div class="grid-row desktop-center">
+            <div class="lg-cell-6 lg-cell-offset-3">
+                <div class="spendeformular">
+                    <h1 class="primary--text--color"> Spendenformular </h1></div>
+                <table class="tabelle">
+                    <tr>
+                        <td class="primary--text--color">Wie oft?</td>
+                        <td class="schrift_anrede spalte_right">
+                            <input type="radio" id="ei" name="Spendemethode" value="Einmalig" required="required" checked>
+                            <label for="ei"> Einmalig</label>
+                            <input type="radio" id="mo" name="Spendemethode" value="Monatlich">
+                            <label for="mo"> Monatlich</label>
+                        </td>
+                    </tr>
+                    <div class="form-style-2">
+                        <tr>
+                            <td class="primary--text--color"><span>Betrag </span>
+                               <!-- <p>Betrag: </p> -->
+                            </td>
+                            <td class="spalte_right">
+                                <input type="number" class="euro_field" name="quantity" min="1.00" placeholder="1" step="0.50">€</td>
+                        </tr>
+                    </div>
+                </table>
+                <div class="form-style-2">
+                    <h2>Ihre persönlichen Angaben</h2>
+                    <br> </div>
+                <table class="tabelle">
+                    <tr>
+                        <td class="primary--text--color"> Anrede* </td>
+                        <td class="schrift_anrede spalte_right">
+                            <input type="radio" id="m" name="Anrede" value="m" required="required" checked>
+                            <label for="ei"> Herr</label>
+                            <input type="radio" id="w" name="Anrede" value="w">
+                            <label for="mo"> Frau</label>
+                        </td>
+                    </tr>
+                    <tr>
+                        <div class="form-style-2">
+                            <td class="primary--text--color"> Titel </td>
+                            <td class="spalte_right">
+                                <select class="select_field">
+                                    <option value="" selected="selected"></option>
+                                    <option value="Dr.">Dr.</option>
+                                    <option value="Dr. med.">Dr. med.</option>
+                                    <option value="Dr. med. dent.">Dr. med. dent.</option>
+                                    <option value="Prof.">Prof.</option>
+                                    <option value="Prof. Dr.">Prof. Dr.</option>
+                                    <option value="Prof. Dr. med.">Prof. Dr. med.</option>
+                                </select>
+                            </td>
+                        </div>
+                    </tr>
+                    <div class="form-style-2">
+                        <tr>
+                               
+                            
+                            <td class="primary--text--color"> Vorname* </td>
+                            <td class="spalte_right">
+                                <input type="text" class=formular_field placeholder="Vorname" autofocus required="required"> </td>
+                        </tr>
+                        <tr>
+                            <td class="primary--text--color"> Nachname* </td>
+                            <td class="spalte_right">
+                                <input type="text" class="formular_field" placeholder="Nachname" required="required"> </td>
+                        </tr>
+                        <tr>
+                            <td class="primary--text--color"> E-Mail* </td>
+                            <td class="spalte_right">
+                                <input class="formular_field" placeholder="email@example.com" required="required"> </td>
+                        </tr>
+                        <tr>
+                            <td class="primary--text--color"> Telefon </td>
+                            
+                            <td class="spalte_right">
+                                <input type="telefon" class="formular_field" placeholder="Telefonnummer"> </td>
+                            <tr>
+                                <td class="primary--text--color" colspan=2>mit* markierte Felder sind Pflichtfelder!</td>
+                            </tr>
+                    </div>
+                </table>
+                <br>
+                <h3>Geben Sie Ihre Zahlungsweise an:</h3>
+                <br>
+                <ul id="infoList">
+                    <li>
+                        <div class="primary--text--color">credit card</div>
+                        <input type="checkbox" name="Zahltabelle" checked>
+                        <div class="checkWrap"></div>
+                        <div class="text">
+                            <input type="radio" id="mc" name="Zahlmethode" value="Mastercard" required="required" checked>
+                            <label for="mc"> Mastercard</label>
+                            <br>
+                            <input type="radio" id="vi" name="Zahlmethode" value="Visa">
+                            <label for="vi"> Visa</label>
+                            <br>
+                            <input type="radio" id="ae" name="Zahlmethode" value="AmericanExpress">
+                            <label for="ae"> American Express</label>
+                            <br>
+                            <br>
+                            <table class="tabelle">
+                                <tr>
+                                    <tr>
+                                        <td class="primary--text--color"> Karteninhaber </td>
+                                        <td class="spalte_right">
+                                            <input type="text" class="formular_field" placeholder="Karteninhaber" required="required"> </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="primary--text--color"> Kartennummer </td>
+                                        <td class="spalte_right">
+                                            <input type="number" class="formular_field" placeholder="Kartennummer" required="required"> </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="primary--text--color"> Ablaufdatum </td>
+                                        <td class="spalte_right">
+                                            <input type="date" class="formular_field" placeholder="Ablaufdatum" required="required"> </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="primary--text--color"> Sicherheitscode </td>
+                                        <td class="spalte_right">
+                                            <input type="number" class="formular_field" placeholder="Sicherheitscode" min="111" max="999" required="required"> </td>
+                                    </tr>
+                            </table>
+                        </div>
+                    </li>
+                    <br>
+                    <li>
+                        <div class="primary--text--color">eCheck</div>
+                        <input type="checkbox" name "Zahltabelle">
+                        <div class="text">
+                            <table class="tabelle">
+                                <tr>
+                                    <tr>
+                                        <td class="primary--text--color"> Routing Nummer </td>
+                                        <td class="spalte_right">
+                                            <input type="text" class="formular_field" placeholder="Routing Nummer" required="required"> </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="primary--text--color"> Account Nummer </td>
+                                        <td class="spalte_right">
+                                            <input type="number" class="formular_field" placeholder="Account Nummer" required="required"> </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="primary--text--color"> Retype Account# </td>
+                                        <td class="spalte_right">
+                                            <input type="text" class="formular_field" placeholder="Retype Account#" required="required"> </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="primary--text--color"> Account Typ </td>
+                                        <td class="spalte_right">
+                                            <select class="select_field">
+                                                <option value="Checking Account">Checking Account</option>
+                                                <option value="Saving Account">Saving Account</option>
+                                            </select>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="primary--text--color"> Check Typ </td>
+                                        <td class="spalte_right">
+                                            <select class="select_field">
+                                                <option value="Persönlich">Persönlich</option>
+                                                <option value="Firma">Firma</option>
+                                            </select>
+                                        </td>
+                                    </tr>
+                                    <tr>
+                                        <td class="primary--text--color"> Check Nummer </td>
+                                        <td class="spalte_right">
+                                            <input type="number" class="formular_field" placeholder="Check Nummer" min="111" max="999" required="required"> </td>
+                                    </tr>
+                            </table>
+                        </div>
+                </ul>
+            </div>
+        </div>
+       
+        <!---------------------------------------------------- HTML ausm netzt --------------------------------------------->
+        <div class="form-style-2">
+            <div class="form-style-2-heading">Provide your information</div>
+            <div class="lg-cell-6">
+                <form action="" method="post">
+                    <label class="primary--text--color" for="field1"><span>Name <span class="required">*</span></span>
+                        <input type="text" class="input-field" name="field1" value="" /> </label>
+            </div>
+            </form>
+            <div class="lg-cell-6">
+                <form action="" method="post">
+                    <label class="primary--text--color" for="field1"><span>Name <span class="required">*</span></span>
+                        <input type="text" class="input-field" name="field1" value="" /> </label>
+            </div>
+            </form>
+            <label for="field2"><span>Email <span class="required">*</span></span>
+                <input type="text" class="input-field" name="field2" value="" /> </label>
+            <label><span>Telephone</span>
+                <input type="text" class="tel-number-field" name="tel_no_1" value="" maxlength="4" />-
+                <input type="text" class="tel-number-field" name="tel_no_2" value="" maxlength="4" />-
+                <input type="text" class="tel-number-field" name="tel_no_3" value="" maxlength="10" /> </label>
+            <label for="field4"><span>Regarding</span>
+                <select name="field4" class="select-field">
+                    <option value="General Question">General</option>
+                    <option value="Advertise">Advertisement</option>
+                    <option value="Partnership">Partnership</option>
+                </select>
+            </label>
+            <label for="field5"><span>Message <span class="required">*</span></span>
+                <textarea name="field5" class="textarea-field"></textarea>
+            </label>
+            <label><span>&nbsp;</span>
+                <input type="submit" value="Submit" /> </label>
+        </div>
+    </main>
+    <footer>
+        <div class="grid-row desktop-center">
+            <div class="lg-cell-4 md-cell-3 sm-cell-3">
+                <div class="lg-cell-12">
+                    <ul class="horizontal link-list">
+                        <li><a href="https://www.facebook.com/MoshiYouthVillage/"><i class="fa fa-big fa-facebook" aria-hidden="true"></i></a></li>
+                        <li><a href="https://twitter.com/foot2afrka"><i class="fa fa-big fa-twitter" aria-hidden="true"></i></a></li>
+                        <li><a href="mailto:adventuresafari@gmail.com"><i class="fa fa-big fa-envelope-o" aria-hidden="true"></i></a></li>
+                    </ul>
+                </div>
+                <div class="lg-cell-12">
+                    <p class="adress"> P.O. Box 6898
+                        <br>Moshi, Kilimanjaro
+                        <br>Tanzania - East Africa
+                        <br>director@foot2afrika.com
+                        <br> <a class="nummber" href="tel:+255 027 2754538">+255 027 2754538</a></p>
+                </div>
+            </div>
+            <div class="lg-cell-4 md-cell-3 sm-cell-3">
+                <ul class="vertikal link-list">
+                    <li><a href="#"><i class="fa fa-big fa-github" aria-hidden="true"></i> Github</a></li>
+                    <li><a href="#"><i class="fa fa-big fa-cc" aria-hidden="true"></i> Creative Commons</a></li>
+                    <li><a href="#"><i class="fa fa-big fa-envelope-o" aria-hidden="true"></i> lala</a></li>
+                </ul>
+            </div>
+            <div class="lg-cell-4 md-cell-6 sm-cell-3">
+                <p class="disclaimer">Foot2Afrika is a certified Tanzanian
+                    <br> non-governmental organization, NGO #004310. </p>
+            </div>
+        </div>
+    </footer>
+</body>
+
+</html>
