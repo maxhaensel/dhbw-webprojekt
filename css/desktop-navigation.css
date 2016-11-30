@@ -40,6 +40,7 @@ nav > ul {
 nav > ul:after, nav > ul:before {
   float: left;
   display: block;
+  width: 30%;
   top: 50%;
   border-top: solid 1px #eee;
   position: absolute;
