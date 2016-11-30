@@ -40,8 +40,10 @@
     overflow: hidden;
     -webkit-transition:max-height 1s ease-in-out;
     transition: max-height 1s ease-in-out;
+    padding-right: 2em;
 }
-.faq-list .box-content .radio-faq:hover ~ h2 {color: #5a8de2;}
-.faq-list .box-content .radio-faq:checked ~ h2 {color: #e98a17;}
+.faq-list .box-content .radio-faq:hover ~ h3 {color: #5a8de2;}
+.faq-list .box-content .radio-faq:checked ~ h3 {color: #e98a17;}
 .faq-list .box-content .radio-faq:checked ~ label.radio {background-position: 0 0px;}
 .faq-list .box-content .radio-faq:checked ~ .content {max-height: 700px;}
+
