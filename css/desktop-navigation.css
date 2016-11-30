@@ -40,17 +40,17 @@ nav > ul {
 nav > ul:after, nav > ul:before {
   float: left;
   display: block;
-  width: 70%;
+  width: 35%;
   top: 50%;
   border-top: solid 1px #eee;
   position: absolute;
   content: "";
 }
 nav > ul:after {
-  left: -70%;
+  left: -40%;
 }
 nav > ul:before {
-  right: -70%;
+  right: -40%;
 }
 nav > ul > li {
   margin: 0 0.5em;
