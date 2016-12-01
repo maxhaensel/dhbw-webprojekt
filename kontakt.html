@@ -50,20 +50,22 @@
 <!-- Main -->
 <main>
     <div class="grid-row desktop-center">
-        <div class="lg-cell-7">
+        <div class="lg-cell-12">
             <h1 class="primary--text--color">Kontaktformular</h1>
             
             <!-- Formular -->
             <form class="kontakt" name="kontaktformular" action="">
                 
                 <!-- Andrede -->
-                <div class="input-group">
+                <div class="input-group select-radio">
                     <h4 class="black--text--color--80">Anrede*</h4>
                     <fieldset>
                         <input type="radio" name="gender" value="Frau" required>
-                        <label for="gender-woman">Frau</label>
+                        <label for="gender-woman" class="primary--text--color">Frau</label>
+                    </fieldset>
+                    <fieldset>
                         <input type="radio" name="gender" value="Herr" required>
-                        <label for="gender-men">Herr</label>
+                        <label for="gender-men" class="primary--text--color">Herr</label>
                     </fieldset>
                 </div>
                 <!-- Andrede -->
@@ -134,27 +136,37 @@
                 <div class="input-group">
                     <h4 class="black--text--color--80">Bitte wählen Sie Ihr Anliegen* (Mehrfachauswahl möglich):</h4>
                     
-                    <label class="primary--text--color" for="newsletter">Newsletter</label>
-                    <input type="checkbox" name="newsletter" value="">
+                    <div class="lg-cell-2">
+                        <input type="checkbox" name="newsletter" value="">
+                        <label class="primary--text--color" for="newsletter">Newsletter</label>
+                    </div>
                     
-                    <label class="primary--text--color" for="info">Infomaterial anfordern</label>
-                    <input type="checkbox" name="info" value="info">
+                    <div class="lg-cell-2">
+                        <input type="checkbox" name="info" value="info">
+                        <label class="primary--text--color" for="info">Infomaterial anfordern</label>
+                    </div>
                     
-                    <label class="primary--text--color" for="working">Mitarbeit</label>
-                    <input type="checkbox" name="working" value="working">
-                    
-                    <label class="primary--text--color" for="tour">Foot2Afrika Deutschland Tour</label>
-                    <input type="checkbox" name="tour" value="tour">
-                    
-                    <label class="primary--text--color" for="sonstiges">Sonstiges</label>
-                    <input type="checkbox" name="sonstiges" value="sonstiges">
+                    <div class="lg-cell-2">        
+                        <input type="checkbox" name="working" value="working">
+                        <label class="primary--text--color" for="working">Mitarbeit</label>
+                    </div>
+
+                    <div class="lg-cell-2">        
+                        <input type="checkbox" name="tour" value="tour">
+                        <label class="primary--text--color" for="tour">Foot2Afrika Deutschland Tour</label>
+                    </div>
+
+                    <div class="lg-cell-2">    
+                        <input type="checkbox" name="sonstiges" value="sonstiges">
+                        <label class="primary--text--color" for="sonstiges">Sonstiges</label>
+                    </div>
                 </div>
                 <!-- Anliegen -->
                 
                 <!-- Telefonnummer -->
                 <div class="input-group">
                     <label class="primary--text--color" for="message">Ihre persönliche Nachricht an uns:</label> 
-                    <textarea name="message" cols="127" rows="10"></textarea>
+                    <textarea name="message" cols="" rows=""></textarea>
                 </div>
                 <!-- Telefonnummer -->
                 

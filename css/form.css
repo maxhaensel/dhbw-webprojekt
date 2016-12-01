@@ -211,3 +211,75 @@ form.kontakt .input-group.select-field label{
 }
 
 /* RADIO-Buttons */
+form.kontakt .input-group.select-radio fieldset{
+    position: relative;
+    float: left;
+    padding:1em 2em 1em 34px;
+    border: none;
+    margin-left: 1em;
+}
+form.kontakt .input-group.select-radio input[type=radio]{
+    position: absolute;
+    left:0;
+    top: 14px;
+    height: 26px;
+    width: 26px;
+}
+form.kontakt .input-group.select-radio input[type=radio]:before{
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    background: #fff;
+    height: 18px;
+    width: 18px;
+    display: block;
+    border: 4px solid #e98a17;
+    border-radius: 100%;
+}
+form.kontakt .input-group.select-radio input[type=radio]:after{
+    position: absolute;
+    top: 8px;
+    left: 8px;
+    content: "";
+    background: #5a8de2;
+    height: 10px;
+    width: 10px;
+    display: block;
+    border-radius: 100%;
+    opacity: 0;
+}
+form.kontakt .input-group.select-radio input[type=radio]:checked:after{
+    perspective: 1000px;
+    animation-name: radio;
+    animation-duration: 800ms;
+    animation-timing-function: easy-in-out;
+    animation-fill-mode: forwards;
+}
+
+@keyframes radio {
+  0% {
+    opacity: 0;
+    transform: scale(0.2);
+  }
+  70% {
+      opacity: 1;
+    transform: scale(3.6);
+  }
+  100% {
+    opacity: 0.8;
+    transform: scale(1);
+  }
+}
+/* Absenden-Buttons */
+
+form.kontakt input[type="submit"]{
+    width: 100%;
+    padding: .3em;
+    font-size: 1em;
+    margin: .5em 0;
+    background: #e98a17;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
