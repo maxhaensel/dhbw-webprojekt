@@ -1,240 +1,227 @@
 <!DOCTYPE html>
 <html>
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="icon" type="image/png" href=pictures/titellogo.png />
-    <link rel="stylesheet" href="css/stylesheet.css">
-    <title>Foot to Africa - Fundraising Tour Deutschland</title>
-</head>
-
+    <!--Head -->  
+    <head>
+        <meta charset="utf-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1">
+        <link rel="icon" type="image/png" href=pictures/titellogo.png />
+        <link rel="stylesheet" href="css/stylesheet.css">
+        <title>Foot to Africa - Fundraising Tour Deutschland</title>
+    </head>
+    <!--Head -->  
+    
 <body>
-    <header class="desktop-center">
-        <!--------------------------- Brand --------------------------->
-        <div class="brand">
-            <figure>
-                <a href="index.html"><img src="pictures/logo.png"></a>
-            </figure>
-        </div>
-        <!--------------------------- Brand --------------------------->
-        <!--------------------------- Navigation --------------------------->
-        <nav class="dropdown">
-            <button class="dropbtn primary--color"><span></span></button>
-            <ul class="dropdown-content level-1">
-                <li><a href="index.html" class="primary--text--color">Die Fundraising Tour</a>
-                    <ul class="drop-menu">
-                        <li> <a href="about-f2a.html" class="black--text--color--80">Was ist Foot 2 Afrika</a> </li>
-                        <li> <a href="our-work.html" class="primary--text--color">Unsere Arbeit</a> </li>
-                        <li> <a href="current-project.html" class="primary--text--color">Aktuelles Projekt</a> </li>
-                        <li> <a href="current-goal.html" class="primary--text--color">Derzeitige Ziele</a> </li>
-                        <li> <a href="how-to-help.html" class="primary--text--color">Wie kannst Du helfen?</a> </li>
-                    </ul>
-                </li>
-                <li><a href="calender.html" class="primary--text--color">Kalender</a></li>
-                <li><a href="faq.html" class="primary--text--color">FAQ</a></li>
-                <li><a href="kontakt.html" class="primary--text--color active">Kontakt</a></li>
-                 <li><a href="spenden.html" class="primary--text--color">Spenden</a></li>
-            </ul>
-        </nav>
-    </header>
-    <!------------------------- Start Main ---------------------------------->
-    <main>
     
-        <div class="grid-row desktop-center">
-            <div class="lg-cell-12"> </div>
-                
-                    <div class="lg-cell-4 lg-cell-offset-4">
-                        <h1 class="primary--text--color"> Kontaktformular </h1>
-                        <form id="kontaktformular" name="kontaktformular" action=""></form>
-                            
-            </div>
-                        
-            
-                   
-<!---------------------------------- Anrede ---------------------------------->
-        <form>
-    <div class="lg-cell-12">
-        <div class="form-style-2">
-            <label class="primary--text--color">Anrede*</label>
-        </div>
-                        
-            <input type="radio" id="mc" name="Geschlecht" value="Frau" required>
-            <label for="mc"> Frau</label>
-            <input type="radio" id="vi" name="Geschlecht" value="Herr" required>
-            <label for="vi"> Herr</label>
-                                </div>
-                    
-<div class="form-style-2">
-    <div class="lg-cell-6">
-        <label class="primary--text--color" for="abc"></label>
-                
-<!------------------------------------- Vorname --------------------------------->
-    <div>
-        <label class="primary--text--color" for="Vorname">
-            <span>Vorname*</span>
-        </label> 
-            <input c type="text" class="input-field" placeholder="Max" name="Vorname" value="" required /> 
-    </div>                             
-                            
- <!----------------------------------- Straße --------------------------------------->
-                
-    <label  class="primary--text--color" for="Straße">
-        <span>Straße*</span>
-    </label> 
-        <input type="text" class="input-field" placeholder="Beispielstraße"  name="Straße" value="" required>
-                       
- <!----------------------------------------- PLZ -------------------------------------->
-                
-    <label class="primary--text--color"  for="PLZ">
-        <span>PLZ*</span>
-    </label>
-        <input type="text" class="input-field" placeholder="12345" name="PLZ" value="" required > 
-                                 
-    <!----------------------------------- Land: Dropdown ------------------------------------>
-                         
-    <label class="primary--text--color" for="Land" >
-        <span>Land*</span>
-    </label> 
-            <select name="Land" class="select-field">
-                <option value="Deutschland">Deutschland</option>
-                <option value="Italien">Italien</option>
-                <option value="Mazedonien">Mazedonien</option>
-                <option value="Spanien">Spanien</option>
-                <option value="Türkei">Türkei</option>
-            </select>
-                            
-    <!--------------------------------- Email ---------------------------------------->
-                    
-    <label class="primary--text--color" for="Email">
-        <span>Email*</span>
-    </label>
-            <input type="email" placeholder="max.mustermann@provider.de" class="input-field" name="Email" value="" required /> 
-            
-    <!------------------------------------- Hinweis zu Pflichtfeldern --------------------------------->
-    <br>
-    <br>
-        <h6 class="primary--text--color"> Die mit einem * markierten Felder sind Pflichtfelder! </h6>
-        </div>
-            <div class="lg-cell-6">
-    <!------------------------------------------ Nachname -------------------------------------------->
+<!--Header -->    
+<header class="desktop-center">
     
-    <label class="primary--text--color" for="Nachname">
-        <span>Name*</span>
-    </label>
-            <input type="text" class="input-field" placeholder="Mustermann" name="Nachname" value="" required /> 
-                        
-    <!----------------------------------------- Hausnummer --------------------------------------->
+    <!--Brand -->
+    <div class="brand">
+       <figure>
+           <a href="index.html"><img src="pictures/logo.png" alt="Das Logo der Organisation Foot2Afrika"></a>
+       </figure>
+    </div>
+    <!-- Brand -->
+    
+    <!-- Navigation -->
+    <nav class="dropdown">
+        <button class="dropbtn primary--color"><span></span></button>
+        <ul class="dropdown-content level-1">
+            <li><a href="index.html" class="primary--text--color">Die Fundraising Tour</a>
+                <ul class="drop-menu level-2">
+                    <li> <a href="about-f2a.html" class="primary--text--color">Was ist Foot 2 Afrika</a> </li>
+                    <li> <a href="our-work.html" class="primary--text--color">Unsere Arbeit</a> </li>
+                    <li> <a href="current-project.html" class="primary--text--color">Aktuelles Projekt</a> </li>
+                    <li> <a href="current-goal.html" class="primary--text--color">Derzeitige Ziele</a> </li>
+                    <li> <a href="how-to-help.html" class="primary--text--color">Wie kannst Du helfen?</a> </li>
+                </ul>
+            </li>
+            <li><a href="calender.html" class="primary--text--color">Kalender</a></li>
+            <li><a href="faq.html" class="primary--text--color">FAQ</a></li>
+            <li><a href="kontakt.html" class="primary--text--color active">Kontakt</a></li>
+             <li><a href="spenden.html" class="primary--text--color">Spenden</a></li>
+        </ul>
+    </nav>
+    <!-- Navigation -->
+    
+</header>
+<!--Header -->
+    
+<!-- Main -->
+<main>
+    <div class="grid-row desktop-center">
+        <div class="lg-cell-7">
+            <h1 class="primary--text--color">Kontaktformular</h1>
             
-    <label class="primary--text--color" for="Hausnummer">
-        <span>Hausnr.*</span>
-    </label>
-            <input type="text" class="input-field" placeholder="1050" name="Hausnummer" value="" required />
-                        
-    <!----------------------------------------- Stadt ------------------------------------------->
-                        
-    <label class="primary--text--color" for="Stadt">
-        <span>Stadt*</span>
-    </label>
-            <input type="text" class="input-field" placeholder="Heidenheim" name="Stadt" value="" required />
-                        
-    <!--------------------------------------- TelefonNR. ------------------------------------->
-                    
-    <label class="primary--text--color" for="Telefon">
-        <span>Telefon*</span>
-    </label>
-            <input type="tel" class="input-field" placeholder="+49 176 12345678" Name="Telefon" value="" required />
+            <!-- Formular -->
+            <form class="kontakt" id="kontaktformular" name="kontaktformular" action="">
                 
-    <!--------------------------------------- new Fluidgrid ----------------------------------->
-    </div>
-        <div class="lg-cell-12">
-            <div class="lg-cell-6"> </div>
-                <div class="lg-cell-6"> </div>        <!-- Max fragen            ???  -->
-        </div>
-                <div class="lg-cell-12">
-     <!------------------------------- Anliegen: Checkbox ------------------------------------------->
-    <div>
-        <form action="#">
-            <label class="primary--text--color" for="absender">Bitte wählen Sie Ihr Anliegen* (Mehrfachauswahl möglich):</label>
-                <ul>
-                    <li>
-                        <label>
-                            <input type="checkbox" name="anliegen" value="news" id="check1">Newsletter</label>
-                    </li>
-                    <li>
-                        <label>
-                            <input type="checkbox" name="anliegen" value="info" id="check2">Infomaterial anfordern</label>
-                    </li>
-                    <li>
-                        <label>
-                            <input type="checkbox" name="anliegen" value="mitarbeit" id="check3">Mitarbeit</label>
-                    </li>
-                    <li>
-                        <label>
-                            <input type="checkbox" name="anliegen" value="tour" id="check4">Foot2Afrika Deutschland Tour</label>
-                    </li>
-                     <li>
-                        <label>
-                            <input type="checkbox" name="anliegen" value="sonstiges" id="check5">Sonstiges</label>
-                    </li>
-                </ul>
-        </form>
-    </div>
-    <!--------------------------------- Nachrichtenfeld ----------------------------------------->
-    <div>
-        <p class="primary--text--color">Ihre persönliche Nachricht an uns: </div>
-            <div>
-                <textarea id="nachricht" name="nachricht" cols="127" rows="10"></textarea>
-            </div>
-    <!------------------------------------ Absenden: Button --------------------------------------->
-    <div>
-        <input type="submit" value="Abschicken" /> 
-    </div>
-                   
-                    </div>
+                <!-- Andrede -->
+                <div class="input-group">
+                    <h4>Anrede*</h4>
+                    <fieldset>
+                        <input type="radio" name="gender-woman" value="Frau" required>
+                        <label for="gender-woman">Frau</label>
+                        <input type="radio" name="gender-men" value="Herr" required>
+                        <label for="gender-men">Herr</label>
+                    </fieldset>
                 </div>
-        </form>
-          
- </main>
+                <!-- Andrede -->
+                
+                <!-- Vorname -->
+                <div class="input-group text-field">
+                    <input type="text" class="" placeholder="" name="prename" value="" required>
+                    <label class="primary--text--color " for="prename">Vorname*</label>
+                </div>
+                <!-- Vorname -->
+                
+                <!-- Nachname -->
+                <div class="input-group text-field">
+                    <input type="text" class="" placeholder="" name="surname" value="" required>
+                    <label class="primary--text--color" for="surname">Nachname*</label> 
+                </div>
+                <!-- Nachname -->
+                
+                <!-- Straße -->
+                <div class="input-group text-field">
+                    <input type="text" class="" placeholder="" name="street" value="" required>
+                    <label class="primary--text--color" for="street">Straße*</label> 
+                </div>
+                <!-- Straße -->
+                
+                 <!-- Hausnummer -->
+                <div class="input-group text-field">
+                    <input type="text" class="text-field" placeholder="" name="housenumber" value="" required>
+                    <label class="primary--text--color" for="housenumber">Hausnr.*</label> 
+                </div>
+                <!-- Hausnummer -->
+                
+  
+                
+                <!-- PLZ -->
+                <div class="input-group text-field">
+                    <input type="text" class="" placeholder="" name="postcode" value="" required>
+                    <label class="primary--text--color" for="postcode">PLZ*</label> 
+                </div>
+                <!-- PLZ -->
+                
+                <!-- Land -->
+                <div class="input-group select-field">
+                    <label class="primary--text--color" for="land">Land*</label> 
+                    <select name="land" class="" value="">
+                        <option value="Deutschland">Deutschland</option>
+                        <option value="Italien">Italien</option>
+                        <option value="Mazedonien">Mazedonien</option>
+                        <option value="Spanien">Spanien</option>
+                        <option value="Türkei">Türkei</option>
+                    </select>
+                </div>
+                <!-- Land -->
+                
+                <!-- e-Mail -->
+                <div class="input-group text-field">
+                    <input type="text" class="" placeholder="" name="mail" value="" required>
+                    <label class="primary--text--color" for="mail">E-Mail*</label> 
+                </div>
+                <!-- e-Mail -->
+                 
+                <!-- Telefonnummer -->
+                <div class="input-group text-field">
+                    <input type="text" class="" placeholder="" name="telenumber" value="" required>
+                    <label class="primary--text--color" for="telenumber">Telefon*</label> 
+                </div>
+                <!-- Telefonnummer -->
+                
+                <!-- Anliegen -->
+                <div class="input-group">
+                    <h4>Bitte wählen Sie Ihr Anliegen* (Mehrfachauswahl möglich):</h4>
+                    
+                    <label class="primary--text--color" for="newsletter">Newsletter</label>
+                    <input type="checkbox" name="newsletter" value="">
+                    
+                    <label class="primary--text--color" for="info">Infomaterial anfordern</label>
+                    <input type="checkbox" name="info" value="info">
+                    
+                    <label class="primary--text--color" for="working">Mitarbeit</label>
+                    <input type="checkbox" name="working" value="working">
+                    
+                    <label class="primary--text--color" for="tour">Foot2Afrika Deutschland Tour</label>
+                    <input type="checkbox" name="tour" value="tour">
+                    
+                    <label class="primary--text--color" for="sonstiges">Sonstiges</label>
+                    <input type="checkbox" name="sonstiges" value="sonstiges">
+                </div>
+                <!-- Anliegen -->
+                
+                <!-- Telefonnummer -->
+                <div class="input-group">
+                    <label class="primary--text--color" for="message">Ihre persönliche Nachricht an uns:</label> 
+                    <textarea name="message" cols="127" rows="10"></textarea>
+                </div>
+                <!-- Telefonnummer -->
+                
+                <!-- Absenden -->
+                <div class="input-group">
+                    <input type="submit" value="Abschicken">
+                </div>
+                <!-- Absenden -->
+   
+                <h6 class="primary--text--color"> Die mit einem * markierten Felder sind Pflichtfelder! </h6>
+                
+            </form>
+            <!-- Formular -->
+        </div>
+    </div>
+</main>
+<!-- Main -->
             
-     <!-------------------------------------- Footer -------------------------------------------------->     
-   <footer>
-        <div class="grid-row desktop-center">
-            <div class="lg-cell-4 md-cell-3 sm-cell-3">
-                <div class="lg-cell-12">
-                    <ul class="horizontal link-list">
-                        <li><a href="https://www.facebook.com/MoshiYouthVillage/"><i class="fa fa-big fa-facebook" aria-hidden="true"></i></a></li>
-                        <li><a href="https://twitter.com/foot2afrka"><i class="fa fa-big fa-twitter" aria-hidden="true"></i></a></li>
-                        <li><a href="mailto:adventuresafari@gmail.com"><i class="fa fa-big fa-envelope-o" aria-hidden="true"></i></a></li>
-                    </ul>
-                </div>
-                <div class="lg-cell-12">
-                    <p class="adress"> P.O. Box 6898
-                        <br>Moshi, Kilimanjaro
-                        <br>Tanzania - East Africa
-                        <br>director@foot2afrika.com
-                        <br> <a class="nummber" href="tel:+255 027 2754538">+255 027 2754538</a></p>
-                </div>
-            </div>
-            <div class="lg-cell-4 md-cell-3 sm-cell-3">
-                <ul class="vertikal link-list">
-                    <li>
-                        <a href="https://github.com/maexdontcha/dhbw-webprojekt"> <i class="fa fa-big fa-github" aria-hidden="true"></i> Github</a>
-                    </li>
-                    <li>
-                        <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/"> <i class="fa fa-big fa-cc" aria-hidden="true"></i> Creative Commons</a>
-                    </li>
-                    <li>
-                        <a href="mailto:haenselm.wwi16@student.dhbw-heidenheim.de"> <i class="fa fa-big fa-envelope-o" aria-hidden="true"></i>Email</a>
-                    </li>
-                </ul>
-            </div>
-            <div class="lg-cell-4 md-cell-6 sm-cell-3">
-                <p class="disclaimer">Foot2Afrika is a certified Tanzanian
-                    <br> non-governmental organization, NGO #004310. </p>
-            </div>
-        </div>
-    </footer>
-</body>
 
+<!--Footer -->       
+<footer>
+    <div class="grid-row desktop-center">
+        <div class="lg-cell-4 md-cell-3 sm-cell-3">
+            <div class="lg-cell-12">
+                <ul class="horizontal link-list">
+                    <li><a href="https://www.facebook.com/MoshiYouthVillage/"><i class="fa fa-big fa-facebook" aria-hidden="true"></i></a></li>
+                    <li><a href="https://twitter.com/foot2afrka"><i class="fa fa-big fa-twitter" aria-hidden="true"></i></a></li>
+                    <li><a href="mailto:adventuresafari@gmail.com"><i class="fa fa-big fa-envelope-o" aria-hidden="true"></i></a></li>
+                </ul>
+            </div>
+            <div class="lg-cell-12">
+                <p class="adress"> P.O. Box 6898
+                    <br>Moshi, Kilimanjaro
+                    <br>Tanzania - East Africa
+                    <br>director@foot2afrika.com
+                    <br> <a class="nummber" href="2550272754538">tel.: +255 027 2754538</a></p>
+            </div>
+        </div>
+        <div class="lg-cell-4 md-cell-3 sm-cell-3">
+            <ul class="vertikal link-list">
+                <li>
+                    <a href="https://github.com/maexdontcha/dhbw-webprojekt">
+                        <i class="fa fa-big fa-github" aria-hidden="true"></i> Github
+                    </a>
+                </li>
+                <li>
+                    <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">
+                        <i class="fa fa-big fa-cc" aria-hidden="true"></i> Creative Commons
+                    </a>
+                </li>
+                <li>
+                    <a href="mailto:haenselm.wwi16@student.dhbw-heidenheim.de">
+                        <i class="fa fa-big fa-envelope-o" aria-hidden="true"></i> E-Mail
+                    </a>
+                </li>
+            </ul>
+        </div>
+        <div class="lg-cell-4 md-cell-6 sm-cell-3">
+            <p class="disclaimer">
+                Foot2Afrika is a certified Tanzanian non-governmental organization, NGO #004310.
+            </p>
+        </div>
+    </div>
+</footer>
+<!--Footer --> 
+      
+</body>
 </html>
