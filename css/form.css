@@ -143,9 +143,9 @@ form.kontakt .input-group.text-field label{
     font-size: 1em;
     width: 100%;
     -webkit-transition: all 1s;
-    transition: all 1s;
-    
+    transition: all 1s; 
 }
+
 form.kontakt .input-group.text-field label:after{
     content: "";
     display: block;
@@ -199,3 +199,15 @@ form.kontakt .input-group.select-field select option{
     font-size: 1em;
     border-bottom: 1px solid #333;
 }
+
+form.kontakt .input-group.select-field label{
+    display: block;
+    padding-left: 1em;
+    font-size: 1em;
+    position: absolute;
+    top: 0;
+    -webkit-transition: all 1s;
+    transition: all 1s; 
+}
+
+/* RADIO-Buttons */

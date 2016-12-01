@@ -4,7 +4,7 @@ body{
 }
 a{text-decoration: none; color: inherit;}
 
-p, ul, li, figure{   
+p, ul, li, figure,fieldset {   
     list-style-type: none;
     padding: 0;
     margin: 0;
