@@ -145,6 +145,7 @@ nav > ul > li:hover ul.drop-menu {
 }
 nav > ul > li:hover ul.drop-menu li {
   border-bottom: 1px solid #ccc;
+  
   background: #e6e6e6;
   opacity: 0;
   -webkit-box-shadow: 0px 2px 4px #333;
@@ -152,10 +153,14 @@ nav > ul > li:hover ul.drop-menu li {
   box-shadow: 0px 2px 4px #333;
 }
 nav > ul > li:hover ul.drop-menu li a {
+  border-left: 3px solid #e6e6e6;
+  border-right: 3px solid #e6e6e6;
+    }    
+nav > ul > li:hover ul.drop-menu li a {
   color: #4d4d4d;
 }
 nav > ul > li:hover ul.drop-menu li .active {
-  border-left: 4px solid #e98a17;
+  border-left: 3px solid #e98a17;
 }
 nav > ul > li:hover ul.drop-menu li:nth-child(1) {
   animation-name: level_2;
@@ -219,7 +224,7 @@ nav > ul > li:hover ul.drop-menu li:nth-child(7) {
     transform: scale(1) translateY(0px) rotateX(0deg);
   }
 }
-nav > ul > li:hover ul.drop-menu li:hover {
+nav > ul > li:hover ul.drop-menu li a:hover {
   border-left: 3px solid #e98a17;
 }
 nav > ul > li:hover ul.drop-menu li:last-child {
@@ -236,6 +241,7 @@ nav > ul > li:hover ul.drop-menu li a {
 
 li:hover > ul.drop-menu li {
   display: block;
+  
 }
 
 header .brand img {
