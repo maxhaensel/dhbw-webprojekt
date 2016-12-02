@@ -2,7 +2,7 @@
 @import "fluidgrid.css";
 /* Basiccss */
 @import "basic-stylesheet.css";
-
+    
 /* Navigation */
 @import "mobile-navigation.css";
 @import "desktop-navigation.css";
@@ -20,3 +20,6 @@
 /*Schriften*/
 @import url(http://fonts.googleapis.com/css?family=Open+Sans:400,700,300|Roboto:400,700);
 @import "font-awesome/css/font-awesome.min.css";
+
+/* Druck */
+@import "print.css"

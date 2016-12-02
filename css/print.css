@@ -1,0 +1,9 @@
+@media print {
+    nav {display: none;}
+    footer {display: none;}
+    img {display: none;}
+    .no_print {display: none;}
+    .event a {display: none;}
+    .event-teaser {display: none;}
+    .no_print {display: none;}
+}
