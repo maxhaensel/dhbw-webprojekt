@@ -57,7 +57,7 @@
 /* Event-kopf-location */
 .event .event-content:before{content: ''; clear: both; display: block;}
 /* Event-content*/
-.event .event-content {padding: 1em 1.2em 0 1.2em;}
+.event .event-content {padding: 1em 1.2em 0 1.2em; height: 500px;}
 .event p{margin-bottom: 1em; text-align: justify;}
 .event figure{-webkit-box-shadow:0px 4px 8px 0px rgba(0,0,0,0.5);-moz-box-shadow:0px 4px 8px 0px rgba(0,0,0,0.5);box-shadow:0px 4px 8px 0px rgba(0,0,0,0.5);}
 .event figure.pull-right {margin:0 0 0.8em 0.8em;}
