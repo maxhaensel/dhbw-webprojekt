@@ -62,7 +62,8 @@ nav > ul > li {
   color: grey;
   cursor: pointer;
   opacity: 0;
-}
+}   
+
 nav > ul > li a {
   display: block;
   padding: 20px 35px;
@@ -131,10 +132,12 @@ nav > ul > li:hover {
   -moz-box-shadow: 0px 2px 4px #333;
   box-shadow: 0px 2px 4px #333;
   background: #e98a17;
+  transition-duration: 1s;
 }
 nav > ul > li:hover a {
   color: #fff;
-    border-bottom: 3px solid #e98a17
+  border-bottom: 3px solid #e98a17;
+  transition-duration: 1s;
 }
 nav > ul > li:hover ul.drop-menu {
   position: absolute;

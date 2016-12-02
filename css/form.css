@@ -219,6 +219,7 @@ form.kontakt .input-group.select-radio fieldset{
     margin-left: 1em;
 }
 form.kontakt .input-group.select-radio input[type=radio]{
+    cursor: pointer;
     position: absolute;
     left:0;
     top: 14px;
@@ -271,15 +272,113 @@ form.kontakt .input-group.select-radio input[type=radio]:checked:after{
     transform: scale(1);
   }
 }
+/* Checkbox */
+
+form.kontakt .input-group.select-checkbox fielset {
+  position: relative;
+  float: left;
+  padding: 1em 2em 1em 34px;
+  border: none;
+  margin-left: 1em;
+}
+form.kontakt .input-group.select-checkbox fielset input[type="checkbox"]:checked:after {
+  border-right: 4px solid #5a8de2;
+  border-bottom: 4px solid #5a8de2;
+  -webkit-animation-name: checkbox_in;
+          animation-name: checkbox_in;
+  -webkit-animation-duration: 800ms;
+          animation-duration: 800ms;
+  -webkit-animation-timing-function: easy-in-out;
+          animation-timing-function: easy-in-out;
+  -webkit-animation-fill-mode: forwards;
+          animation-fill-mode: forwards;
+}
+@-webkit-keyframes checkbox_in {
+  0% {
+    -webkit-transform: scale(0.1) rotate(0deg);
+            transform: scale(0.1) rotate(0deg);
+  }
+  20% {
+    opacity: 0.5;
+    -webkit-transform: scale(1) rotate(-30deg);
+            transform: scale(1) rotate(-30deg);
+  }
+  50% {
+    opacity: 0.7;
+    -webkit-transform: scale(3) rotate(200deg);
+            transform: scale(3) rotate(200deg);
+  }
+  100% {
+    -webkit-transform: scale(1) rotate(400deg);
+            transform: scale(1) rotate(400deg);
+  }
+}
+@keyframes checkbox_in {
+  0% {
+    -webkit-transform: scale(0.1) rotate(0deg);
+            transform: scale(0.1) rotate(0deg);
+  }
+  20% {
+    opacity: 0.5;
+    -webkit-transform: scale(1) rotate(-30deg);
+            transform: scale(1) rotate(-30deg);
+  }
+  50% {
+    opacity: 0.7;
+    -webkit-transform: scale(3) rotate(200deg);
+            transform: scale(3) rotate(200deg);
+  }
+  100% {
+    -webkit-transform: scale(1) rotate(400deg);
+            transform: scale(1) rotate(400deg);
+  }
+}
+form.kontakt .input-group.select-checkbox fielset input[type="checkbox"] {
+  cursor: pointer;
+  position: absolute;
+  height: 26px;
+  width: 26px;
+  top: 14px;
+  left: 0;
+  -webkit-transition: all 2s ease-in-out;
+  transition: all 2s ease-in-out;
+}
+form.kontakt .input-group.select-checkbox fielset input[type="checkbox"]:before {
+  content: "";
+  height: 18px;
+  width: 18px;
+  display: block;
+  border: 4px solid #e98a17;
+  background: #fff;
+  display: block;
+  position: absolute;
+}
+form.kontakt .input-group.select-checkbox fielset input[type="checkbox"]:after {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 4px;
+  left: 9px;
+  height: 11px;
+  width: 4px;
+}
+
+
 /* Absenden-Buttons */
 
 form.kontakt input[type="submit"]{
     width: 100%;
-    padding: .3em;
+    padding: .6em;
     font-size: 1em;
     margin: .5em 0;
     background: #e98a17;
     color: white;
     border: none;
     cursor: pointer;
+}
+form.kontakt input[type="submit"]:hover{
+    transition-duration: 0.5s;
+    -webkit-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
+    box-shadow: 0px 0px 14px 0px rgba(0,0,0,0.75);
 }
