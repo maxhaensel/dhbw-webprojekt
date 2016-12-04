@@ -5,6 +5,7 @@
     
 /* Navigation */
 @import "mobile-navigation.css";
+@import "tablet-navigation.css";
 @import "desktop-navigation.css";
 
 /* Typbasiertescss */
