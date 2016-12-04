@@ -1,8 +1,7 @@
-@media (min-width: 1000px){
+@media (min-width: 601px){
     header .brand{
-        width: 1000px;
+        width: 600px;
         margin: auto;
-        padding: 40px 390px 0px 390px;
         text-align: center;
 
     }
@@ -21,7 +20,7 @@
 
 
 nav {
-  width: 1000px;
+  width: 600px;
   margin: auto;
   padding: 20px 0px;
   text-align: center;
@@ -47,10 +46,10 @@ nav > ul:after, nav > ul:before {
   content: "";
 }
 nav > ul:after {
-  left: -30%;
+  display: none;
 }
 nav > ul:before {
-  right: -30%;
+  display: none;
 }
 nav > ul > li {
   margin: 0 0.5em;
@@ -66,7 +65,7 @@ nav > ul > li {
 
 nav > ul > li a {
   display: block;
-  padding: 20px 35px;
+  padding: 20px 12px;
 }
 nav > ul > li .active {
   border-bottom: 3px solid
@@ -249,6 +248,9 @@ li:hover > ul.drop-menu li {
 
 header .brand img {
   perspective: 1000px;
+  height: 100px;
+  width: 200px;
+  margin-top: 40px; 
   animation-name: brand;
   animation-duration: 800ms;
   animation-timing-function: easy-in-out;
