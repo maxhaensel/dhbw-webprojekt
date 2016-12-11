@@ -1,4 +1,4 @@
-:/play tada:
+:shipit:
 # DHBW-Heidenheim / Webprojekt / Foot2Afrika / Gruppe A3
 
 [Foot to Afrika - Fundraising Tour Deutschland](http://www.wwi16a3.projekt.dhbw-heidenheim.de/)
