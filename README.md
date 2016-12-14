@@ -43,3 +43,15 @@ stylesheet.css
 ├── tablet-navigation.css
 └── tour-event.css
 ```
+### 2. Software
+
+1. GitHub
+2.
+3.
+4.
+5.  
+6.  SASS  (Syntactically Awesome Stylesheets)
+7.  WebStorm  (HTML/CSS Editor)
+8.  Brackets  (HTML/CSS Editor)
+9.
+10.
