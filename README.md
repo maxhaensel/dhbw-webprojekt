@@ -45,13 +45,9 @@ stylesheet.css
 ```
 ### 2. Software
 
-1. GitHub
-2.
-3.
-4.
-5.  
-6.  SASS  (Syntactically Awesome Stylesheets)
-7.  WebStorm  (HTML/CSS Editor)
-8.  Brackets  (HTML/CSS Editor)
-9.
-10.
+- GitHub  
+- FilaZilla (FTP-Programm)
+- JADE  (HTML-Compiler)
+- SASS  (Syntactically Awesome Stylesheets)
+- WebStorm  (HTML/CSS Editor)
+- Brackets  (HTML/CSS Editor)
