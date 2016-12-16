@@ -3,19 +3,55 @@
 
 [Foot to Afrika - Fundraising Tour Deutschland](http://www.wwi16a3.projekt.dhbw-heidenheim.de/)
 
-## Dokumentation
+## Projektdokumentation
 
-### 1. HTML
+###   1.  Vorstellung des Webprojekts
+####  1.1 Projektbeschreibung
 
-### 2. CSS
+Die Aufgabe in diesem Projekt ist es, sich mit der Erstellung einer statischen Website auseinan-derzusetzen. Inhaltlich befasst sich unsere Website mit der Foot2Afrika Fundraising Tour, die jährlich in Deutschland stattfindet, um einerseits Spenden zu sammeln und andererseits über die Situation in Tansania aufmerksam zu machen.
+Mit der Website möchten wir Interessenten eine schnelle, kurze, aber ausreichende Übersicht über das Thema Fundraising bieten. Außerdem findet man alle anstehende Tour Termine in unserem Kalender. 
+Neben der Fundraising möchten wir ebenfalls die hinter der Veranstaltung steckende Organisa-tion „Foot2Afrika“ und ihre Arbeit vorstellen.
+Sollten trotzdem Unklarheiten auftreten, bietet unsere FAQ eine Reihe von oft gestellten Fragen und ihre Antworten dazu. Außerdem ist es dem User möglich durch das Kontaktformular sein Anliegen zu senden.
+Nach Abschluss des Projekts soll die Website auch für weitere darauffolgende Touren in den kommenden Jahren Informationen zu den Terminen bieten.
 
-**Allgemein**
+####  1.2 Projektumfang
 
-Das Design der Website ist weitesgehend an der vorlage von [foot2afrika](http://www.foot2afrika.com/) ausgerichtet.
+Bei der Erstellung einer statischen Website muss berücksichtig werden, dass diese mindestens vier unterscheidbaren, bedeutsamen und gehaltvollen Seiten beinhalten sollen. 
+Zuvor muss sowohl ein Projektplan, als auch verschiedene Wireframes eingereicht werden.
+Unsere Arbeit sollte darüber hinaus „responsive“ sein. Damit ist gemeint, dass die Website auf verschiedene Browser und Geräte, wie zum Beispiel Mobiltelefone und Tablets, funktionieren soll.
 
-Lediglich der Footer und die Formulare wurde anders als auf [foot2afrika](http://www.foot2afrika.com/) gestalltet. Ziel des Design bei diesen Objekten war es dem Anwender der Seite Spaß und einen überaschungsmoment zu liefern. 
+####  1.3 Projektplan und Ablauf des Projekts
 
-Das Design des Kalender sollte nicht an einen gewöhnlichen Kalender erinnern wie man ihn aus Outlook oder ähnlichen Terminplaungsassistenten kennt, sondern eher an "Produkte" die mit den Bildern und dazugehöringen Texten Leben bekommen und Intresse zum Lesen wecken. Die Termine sollte auch alle Informationen die uns gegeben waren Abdecken können.
+Zu Beginn des Webprojekts war die Erstellung unseres Projektplans eins der wichtigsten Schrit-te in unserer  Vorgehensweise. Der Plan beinhaltete wichtige Punkte und Aufgaben für das Pro-jekt, und noch wichtiger die Abgabefristen. Dadurch hatte jeder in der Gruppe eine allgemeine Übersicht über die anstehende Arbeit. Es war uns ebenfalls wichtig, dass jeder die Zeit im Über-blick hatte. Auch die Aufgabenverteilung wurde schnell getroffen, sodass keine Zeit verloren ging und man parallel arbeiten konnte. Dies ersparte uns eine Menge Mühe und man verhinder-te dadurch Doppelarbeiten.
+Den Projektplan findet man im Anhang …
+
+###   2.  Planung, Informationsbeschaffung, Übersetzung, Bearbeitung
+####  2.2 Planung
+####  2.3 Informationsbeschaffung
+####  2.4 Übersetzung
+####  2.5 Bearbeitung
+
+###   3. Inhalt
+####
+####
+####
+####
+####
+
+###   4.    Erstellung
+####  4.1   Hintergrund und Sinn der Website
+####  4.2   Verwendete Technologien
+##### 4.2.1 Software
+
+- GitHub  
+- FilaZilla (FTP-Programm)
+- JADE  (HTML-Compiler)
+- SASS  (Syntactically Awesome Stylesheets)
+- WebStorm  (HTML/CSS Editor)
+- Brackets  (HTML/CSS Editor)
+
+##### 4.2.2 HTML
+##### 4.2.3 CSS
 
 **Struktur/Aufbau**
 
@@ -43,11 +79,11 @@ stylesheet.css
 ├── tablet-navigation.css
 └── tour-event.css
 ```
-### 2. Software
 
-- GitHub  
-- FilaZilla (FTP-Programm)
-- JADE  (HTML-Compiler)
-- SASS  (Syntactically Awesome Stylesheets)
-- WebStorm  (HTML/CSS Editor)
-- Brackets  (HTML/CSS Editor)
+### 4.3 Design
+
+Das Design der Website ist weitesgehend an der vorlage von [foot2afrika](http://www.foot2afrika.com/) ausgerichtet.
+
+Lediglich der Footer und die Formulare wurde anders als auf [foot2afrika](http://www.foot2afrika.com/) gestalltet. Ziel des Design bei diesen Objekten war es dem Anwender der Seite Spaß und einen überaschungsmoment zu liefern. 
+
+Das Design des Kalender sollte nicht an einen gewöhnlichen Kalender erinnern wie man ihn aus Outlook oder ähnlichen Terminplaungsassistenten kennt, sondern eher an "Produkte" die mit den Bildern und dazugehöringen Texten Leben bekommen und Intresse zum Lesen wecken. Die Termine sollte auch alle Informationen die uns gegeben waren Abdecken können.
