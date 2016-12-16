@@ -8,21 +8,23 @@
 ###   1.  Vorstellung des Webprojekts
 ####  1.1 Projektbeschreibung
 
-Die Aufgabe in diesem Projekt ist es, sich mit der Erstellung einer statischen Website auseinan-derzusetzen. Inhaltlich befasst sich unsere Website mit der Foot2Afrika Fundraising Tour, die jährlich in Deutschland stattfindet, um einerseits Spenden zu sammeln und andererseits über die Situation in Tansania aufmerksam zu machen.
+Die Aufgabe in diesem Projekt ist es, sich mit der Erstellung einer statischen Website auseinanderzusetzen. 
+Inhaltlich befasst sich unsere Website mit der Foot2Afrika Fundraising Tour, die jährlich in Deutschland stattfindet, um einerseits Spenden zu sammeln und andererseits über die Situation in Tansania aufmerksam zu machen.
 Mit der Website möchten wir Interessenten eine schnelle, kurze, aber ausreichende Übersicht über das Thema Fundraising bieten. Außerdem findet man alle anstehende Tour Termine in unserem Kalender. 
-Neben der Fundraising möchten wir ebenfalls die hinter der Veranstaltung steckende Organisa-tion „Foot2Afrika“ und ihre Arbeit vorstellen.
+Neben der Fundraising möchten wir ebenfalls die hinter der Veranstaltung steckende Organisation „Foot2Afrika“ und ihre Arbeit vorstellen.
 Sollten trotzdem Unklarheiten auftreten, bietet unsere FAQ eine Reihe von oft gestellten Fragen und ihre Antworten dazu. Außerdem ist es dem User möglich durch das Kontaktformular sein Anliegen zu senden.
 Nach Abschluss des Projekts soll die Website auch für weitere darauffolgende Touren in den kommenden Jahren Informationen zu den Terminen bieten.
 
 ####  1.2 Projektumfang
 
-Bei der Erstellung einer statischen Website muss berücksichtig werden, dass diese mindestens vier unterscheidbaren, bedeutsamen und gehaltvollen Seiten beinhalten sollen. 
+Bei der Erstellung einer statischen Website muss berücksichtig werden, dass diese mindestens vier unterscheidbare, bedeutsame und gehaltvolle Seiten beinhalten sollen. 
 Zuvor muss sowohl ein Projektplan, als auch verschiedene Wireframes eingereicht werden.
-Unsere Arbeit sollte darüber hinaus „responsive“ sein. Damit ist gemeint, dass die Website auf verschiedene Browser und Geräte, wie zum Beispiel Mobiltelefone und Tablets, funktionieren soll.
+Unsere Arbeit soll darüber hinaus „responsive“ sein. Damit ist gemeint, dass die Website auf verschiedenen Browser und Geräten, wie zum Beispiel Mobiltelefone und Tablets, funktionieren soll.
 
 ####  1.3 Projektplan und Ablauf des Projekts
 
-Zu Beginn des Webprojekts war die Erstellung unseres Projektplans eins der wichtigsten Schrit-te in unserer  Vorgehensweise. Der Plan beinhaltete wichtige Punkte und Aufgaben für das Pro-jekt, und noch wichtiger die Abgabefristen. Dadurch hatte jeder in der Gruppe eine allgemeine Übersicht über die anstehende Arbeit. Es war uns ebenfalls wichtig, dass jeder die Zeit im Über-blick hatte. Auch die Aufgabenverteilung wurde schnell getroffen, sodass keine Zeit verloren ging und man parallel arbeiten konnte. Dies ersparte uns eine Menge Mühe und man verhinder-te dadurch Doppelarbeiten.
+Zu Beginn des Webprojekts war die Erstellung unseres Projektplans eins der wichtigsten Schritte in unserer  Vorgehensweise. Der Plan beinhaltete wichtige Punkte und Aufgaben für das Projekt, und noch wichtiger die Abgabefristen. Dadurch hatte jeder in der Gruppe eine allgemeine Übersicht über die anstehende Arbeit. Es war uns ebenfalls wichtig, dass jeder die Zeit im Überblick hatte. Auch die Aufgabenverteilung wurde schnell getroffen, sodass keine Zeit verloren ging und man parallel arbeiten konnte. Dies ersparte uns eine Menge Mühe und man verhinderte dadurch Doppelarbeiten.
+(Wenn mir was einfällt, ergänze ich alles nach und nach und fülle den Inhalt)
 Den Projektplan findet man im Anhang …
 
 ###   2.  Planung, Informationsbeschaffung, Übersetzung, Bearbeitung
