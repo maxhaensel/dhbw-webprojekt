@@ -84,8 +84,12 @@ stylesheet.css
 
 ### 4.3 Design
 
-Das Design der Website ist weitesgehend an der vorlage von [foot2afrika](http://www.foot2afrika.com/) ausgerichtet.
+Das Design der Website ist weitesgehend an der Vorlage von [Foot2afrika](http://www.foot2afrika.com/) ausgerichtet. Ebenfalls haben wir die Farbauswahl so getroffen, dass diese dem Logo ähnelt. Dadurch möchten wir erreichen, dass der User die Zugehörigkeit der Fundraising Tour zu Foot2Afrika erkennt. Außerdem erzeugen wir dadurch eine Einheitlichkeit und trennen uns nicht willkürlich ab, da unsere Website ebenfalls eine unterstützende Funktion haben soll.
+Jedoch möchten wir nicht den Eindruck vermitteln, dass das Design lediglich übernommen oder sogar kopiert wurde und haben uns z.B beim Footer gegen das Design von [Foot2afrika](http://www.foot2afrika.com/) entschieden und unsere eigene Kreation verwendet. 
+Des Weiteren hebt sich das Design des Kalenders ebenfalls ab. Es sollte nicht an einen gewöhnlichen Kalender erinnern, wie man ihn aus Outlook oder ähnlichen Terminplaungsassistenten kennt, sondern eher an "Produkte" die mit den Bildern und dazugehöringen Texten Leben bekommen und Intresse zum Lesen wecken. Die Termine sollte auch alle Informationen die uns gegeben waren Abdecken können.
 
-Lediglich der Footer und die Formulare wurde anders als auf [foot2afrika](http://www.foot2afrika.com/) gestalltet. Ziel des Design bei diesen Objekten war es dem Anwender der Seite Spaß und einen überaschungsmoment zu liefern. 
+Allgemein zusammengefasst haben wir uns für eine einheitliche, schlichte, aber stilvolle Gestaltung entschieden. Da es für uns wichtig war, dass die Besucher der Website primär den Inhalt vermittelt bekommen. Trotzdem war es uns bewusst, dass es auch zugleich eine "langweilige" Wirkung haben könnte und es für manche zu "trocken" sein könnte. Weshalb wir unsere Mühe in die Hauptseite investiert haben.
+Die Startseite hebt sich eindeutig durch ihre Dynamik ab und vermittelt dadurch eine willkommende Funktion für den Besucher.
+Ziel des Design bei diesen Objekten war es dem Anwender der Seite Spaß und einen Überaschungsmoment zu liefern. 
 
-Das Design des Kalender sollte nicht an einen gewöhnlichen Kalender erinnern wie man ihn aus Outlook oder ähnlichen Terminplaungsassistenten kennt, sondern eher an "Produkte" die mit den Bildern und dazugehöringen Texten Leben bekommen und Intresse zum Lesen wecken. Die Termine sollte auch alle Informationen die uns gegeben waren Abdecken können.
+
