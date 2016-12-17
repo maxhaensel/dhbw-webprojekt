@@ -11,13 +11,13 @@
 Die Aufgabe in diesem Projekt ist es, sich mit der Erstellung einer statischen Website auseinanderzusetzen. 
 Inhaltlich befasst sich unsere Website mit der Foot2Afrika Fundraising Tour, die jährlich in Deutschland stattfindet, um einerseits Spenden zu sammeln und andererseits über die Situation in Tansania aufmerksam zu machen.
 Mit der Website möchten wir Interessenten eine schnelle, kurze, aber ausreichende Übersicht über das Thema Fundraising bieten. Außerdem findet man alle anstehende Tour Termine in unserem Kalender. 
-Neben der Fundraising möchten wir ebenfalls die hinter der Veranstaltung steckende Organisation „Foot2Afrika“ und ihre Arbeit vorstellen.
+Neben der Fundraising our möchten wir ebenfalls die hinter der Veranstaltung steckende Organisation „Foot2Afrika“ und ihre Arbeit vorstellen.
 Sollten trotzdem Unklarheiten auftreten, bietet unsere FAQ eine Reihe von oft gestellten Fragen und ihre Antworten dazu. Außerdem ist es dem User möglich durch das Kontaktformular sein Anliegen zu senden.
 Nach Abschluss des Projekts soll die Website auch für weitere darauffolgende Touren in den kommenden Jahren Informationen zu den Terminen bieten.
 
 ####  1.2 Projektumfang
 
-Bei der Erstellung einer statischen Website muss berücksichtig werden, dass diese mindestens vier unterscheidbare, bedeutsame und gehaltvolle Seiten beinhalten sollen. 
+Bei der Erstellung einer statischen Website muss berücksichtig werden, dass diese mindestens vier unterscheidbare, bedeutsame und gehaltvolle Seiten beinhalten soll. 
 Zuvor muss sowohl ein Projektplan, als auch verschiedene Wireframes eingereicht werden.
 Unsere Arbeit soll darüber hinaus „responsive“ sein. Damit ist gemeint, dass die Website auf verschiedenen Browser und Geräten, wie zum Beispiel Mobiltelefone und Tablets, funktionieren soll.
 
@@ -34,11 +34,11 @@ Den Projektplan findet man im Anhang …
 ####  2.5 Bearbeitung
 
 ###   3. Inhalt
-####
-####
-####
-####
-####
+####  Fundraising Tour
+####  Was ist Foot2Afrika
+####  DerenArbeit und aktuelles Projekt
+####  Termine 
+####  FAQ
 
 ###   4.    Erstellung
 ####  4.1   Hintergrund und Sinn der Website
