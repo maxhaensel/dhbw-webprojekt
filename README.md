@@ -30,6 +30,9 @@ Den Projektplan findet man im Anhang …
 ###   2.  Planung, Informationsbeschaffung, Übersetzung, Bearbeitung
 ####  2.2 Planung
 ####  2.3 Informationsbeschaffung
+
+Alle Bilder, die wir auf unserer Website verwenden, sind entweder von der Foot2Afrika-Website oder von Creative Common, also Bilder, für die der Besitzer die Erlaubnis zur Verwendung erteilt hat. Durch Kontakt mit dem Team von Foot2Afrika haben wir von ihnen die Erlaubnis erhalten, alle Bilder, Texte und weitere Informationen von ihrer Website zu verwenden. Eine Kopie der Erlaubnis in Email-Form ist im Anhang zu finden.
+
 ####  2.4 Übersetzung
 ####  2.5 Bearbeitung
 
