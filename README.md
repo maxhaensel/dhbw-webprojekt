@@ -24,7 +24,9 @@ Unsere Arbeit soll darüber hinaus „responsive“ sein. Damit ist gemeint, das
 ####  1.3 Projektplan und Ablauf des Projekts
 
 Zu Beginn des Webprojekts war die Erstellung unseres Projektplans eins der wichtigsten Schritte in unserer  Vorgehensweise. Der Plan beinhaltete wichtige Punkte und Aufgaben für das Projekt, und noch wichtiger die Abgabefristen. Dadurch hatte jeder in der Gruppe eine allgemeine Übersicht über die anstehende Arbeit. Es war uns ebenfalls wichtig, dass jeder die Zeit im Überblick hatte. Auch die Aufgabenverteilung wurde schnell getroffen, sodass keine Zeit verloren ging und man parallel arbeiten konnte. Dies ersparte uns eine Menge Mühe und man verhinderte dadurch Doppelarbeiten.
+
 (Wenn mir was einfällt, ergänze ich alles nach und nach und fülle den Inhalt)
+
 Den Projektplan findet man im Anhang …
 
 ###   2.  Planung, Informationsbeschaffung, Übersetzung, Bearbeitung
@@ -57,11 +59,13 @@ Den Projektplan findet man im Anhang …
 
 **Struktur/Aufbau**
 
-Unser CSS´s Files sind nach Modulen/Bereichen aufgeteilt, so gibt es für jeden Teilbereich ein eigenes CSS File. Das erleichtert die Fehlersuche und die Wartung des Codes, da bei Fehlen immer nur im entsprechenden Teilsegment gesucht werden muss.
+Unser CSS-Files sind nach Modulen/Bereichen jeweils so aufgeteilt, dass jeder Teilbereich dadurch ein eigenes CSS-File erhält. Dies hat den Vorteil, dass die Fehlersuche und die Wartung des Codes erleichtert werden, da nur im entsprechenden Teilsegment gesucht werden muss.
 
-Damit im HEAD der HTML Files nicht immer alle CSS Files eingebunden werden müssen und damit die übersicht leidet wurden alle Modulcss Files in ein einziges Stylesheet importiert, somit musste immer nur das `stylesheet.css` im HEAD eingebunden werden.
+Damit im HEAD der HTML-Files nicht immer alle CSS-Files eingebunden werden müssen und dadurch die Übersicht leidet, wurden alle Modul-CSS-Files in ein einziges Stylesheet importiert. Somit musste immer nur das `stylesheet.css` im HEAD eingebunden werden.
 
-Durch die Modulare aufbauweise der CSS Files konnte in den CSS Files weitesgehends auf Kommentare verzichtet werden, dennoch sind komplizierte Anweisungen trotzdem Kommentiert. 
+Durch die modulare Aufbauweise der CSS-Files konnte in den CSS-Files weitesgehends auf Kommentare verzichtet werden, dennoch sind komplizierte Anweisungen trotzdem kommentiert.
+
+Diese findet man im Anhang...
 
 ```
 stylesheet.css
