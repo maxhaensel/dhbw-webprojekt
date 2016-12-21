@@ -84,6 +84,34 @@ Ziel der Website ist es, dass sich jeder Interessiert über die Fundraising-Tour
 - WebStorm  (HTML/CSS Editor)
 - Brackets  (HTML/CSS Editor)
 
+Verwende Software/Programme:
+
+- Github
+(https://github.com/)
+Der Dienstleister Github dient der Verwaltung von quelloffener Software (engl. ‚open source hoster‘). Github bietet die Möglichkeit mit mehreren Entwicklern an einem Projekt (‚Repositorie‘) zu arbeiten. Hierzu werden mehrere Optionen geboten: Das Erstellen (engl. ‚branch‘), und das Zusammenführen (engl. ‚merge‘) von Abspaltungen (engl. ‚forks‘). 
+Mit diesen Möglichkeiten erleichterte uns Github unsere Zusammenarbeit, an den HTML Files, CSS Stylesheets, aber beispielsweise auch an der Userstory. Völlig gleich, wann an einer Datei von einem unserer Teammitglieder eine Änderung vorgenommen wurde, durch eine kurze Synchronisation auf Github waren alle anderen sofort auf dem neusten Stand. 
+Vergleichsweise einfach war das Zusammenarbeiten mehrerer Teammitglieder an einem CSS-Stylesheet. Dadurch, dass alle stets auf dem gleichen Stand waren und alle gemeinsamen Dateien über Github beziehen konnten, konnten auch schnell Verbesserungen angebracht oder Fehler eliminiert werden. Hierzu wurde der Code einfach angepasst und anschließend über Github ein ‚pull request‘ gestellt. In diesem ‚pull request‘ hat man zudem die Möglichkeit einen Kommentar hinzuzufügen (bspw. „Habe kurz die Pixelangaben des Kalenders angepasst.“). Die Änderung konnte dann angenommen werden. Trotzdem bietet Github immer die Möglichkeit auf einer Vorgängerversion zurückzugreifen, sollte sich bspw. eine Änderung im Nachhinein als untauglich herausstellen. 
+Abschließend kann man festhalten, dass uns Github die Zusammenarbeit an unserem Webprojekt enorm erleichtert hat. Anstatt permanent Dateien von A nach B zu senden und überwachen zu müssen, welche Datei nun die aktuellste ist, kann man sich bei Github einloggen und hat immer einen guten Überblick über den Stand des Webprojekts.
+
+
+- Atom
+(https://atom.io/)
+Atom ist ein kostenloser, open-source Texteditor, der auf Electron basiert (Wikipedia: „Electron besteht aus dem Webbrowser Chromium und dem JavaScript-Framework Node.js und erlaubt es, beliebige Anwendungen mit JavaScript, HTML und CSS zu erstellen.“ (https://de.wikipedia.org/wiki/Atom_(Texteditor))). Atom bietet eine Syntaxhervorhebung, was einem auch das Auffinden von kleineren Fehlern erleichtert und den Code übersichtlicher erscheinen lässt. Des Weiteren lässt sich Atom mit Plugins erweitern, so kann man zum Beispiel eine Mini-Map installieren, die einem stets einen guten Überblick über den bereits geschriebenen Code gibt. 
+Natürlich hätten wir unseren Code auch mit Notepad++ schreiben können, jedoch bietet Atom einen besseren Überblick über die vorhandenen Dateien und es kann hier ein gesamter Ordner eingebunden werden.
+
+
+
+- Balsamiq Mockups
+(https://balsamiq.com/products/mockups/)
+Zur Erstellung der Skizzen/Wireframes für die verschiedenen Ansichten unserer Webseite haben wir das Wireframing10-Tool Balsamiq Mockups verwendet. Die Benutzeroberfläche des Tools stellt eine Auswahl an vorgefertigten geometrischen Objekten, verschiedenen UI-Elementen und weiteren Formen zur Verfügung. Diese können ganz einfach per Drag-and-Drop auf dem virtuellen Skizzenpapier zurechtgerückt werden. In dem Tool haben wir alle nötigen Elemente, von Navigationen bis hin zu Formularen, gefunden. Diese haben wir dann unseren Vorstellungen entsprechend angeordnet und so die Skizzen für unsere frühe Konzeptphase entwickelt. 
+Die Konzeption selbst, also Fragen wie: „Sollen die Bilder in der mobilen Ansicht untereinander oder passen auch zwei nebeneinander?“, kann einem das Toll natürlich nicht abnehmen. Allerdings veranschaulichen einem die, in Balsamiq Mockups erstellten, Wireframes sehr gut verschiedene Möglichkeiten und helfen so doch ein gutes Konzept aufzustellen.
+Außerdem Positiv: Das Tool kann bis zu 30 Tagen kostenfrei verwendet werden, danach kostet es allerdings.
+
+- StoriesOnBoard 
+(http://storiesonboard.com/)	
+Zur Ausarbeitung unserer Userstories haben wir das Online und Cloudbasierte Tool StoriesOnBoard verwendet. Dieses bietet die Möglichkeit per Drag-and-Drop, verschiedenfarbige Karteikarten anzuordnen und somit verschiedene Ebenen der Userstory dazustellen. 
+Des Weiteren sollte an dieser Stelle die Webseite von Roman Pichler: http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/ erwähnt werden, die uns beim Grundverständnis des Themas Userstory und bei der anschließenden Ausarbeitung eine große Hilfe war.
+
 ##### 4.2.2 HTML
 ##### 4.2.3 CSS
 
@@ -118,33 +146,7 @@ stylesheet.css
 #####
 Für den Anhang?!
 
-Verwende Software/Programme:
 
-1.	Github
-(https://github.com/)
-Der Dienstleister Github dient der Verwaltung von quelloffener Software (engl. ‚open source hoster‘). Github bietet die Möglichkeit mit mehreren Entwicklern an einem Projekt (‚Repositorie‘) zu arbeiten. Hierzu werden mehrere Optionen geboten: Das Erstellen (engl. ‚branch‘), und das Zusammenführen (engl. ‚merge‘) von Abspaltungen (engl. ‚forks‘). 
-Mit diesen Möglichkeiten erleichterte uns Github unsere Zusammenarbeit, an den HTML Files, CSS Stylesheets, aber beispielsweise auch an der Userstory. Völlig gleich, wann an einer Datei von einem unserer Teammitglieder eine Änderung vorgenommen wurde, durch eine kurze Synchronisation auf Github waren alle anderen sofort auf dem neusten Stand. 
-Vergleichsweise einfach war das Zusammenarbeiten mehrerer Teammitglieder an einem CSS-Stylesheet. Dadurch, dass alle stets auf dem gleichen Stand waren und alle gemeinsamen Dateien über Github beziehen konnten, konnten auch schnell Verbesserungen angebracht oder Fehler eliminiert werden. Hierzu wurde der Code einfach angepasst und anschließend über Github ein ‚pull request‘ gestellt. In diesem ‚pull request‘ hat man zudem die Möglichkeit einen Kommentar hinzuzufügen (bspw. „Habe kurz die Pixelangaben des Kalenders angepasst.“). Die Änderung konnte dann angenommen werden. Trotzdem bietet Github immer die Möglichkeit auf einer Vorgängerversion zurückzugreifen, sollte sich bspw. eine Änderung im Nachhinein als untauglich herausstellen. 
-Abschließend kann man festhalten, dass uns Github die Zusammenarbeit an unserem Webprojekt enorm erleichtert hat. Anstatt permanent Dateien von A nach B zu senden und überwachen zu müssen, welche Datei nun die aktuellste ist, kann man sich bei Github einloggen und hat immer einen guten Überblick über den Stand des Webprojekts.
-
-
-2.	Atom
-(https://atom.io/)
-Atom ist ein kostenloser, open-source Texteditor, der auf Electron basiert (Wikipedia: „Electron besteht aus dem Webbrowser Chromium und dem JavaScript-Framework Node.js und erlaubt es, beliebige Anwendungen mit JavaScript, HTML und CSS zu erstellen.“ (https://de.wikipedia.org/wiki/Atom_(Texteditor))). Atom bietet eine Syntaxhervorhebung, was einem auch das Auffinden von kleineren Fehlern erleichtert und den Code übersichtlicher erscheinen lässt. Des Weiteren lässt sich Atom mit Plugins erweitern, so kann man zum Beispiel eine Mini-Map installieren, die einem stets einen guten Überblick über den bereits geschriebenen Code gibt. 
-Natürlich hätten wir unseren Code auch mit Notepad++ schreiben können, jedoch bietet Atom einen besseren Überblick über die vorhandenen Dateien und es kann hier ein gesamter Ordner eingebunden werden.
-
-
-
-3.	Balsamiq Mockups
-(https://balsamiq.com/products/mockups/)
-Zur Erstellung der Skizzen/Wireframes für die verschiedenen Ansichten unserer Webseite haben wir das Wireframing10-Tool Balsamiq Mockups verwendet. Die Benutzeroberfläche des Tools stellt eine Auswahl an vorgefertigten geometrischen Objekten, verschiedenen UI-Elementen und weiteren Formen zur Verfügung. Diese können ganz einfach per Drag-and-Drop auf dem virtuellen Skizzenpapier zurechtgerückt werden. In dem Tool haben wir alle nötigen Elemente, von Navigationen bis hin zu Formularen, gefunden. Diese haben wir dann unseren Vorstellungen entsprechend angeordnet und so die Skizzen für unsere frühe Konzeptphase entwickelt. 
-Die Konzeption selbst, also Fragen wie: „Sollen die Bilder in der mobilen Ansicht untereinander oder passen auch zwei nebeneinander?“, kann einem das Toll natürlich nicht abnehmen. Allerdings veranschaulichen einem die, in Balsamiq Mockups erstellten, Wireframes sehr gut verschiedene Möglichkeiten und helfen so doch ein gutes Konzept aufzustellen.
-Außerdem Positiv: Das Tool kann bis zu 30 Tagen kostenfrei verwendet werden, danach kostet es allerdings.
-
-4.	StoriesOnBoard 
-(http://storiesonboard.com/)	
-Zur Ausarbeitung unserer Userstories haben wir das Online und Cloudbasierte Tool StoriesOnBoard verwendet. Dieses bietet die Möglichkeit per Drag-and-Drop, verschiedenfarbige Karteikarten anzuordnen und somit verschiedene Ebenen der Userstory dazustellen. 
-Des Weiteren sollte an dieser Stelle die Webseite von Roman Pichler: http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/ erwähnt werden, die uns beim Grundverständnis des Themas Userstory und bei der anschließenden Ausarbeitung eine große Hilfe war.
 
 
 
