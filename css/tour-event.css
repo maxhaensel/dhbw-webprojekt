@@ -7,7 +7,6 @@
     box-shadow: 3px 3px 10px 0px rgba(0,0,0,0.3);
 }
 @media (min-width: 501px){.event-box{border-radius: 4px;}}
-
 /* Event-kopf-location */
 .event .event-header{
     height: 60px; 
@@ -59,7 +58,7 @@
 /* Event-content*/
 .event .event-content {padding: 1em 1.2em 0 1.2em; height: 500px;}
 .event p{margin-bottom: 1em; text-align: justify;}
-.event figure{-webkit-box-shadow:0px 4px 8px 0px rgba(0,0,0,0.5);-moz-box-shadow:0px 4px 8px 0px rgba(0,0,0,0.5);box-shadow:0px 4px 8px 0px rgba(0,0,0,0.5);}
+.event figure{-webkit-box-shadow:0px 4px 8px 0px rgba(0,0,0,0.5);-moz-box-shadow:0px 4px 8px 0px rgba(0,0,0,0.5);box-shadow:0px 4px 8px 0px rgba(0,0,0,0.5);height:auto;}
 .event figure.pull-right {margin:0 0 0.8em 0.8em;}
 .event figure.pull-left {margin:0 0.8em 0.8em 0;}
 .event figure{ max-height: 15em; margin-bottom: 1em;}
