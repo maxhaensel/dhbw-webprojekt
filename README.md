@@ -52,6 +52,8 @@ Da die inhaltliche Grundlage unserer Website auf der englischsprachigen Foot2Afr
 
 ###   4.    Erstellung
 ####  4.1   Hintergrund und Sinn der Website
+
+Ziel der Website ist es, dass sich jeder Interessiert über die Fundraising-Tour von Foot2Afrika in Deutschland informieren kann. Damit auch ein Überblick über Foot2Afrika für nicht englischsprachige Personen vorliegt, haben wir auf unserer Website die wichtigsten Informationen und Ziele von Foot2Afrika und ihrer Fundraising Tour möglichst übersichtlich dargestellt. Wir haben uns hierbei auf die wichtigsten Informationen konzentriert, um nicht eine zweite deutschsprache Foot2Afrika Website zu erstellen, sondern eine Website bei der die Fundraising Tour im Vordergrund steht.
 ####  4.2   Verwendete Technologien
 ##### 4.2.1 Software
 
