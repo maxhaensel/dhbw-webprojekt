@@ -35,7 +35,7 @@ Den Projektplan findet man im Anhang …
 Als Hilfsmittel zu einer korrekten Planung haben wir Wireframes, ein Storyboard und den grafischen Aufbau der Webseitenstruktur genutzt (siehe Anhang). Ausserdem haben wir uns intensiv mit der Foot-2Afrika-Webseite und den Informationen die wir zusätzlich noch erhalten oder im Internet gefunden haben auseinandergesetzt.   
 ####  2.3 Informationsbeschaffung
 
-Alle Bilder, die wir auf unserer Website verwenden, sind entweder von der Foot2Afrika-Website oder von Creative Common, also Bilder, für die der Besitzer die Erlaubnis zur Verwendung erteilt hat. Durch Kontakt mit dem Team von Foot2Afrika haben wir von ihnen die Erlaubnis erhalten, alle Bilder, Texte und weitere Informationen von ihrer Website zu verwenden. Eine Kopie der Erlaubnis in Email-Form ist im Anhang zu finden.
+Alle Bilder, die wir auf unserer Website verwenden, sind entweder von der Foot2Afrika-Website oder von Creative Common, also Bilder, für die der Besitzer die Erlaubnis zur Verwendung erteilt hat. Durch Kontakt mit dem Team von Foot2Afrika haben wir von ihnen die Erlaubnis erhalten, alle Bilder, Texte und weitere Informationen von ihrer Website zu verwenden. Eine Kopie der Erlaubnis in Email-Form ist im Anhang zu find
 
 ####  2.4 Übersetzung
 
@@ -44,6 +44,11 @@ Da die inhaltliche Grundlage unserer Website auf der englischsprachigen Foot2Afr
 ####  2.5 Bearbeitung
 
 ###   3. Inhalt
+####  Auswahl der Themen
+
+
+Unser Hauptaugenmerk lag darauf, einen kurzen Überblick über Foot2Afrika zu geben, mit dem Hauptfokus jedoch auf der Fundraising Tour wie es die Aufgabenstellung verlangte. Um nicht nur die Info-Seiten von Foot2 Afrika zu kopieren, haben wir die, für den Besucher der Website, wichtigsten Informationen extrahiert und versucht diese möglichst Übersichtlich und prägnant auf unserer Website darzustellen. Da das Verhalten von Usern gezweigt hat, dass diese lange Texte auf Websites nicht lesen, sondern nur überfliegen bzw nach Key-Wörtern suchen, wollten wir durch kurze Inhaltsvolle Texte dem entgegenwirken und des Besucher unserer Website dazu bringen, möglichst viele für ihn nützliche Informationen herauszufinden.
+
 ####  Fundraising Tour
 
 Die Fundraisingtour besteht aus mehreren Veranstaltungen, mit dem Ziel die Organisation Foot2Africa den Menschen näher zu bringen und Fragen zu beantworten.
@@ -64,6 +69,8 @@ Die Termine der Fundraisingtour wurden uns durch ein Google Dokument zur Verfüg
 
 Um Fragen für die FAQ-Seite zu finden, wurden potentielle Nutzer befragt. Die gestellten Fragen wurden teils umformuliert und anschließend übernommen.
 Bei späteren Tests stellte sich heraus, dass die getesteten User keine weiteren Fragen hatten.
+
+
 
 ###   4.    Erstellung
 ####  4.1   Hintergrund und Sinn der Website
