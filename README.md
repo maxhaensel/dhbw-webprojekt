@@ -45,10 +45,25 @@ Da die inhaltliche Grundlage unserer Website auf der englischsprachigen Foot2Afr
 
 ###   3. Inhalt
 ####  Fundraising Tour
+
+Die Fundraisingtour besteht aus mehreren Veranstaltungen, mit dem Ziel die Organisation Foot2Africa den Menschen näher zu bringen und Fragen zu beantworten.
+Es finden verschiedene Events statt, Beispiele dafür sind z.B. ein gemeinsames kochen, Vorträge und noch mehr.
+
 ####  Was ist Foot2Afrika
+
+Foot2Africa ist eine Organisation mit dem Ziel, die Armut in Tansania zu bekämpfen. Es werden verschiedene Projekte gefördert um unter anderem jedem Menschen den Zugang zu Wasser und zu Bildung zu gewähren.
+
 ####  DerenArbeit und aktuelles Projekt
+
+
 ####  Termine 
+
+Die Termine der Fundraisingtour wurden uns durch ein Google Dokument zur Verfügung gestellt. Da die privaten Termine für uns unrelevant waren, haben wir uns entschieden diese auszusortieren und ausschließlich die öffentlichen Termine auf der Website zu veröffentlichen.
+
 ####  FAQ
+
+Um Fragen für die FAQ-Seite zu finden, wurden potentielle Nutzer befragt. Die gestellten Fragen wurden teils umformuliert und anschließend übernommen.
+Bei späteren Tests stellte sich heraus, dass die getesteten User keine weiteren Fragen hatten.
 
 ###   4.    Erstellung
 ####  4.1   Hintergrund und Sinn der Website
