@@ -37,11 +37,9 @@ Als Hilfsmittel zu einer korrekten Planung haben wir Wireframes, ein Storyboard 
 
 Alle Bilder, die wir auf unserer Website verwenden, sind entweder von der Foot2Afrika-Website oder von Creative Common, also Bilder, für die der Besitzer die Erlaubnis zur Verwendung erteilt hat. Durch Kontakt mit dem Team von Foot2Afrika haben wir von ihnen die Erlaubnis erhalten, alle Bilder, Texte und weitere Informationen von ihrer Website zu verwenden. Eine Kopie der Erlaubnis in Email-Form ist im Anhang zu find
 
-####  2.4 Übersetzung
+####  2.4 Übersetzung und Verarbeitung der Ausgangstexte
 
 Da die inhaltliche Grundlage unserer Website auf der englischsprachigen Foot2Afrika-Website beruht mussten alle Informationen erst mal aus den englischen Texten gewonnen werden. Wir haben die Texte zum Teil übersetzt, jedoch zu Teilen auch nur die Inhalte der Texte verwendet und unsere eigenen Texte, passend zu unserer Website gestaltet.
-
-####  2.5 Bearbeitung
 
 ###   3. Inhalt
 ####  Auswahl der Themen
