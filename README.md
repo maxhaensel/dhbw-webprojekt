@@ -183,3 +183,9 @@ Abschließend kann man sagen, dass wir doch sehr von den Usability-Tests profiti
 #### 5.1 Genehmigung für die Rechte der Bilder
 ![Email Foot2Afrika](Email Foot2Africa.png)
 
+#### 5.2 Projektplan
+![Projektplan](pm/Projektplan.PNG)
+
+#### 5.3 Wireframes
+Die Wireframes befinden sich in folgendem Ordner:
+[Wireframes](pm/wireframes/CAL-mobile.PNG)
