@@ -10,8 +10,8 @@
 
 Die Aufgabe in diesem Projekt ist es, sich in einer Gruppenarbeit mit der Erstellung einer statischen Website auseinanderzusetzen. 
 Inhaltlich befasst sich unsere Website mit der Foot2Afrika Fundraising Tour, die jährlich in Deutschland stattfindet, um einerseits Spenden zu sammeln und andererseits über die Situation in Tansania aufmerksam zu machen.
-Mit der Website möchten wir Interessenten eine schnelle, kurze, aber ausreichende Übersicht über das Thema "Fundraising" bieten. Außerdem findet man alle anstehende Tour Termine in unserem Kalender. 
-Neben der Fundraising Tour möchten wir ebenfalls die hinter der Veranstaltung steckende Organisation "Foot2Afrika" und ihre Arbeit vorstellen.
+Mit der Website möchten wir Interessenten eine schnelle, kurze, aber ausreichende Übersicht über das Thema Fundraising bieten. Außerdem findet man alle anstehende Tour Termine in unserem Kalender. 
+Neben der Fundraising Tour möchten wir ebenfalls die hinter der Veranstaltung steckende Organisation „Foot2Afrika“ und ihre Arbeit vorstellen.
 Sollten trotzdem Unklarheiten auftreten, bietet unsere FAQ eine Reihe von oft gestellten Fragen und ihre Antworten dazu. Außerdem ist es dem User möglich durch das Kontaktformular sein Anliegen zu senden.
 Nach Abschluss des Projekts soll die Website auch für weitere darauffolgende Touren in den kommenden Jahren Informationen zu den Terminen bieten.
 
@@ -45,7 +45,7 @@ Da die inhaltliche Grundlage unserer Website auf der englischsprachigen Foot2Afr
 ####  3.1 Auswahl der Themen
 
 
-Unser Hauptaugenmerk lag darauf, einen kurzen Überblick über Foot2Afrika zu geben, mit dem Hauptfokus jedoch auf der Fundraising Tour wie es die Aufgabenstellung verlangte. Um nicht nur die Info-Seiten von Foot2 Afrika zu kopieren, haben wir die, für den Besucher der Website, wichtigsten Informationen extrahiert und versucht diese möglichst Übersichtlich und prägnant auf unserer Website darzustellen. Da das Verhalten von Usern gezeigt hat, dass diese lange Texte auf Websites nicht lesen, sondern nur überfliegen bzw. nach Key-Wörtern suchen, wollten wir durch kurze Inhaltsvolle Texte dem entgegenwirken und den Besucher unserer Website dazu bringen, möglichst viele für ihn nützliche Informationen herauszufinden.
+Unser Hauptaugenmerk lag darauf, einen kurzen Überblick über Foot2Afrika zu geben, mit dem Hauptfokus jedoch auf der Fundraising Tour, wie es die Aufgabenstellung verlangte. Um nicht nur die Info-Seiten von Foot2 Afrika zu kopieren, haben wir die, für den Besucher der Website, wichtigsten Informationen extrahiert und versucht, diese möglichst Übersichtlich und prägnant auf unserer Website darzustellen. Da das Verhalten von Usern gezeigt hat, dass diese lange Texte auf Websites nicht lesen, sondern nur überfliegen bzw. nach Key-Wörtern suchen, wollten wir durch kurze Inhaltsvolle Texte dem entgegenwirken und den Besucher unserer Website dazu bringen, möglichst viele für ihn nützliche Informationen herauszufinden.
 
 ####  3.2 Fundraising Tour
 
@@ -56,9 +56,6 @@ Es finden verschiedene Events statt, Beispiele dafür sind z.B. ein gemeinsames 
 
 Foot2Africa ist eine Organisation mit dem Ziel, die Armut in Tansania zu bekämpfen. Es werden verschiedene Projekte gefördert, um unter anderem, jedem Menschen den Zugang zu Wasser und zu Bildung zu gewähren.
 
-#### 3.4 Deren Arbeit und aktuelles Projekt
-
-
 ####  3.5 Termine 
 
 Die Termine der Fundraisingtour wurden uns durch ein Google Dokument zur Verfügung gestellt. Da die privaten Termine für uns unrelevant waren, haben wir uns entschieden diese auszusortieren und ausschließlich die öffentlichen Termine auf der Website zu veröffentlichen.
@@ -67,8 +64,6 @@ Die Termine der Fundraisingtour wurden uns durch ein Google Dokument zur Verfüg
 
 Um Fragen für die FAQ-Seite zu finden, wurden potentielle Nutzer befragt. Die gestellten Fragen wurden teils umformuliert und anschließend übernommen.
 Bei späteren Tests stellte sich heraus, dass die getesteten User keine weiteren Fragen hatten.
-
-
 
 ###   4.    Erstellung
 ####  4.1   Hintergrund und Sinn der Website
