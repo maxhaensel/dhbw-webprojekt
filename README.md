@@ -3,7 +3,47 @@
 
 [Foot to Afrika - Fundraising Tour Deutschland](http://www.wwi16a3.projekt.dhbw-heidenheim.de/)
 
-## Projektdokumentation
+##  I	Projektdokumentation	
+
+**Inhaltsverzeichnis**
+
+###   1	Vorstellung des Webprojekts	
+
+####  1.1	Projektbeschreibung	
+####  1.2	Projektumfang		
+
+
+###   2	Ablauf des Projekts
+
+#### 2.1	Projektplan und Planung	
+#### 2.2	Informationsbeschaffung	
+#### 2.3	Übersetzung und Verarbeitung der Ausgangstexte
+
+
+### 3	Inhalt	
+
+#### 3.1	Auswahl der Themen
+#### 3.2	Fundraising Tour
+#### 3.3	Was ist Foot2Afrika
+#### 3.4	Termine	
+#### 3.5	FAQ	
+
+
+### 4	Erstellung	
+
+#### 4.1	Hitergrund und Sinn der Webseite	
+#### 4.2	Verwendete Technologien	
+##### 4.2.1	Software	
+##### 4.2.2	HTML5	
+##### 4.2.3	CSS3	
+#### 4.3	Browser
+#### 4.4 Design
+	          
+### 5	Anlagen	
+#### 5.1 Genehmigung für die Rechte der Bilder
+#### 5.2 Projektplan
+#### 5.3 Wireframes
+
 
 ###   1.  Vorstellung des Webprojekts
 ####  1.1 Projektbeschreibung
@@ -43,7 +83,6 @@ Da die inhaltliche Grundlage unserer Website auf der englischsprachigen Foot2Afr
 
 ###   3.  Inhalt
 ####  3.1 Auswahl der Themen
-
 
 Unser Hauptaugenmerk lag darauf, einen kurzen Überblick über Foot2Afrika zu geben, mit dem Hauptfokus jedoch auf der Fundraising Tour, wie es die Aufgabenstellung verlangte. Um nicht nur die Info-Seiten von Foot2 Afrika zu kopieren, haben wir die, für den Besucher der Website, wichtigsten Informationen extrahiert und versucht, diese möglichst Übersichtlich und prägnant auf unserer Website darzustellen. Da das Verhalten von Usern gezeigt hat, dass diese lange Texte auf Websites nicht lesen, sondern nur überfliegen bzw. nach Key-Wörtern suchen, wollten wir durch kurze Inhaltsvolle Texte dem entgegenwirken und den Besucher unserer Website dazu bringen, möglichst viele für ihn nützliche Informationen herauszufinden.
 
