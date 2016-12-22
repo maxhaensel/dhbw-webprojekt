@@ -8,10 +8,10 @@
 ###   1.  Vorstellung des Webprojekts
 ####  1.1 Projektbeschreibung
 
-Die Aufgabe in diesem Projekt ist es, sich mit der Erstellung einer statischen Website auseinanderzusetzen. 
+Die Aufgabe in diesem Projekt ist es, sich in einer Gruppenarbeit mit der Erstellung einer statischen Website auseinanderzusetzen. 
 Inhaltlich befasst sich unsere Website mit der Foot2Afrika Fundraising Tour, die jährlich in Deutschland stattfindet, um einerseits Spenden zu sammeln und andererseits über die Situation in Tansania aufmerksam zu machen.
 Mit der Website möchten wir Interessenten eine schnelle, kurze, aber ausreichende Übersicht über das Thema Fundraising bieten. Außerdem findet man alle anstehende Tour Termine in unserem Kalender. 
-Neben der Fundraising our möchten wir ebenfalls die hinter der Veranstaltung steckende Organisation „Foot2Afrika“ und ihre Arbeit vorstellen.
+Neben der Fundraising Tour möchten wir ebenfalls die hinter der Veranstaltung steckende Organisation „Foot2Afrika“ und ihre Arbeit vorstellen.
 Sollten trotzdem Unklarheiten auftreten, bietet unsere FAQ eine Reihe von oft gestellten Fragen und ihre Antworten dazu. Außerdem ist es dem User möglich durch das Kontaktformular sein Anliegen zu senden.
 Nach Abschluss des Projekts soll die Website auch für weitere darauffolgende Touren in den kommenden Jahren Informationen zu den Terminen bieten.
 
@@ -21,49 +21,49 @@ Bei der Erstellung einer statischen Website muss berücksichtig werden, dass die
 Zuvor muss sowohl ein Projektplan, als auch verschiedene Wireframes eingereicht werden.
 Unsere Arbeit soll darüber hinaus „responsive“ sein. Damit ist gemeint, dass die Website auf verschiedenen Browser und Geräten, wie zum Beispiel Mobiltelefone und Tablets, funktionieren soll.
 
-####  1.3 Projektplan und Ablauf des Projekts
+###   2. Ablauf des Projekts
 
-Zu Beginn des Webprojekts war die Erstellung unseres Projektplans eins der wichtigsten Schritte in unserer  Vorgehensweise. Der Plan beinhaltete wichtige Punkte und Aufgaben für das Projekt, und noch wichtiger die Abgabefristen. Dadurch hatte jeder in der Gruppe eine allgemeine Übersicht über die anstehende Arbeit. Es war uns ebenfalls wichtig, dass jeder die Zeit im Überblick hatte. Auch die Aufgabenverteilung wurde schnell getroffen, sodass keine Zeit verloren ging und man parallel arbeiten konnte. Dies ersparte uns eine Menge Mühe und man verhinderte dadurch Doppelarbeiten.
+####  2.1 Projektplan und Planung
 
-(Wenn mir was einfällt, ergänze ich alles nach und nach und fülle den Inhalt)
-
+Zu Beginn des Webprojekts war die Erstellung unseres Projektplans eins der wichtigsten Schritte in unserer  Vorgehensweise. Der Plan beinhaltete wichtige Punkte und Aufgaben für das Projekt, und noch wichtiger die Abgabefristen. Dadurch hatte jeder in der Gruppe eine allgemeine Übersicht über die anstehende Arbeit. Es war uns ebenfalls wichtig, dass jeder die Zeit im Überblick hatte, weshalb wir die Aufgabenverteilung schnell getroffen haben. Somit konnte ein Teil der Gruppe sich bereits der ersten Aufgabe witmen, die Erstellung der Wireframes, während der anderer Teil sich um den Inhalt bemüht hat. Dadurch wollten wir bezwecken, dass keine Zeit verloren ging und man parallel arbeiten konnte. Dies ersparte uns eine Menge Mühe und man verhinderte dadurch Doppelarbeiten.
 Den Projektplan findet man im Anhang …
 
-###   2.  Planung, Informationsbeschaffung, Übersetzung, Bearbeitung
-####  2.2 Planung
+Des Weiteren spielte die optische Strukturierung unserer Website, neben der allgemeinen Projektplanung, eine weitere große Rolle. Mit Hilfe der Wireframes haben wir erste Ideen gestalterisch umgesetzt und festgehalten, ohne dass man jegliche Kenntnisse über das HTML oder CSS besitzen muss. Weshalb die Wireframes in unseren Augen ein sehr hilfreicher Einstieg für jeder Anfänger ist, der sich mit der Erstellung einer Website auseinander setzen möchte. Die Wireframes haben eine Art wegweisende Funktion, wie z.B ein roter Pfaden, an dem man sich orientieren kann. Sie beinhalten den definierten Projektumfang und wichtige Punkte, die zu berücksichtigen sind. Dadurch hatte man ebenfalls einen Überblick über die Konstruktion gehabt.
+Des Weiteren haben wir für die Übersicht ein Storyboard und den grafischen Aufbau der Websitenstruktur erstellt.
+Diese sind im Anhang ... zu finden.
 
-Als Hilfsmittel zu einer korrekten Planung haben wir Wireframes, ein Storyboard und den grafischen Aufbau der Webseitenstruktur genutzt (siehe Anhang). Ausserdem haben wir uns intensiv mit der Foot-2Afrika-Webseite und den Informationen die wir zusätzlich noch erhalten oder im Internet gefunden haben auseinandergesetzt.   
-####  2.3 Informationsbeschaffung
+####  2.2 Informationsbeschaffung
 
-Alle Bilder, die wir auf unserer Website verwenden, sind entweder von der Foot2Afrika-Website oder von Creative Common, also Bilder, für die der Besitzer die Erlaubnis zur Verwendung erteilt hat. Durch Kontakt mit dem Team von Foot2Afrika haben wir von ihnen die Erlaubnis erhalten, alle Bilder, Texte und weitere Informationen von ihrer Website zu verwenden. Eine Kopie der Erlaubnis in Email-Form ist im Anhang zu find
+Parallel zu all den optischen Strukturierungen haben wir uns auch um den Inhalt bemüht. Für das Thema "Fundraising Tour" haben wir uns mit den Veranstaltern und Organisation "Foot2Afrika", die in Tansania ihren Sitz hat, in Verbindung gesetzt und um Nutzungserlaubnis für Texte und Bilder gebeten. Außerdem wurden weitere Bilder von Creative Common entnommen und verwendet.
+Eine Kopie der Erlaubnis in Email-Form ist im Anhang ... zu finden.
 
-####  2.4 Übersetzung und Verarbeitung der Ausgangstexte
+####  2.3 Übersetzung und Verarbeitung der Ausgangstexte
 
-Da die inhaltliche Grundlage unserer Website auf der englischsprachigen Foot2Afrika-Website beruht mussten alle Informationen erst mal aus den englischen Texten gewonnen werden. Wir haben die Texte zum Teil übersetzt, jedoch zu Teilen auch nur die Inhalte der Texte verwendet und unsere eigenen Texte, passend zu unserer Website gestaltet.
+Da die inhaltliche Grundlage unserer Website auf der englischsprachigen Foot2Afrika-Website beruht, mussten alle Informationen für unsere Besucher in die deutsche Sprache übersetzt werden. Mit Hilfe von Online-Wörterbücher, wie z.B Leo, und eigenen Sprachkenntnissen haben wir wichtige Inhalte gefiltert und so gekürzt, dass sie informativ und übersichtlich waren
 
-###   3. Inhalt
-####  Auswahl der Themen
+###   3.  Inhalt
+####  3.1 Auswahl der Themen
 
 
 Unser Hauptaugenmerk lag darauf, einen kurzen Überblick über Foot2Afrika zu geben, mit dem Hauptfokus jedoch auf der Fundraising Tour wie es die Aufgabenstellung verlangte. Um nicht nur die Info-Seiten von Foot2 Afrika zu kopieren, haben wir die, für den Besucher der Website, wichtigsten Informationen extrahiert und versucht diese möglichst Übersichtlich und prägnant auf unserer Website darzustellen. Da das Verhalten von Usern gezweigt hat, dass diese lange Texte auf Websites nicht lesen, sondern nur überfliegen bzw nach Key-Wörtern suchen, wollten wir durch kurze Inhaltsvolle Texte dem entgegenwirken und des Besucher unserer Website dazu bringen, möglichst viele für ihn nützliche Informationen herauszufinden.
 
-####  Fundraising Tour
+####  3.2 Fundraising Tour
 
 Die Fundraisingtour besteht aus mehreren Veranstaltungen, mit dem Ziel die Organisation Foot2Africa den Menschen näher zu bringen und Fragen zu beantworten.
 Es finden verschiedene Events statt, Beispiele dafür sind z.B. ein gemeinsames kochen, Vorträge und noch mehr.
 
-####  Was ist Foot2Afrika
+####  3.3 Was ist Foot2Afrika
 
 Foot2Africa ist eine Organisation mit dem Ziel, die Armut in Tansania zu bekämpfen. Es werden verschiedene Projekte gefördert um unter anderem jedem Menschen den Zugang zu Wasser und zu Bildung zu gewähren.
 
-####  DerenArbeit und aktuelles Projekt
+#### 3.4 Deren Arbeit und aktuelles Projekt
 
 
-####  Termine 
+####  3.5 Termine 
 
 Die Termine der Fundraisingtour wurden uns durch ein Google Dokument zur Verfügung gestellt. Da die privaten Termine für uns unrelevant waren, haben wir uns entschieden diese auszusortieren und ausschließlich die öffentlichen Termine auf der Website zu veröffentlichen.
 
-####  FAQ
+####  3.6 FAQ
 
 Um Fragen für die FAQ-Seite zu finden, wurden potentielle Nutzer befragt. Die gestellten Fragen wurden teils umformuliert und anschließend übernommen.
 Bei späteren Tests stellte sich heraus, dass die getesteten User keine weiteren Fragen hatten.
@@ -73,11 +73,12 @@ Bei späteren Tests stellte sich heraus, dass die getesteten User keine weiteren
 ###   4.    Erstellung
 ####  4.1   Hintergrund und Sinn der Website
 
-Ziel der Website ist es, dass sich jeder Interessiert über die Fundraising-Tour von Foot2Afrika in Deutschland informieren kann. Damit auch ein Überblick über Foot2Afrika für nicht englischsprachige Personen vorliegt, haben wir auf unserer Website die wichtigsten Informationen und Ziele von Foot2Afrika und ihrer Fundraising Tour möglichst übersichtlich dargestellt. Wir haben uns hierbei auf die wichtigsten Informationen konzentriert, um nicht eine zweite deutschsprache Foot2Afrika Website zu erstellen, sondern eine Website bei der die Fundraising Tour im Vordergrund steht.
+Ziel der Website ist es, die Fundraising-Tour von der Organisation "Foot2Afrika", die jährlich in Deutschland veranstaltet wird, vorzustellen und dem Besucher näherzubringen. Man wird allgemein über das Fundraising informiert und erhält zu dieser Tour die anstehende Termine. Die Besucher sollen leicht durch den Inhalt geführt werden, sodass Interesse aufkommt sich zu engageren und teilzunehmen. Außerdem informiert unsere Website über die Veranstalter "Foot2Afrika" selbst. 
+
+Damit auch ein Überblick über Foot2Afrika für nicht englischsprachige Personen vorliegt, haben wir auf unserer Website die wichtigsten Informationen und Ziele von Foot2Afrika und ihrer Fundraising Tour möglichst übersichtlich dargestellt. Wir haben uns hierbei auf die wichtigsten Informationen konzentriert, um nicht eine zweite deutschsprache Foot2Afrika Website zu erstellen, sondern eine Website bei der die Fundraising Tour im Vordergrund steht.
 ####  4.2   Verwendete Technologien
 ##### 4.2.1 Software
 
-- GitHub  
 - FilaZilla (FTP-Programm)
 - JADE  (HTML-Compiler)
 - SASS  (Syntactically Awesome Stylesheets)
@@ -143,14 +144,6 @@ stylesheet.css
 ├── tablet-navigation.css
 └── tour-event.css
 ```
-#####
-Für den Anhang?!
-
-
-
-
-
-#####
 
 ### 4.3 Design
 
@@ -163,8 +156,7 @@ Die Startseite hebt sich eindeutig durch ihre Dynamik ab und vermittelt dadurch 
 Ziel des Design bei diesen Objekten war es dem Anwender der Seite Spaß und einen Überaschungsmoment zu liefern. 
 
 
-#####
-4.4  User-Testing bzw. Usability-Tests:
+##### 4.4  User-Testing bzw. Usability-Tests:
 
 Zwei Mal während der Projektlaufzeit, haben wir unsere Seite ein wenig testen lassen. 
 Eigentlich wollten wir drei „Tests“ machen, den ersten nur anhand unserer Wireframes, aber wie es manchmal so ist mit der Planung, ist aus diesem ersten frühen Test nichts geworden.
@@ -173,5 +165,5 @@ Beim zweiten Test war die Webseite schon fertig, bis auf die eine oder andere Se
 Sehr zu unserer Freude, waren alle total begeistert von unserer Website. Es gab kleinere Kritikpunkte, zum Beispiel waren nicht alle gleich begeistert von der Präsentation unserer Bilder. Des Weiteren tat sich wie aus dem nichts ein etwas größerer Bug in der Navigationsleite auf. 
 Abschließend kann man sagen, dass wir doch sehr von den Usability-Tests profitiert haben. Steckt man selbst mitten im Projekt kann man selbst mit 12 Augen manchmal nicht erkennen, was „User“ sofort entdeckt.
 
-#####
+### 5. Anhang
 
