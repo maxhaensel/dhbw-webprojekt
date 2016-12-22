@@ -3,6 +3,51 @@
 
 [Foot to Afrika - Fundraising Tour Deutschland](http://www.wwi16a3.projekt.dhbw-heidenheim.de/)
 
+Inhaltsverzeichnis
+
+I	Projektdokumentation......................................................................................2
+
+1	Vorstellung des Webprojekts...............................................................................2
+
+1.1	Projektbeschreibung.....................................................................................2
+1.2	Projektumfang...........................................................................................2
+
+
+2. Ablauf des Projekts
+
+2.1	Projektplan und Planung.....................................................................................2
+2.2	Informationsbeschaffung.....................................................................................2
+2.3	Übersetzung und Verarbeitung der Ausgangstexte.................................................................2
+2.4	Bearbeitung.....................................................................................2
+
+
+3	Inhalt	
+
+3.1	Fundraising Tour.....................................................................................2
+3.2	Was ist Foot2Afrika.....................................................................................2
+3.3	Deren Arbeit und aktuelles Projekt.....................................................................................2
+3.4	Termine	4
+3.5	FAQ	4
+
+
+4	Erstellung	4
+
+4.1	Hitergrund und Sinn der Webseite	4
+4.2	Verwendete Technologien	5
+     4.2.1	Software	5
+	Freddy
+     4.2.2	HTML5	5
+     4.2.3	CSS3	6
+	Max
+4.3	Design	6
+	          Max
+5	Anlagen	11
+
+
+
+
+
+
 ## Projektdokumentation
 
 ###   1.  Vorstellung des Webprojekts
@@ -19,16 +64,16 @@ Nach Abschluss des Projekts soll die Website auch für weitere darauffolgende To
 
 Bei der Erstellung einer statischen Website muss berücksichtig werden, dass diese mindestens vier unterscheidbare, bedeutsame und gehaltvolle Seiten beinhalten soll. 
 Zuvor muss sowohl ein Projektplan, als auch verschiedene Wireframes eingereicht werden.
-Unsere Arbeit soll darüber hinaus „responsive“ sein. Damit ist gemeint, dass die Website auf verschiedenen Browser und Geräten, wie zum Beispiel Mobiltelefone und Tablets, funktionieren soll.
+Unsere Arbeit soll darüber hinaus „responsive“ sein. Damit ist gemeint, dass die Website auf verschiedene Browser und Geräten, wie zum Beispiel Mobiltelefone und Tablets, funktionieren soll.
 
 ###   2. Ablauf des Projekts
 
 ####  2.1 Projektplan und Planung
 
-Zu Beginn des Webprojekts war die Erstellung unseres Projektplans eins der wichtigsten Schritte in unserer  Vorgehensweise. Der Plan beinhaltete wichtige Punkte und Aufgaben für das Projekt, und noch wichtiger die Abgabefristen. Dadurch hatte jeder in der Gruppe eine allgemeine Übersicht über die anstehende Arbeit. Es war uns ebenfalls wichtig, dass jeder die Zeit im Überblick hatte, weshalb wir die Aufgabenverteilung schnell getroffen haben. Somit konnte ein Teil der Gruppe sich bereits der ersten Aufgabe witmen, die Erstellung der Wireframes, während der anderer Teil sich um den Inhalt bemüht hat. Dadurch wollten wir bezwecken, dass keine Zeit verloren ging und man parallel arbeiten konnte. Dies ersparte uns eine Menge Mühe und man verhinderte dadurch Doppelarbeiten.
+Zu Beginn des Webprojekts war die Erstellung unseres Projektplans eins der wichtigsten Schritte in unserer  Vorgehensweise. Der Plan beinhaltete wichtige Punkte und Aufgaben für das Projekt, und noch wichtiger die Abgabefristen. Dadurch hatte jeder in der Gruppe eine allgemeine Übersicht über die anstehende Arbeit. Es war uns ebenfalls wichtig, dass jeder die Zeit im Überblick hatte, weshalb wir die Aufgabenverteilung schnell getroffen haben. Somit konnte ein Teil der Gruppe sich bereits der ersten Aufgabe widmen, die Erstellung der Wireframes, während der andere Teil sich um den Inhalt bemüht hat. Dadurch wollten wir bezwecken, dass keine Zeit verloren ging und man parallel arbeiten konnte. Dies ersparte uns eine Menge Mühe und man verhinderte dadurch Doppelarbeiten.
 Den Projektplan findet man im Anhang …
 
-Des Weiteren spielte die optische Strukturierung unserer Website, neben der allgemeinen Projektplanung, eine weitere große Rolle. Mit Hilfe der Wireframes haben wir erste Ideen gestalterisch umgesetzt und festgehalten, ohne dass man jegliche Kenntnisse über das HTML oder CSS besitzen muss. Weshalb die Wireframes in unseren Augen ein sehr hilfreicher Einstieg für jeder Anfänger ist, der sich mit der Erstellung einer Website auseinander setzen möchte. Die Wireframes haben eine Art wegweisende Funktion, wie z.B ein roter Pfaden, an dem man sich orientieren kann. Sie beinhalten den definierten Projektumfang und wichtige Punkte, die zu berücksichtigen sind. Dadurch hatte man ebenfalls einen Überblick über die Konstruktion gehabt.
+Des Weiteren spielte die optische Strukturierung unserer Website, neben der allgemeinen Projektplanung, eine weitere große Rolle. Mit Hilfe der Wireframes haben wir erste Ideen gestalterisch umgesetzt und festgehalten, ohne dass man jegliche Kenntnisse über das HTML oder CSS besitzen muss. Weshalb die Wireframes in unseren Augen ein sehr hilfreicher Einstieg für jeden Anfänger sind, die sich mit der Erstellung einer Website auseinander setzen möchten. Die Wireframes haben eine Art wegweisende Funktion, wie z.B ein roter Faden, an dem man sich orientieren kann. Sie beinhalten den definierten Projektumfang und wichtige Punkte, die zu berücksichtigen sind. Dadurch hatte man ebenfalls einen Überblick über die Konstruktion gehabt.
 Des Weiteren haben wir für die Übersicht ein Storyboard und den grafischen Aufbau der Websitenstruktur erstellt.
 Diese sind im Anhang ... zu finden.
 
@@ -39,31 +84,27 @@ Eine Kopie der Erlaubnis in Email-Form ist im Anhang ... zu finden.
 
 ####  2.3 Übersetzung und Verarbeitung der Ausgangstexte
 
-Da die inhaltliche Grundlage unserer Website auf der englischsprachigen Foot2Afrika-Website beruht, mussten alle Informationen für unsere Besucher in die deutsche Sprache übersetzt werden. Mit Hilfe von Online-Wörterbücher, wie z.B Leo, und eigenen Sprachkenntnissen haben wir wichtige Inhalte gefiltert und so gekürzt, dass sie informativ und übersichtlich waren
+Da die inhaltliche Grundlage unserer Website auf der englischsprachigen Foot2Afrika Website beruht, mussten alle Informationen für unsere Besucher in die deutsche Sprache übersetzt werden. Mit Hilfe von Online-Wörterbüchern, wie z.B Leo, und eigenen Sprachkenntnissen haben wir wichtige Inhalte gefiltert und so gekürzt, dass sie informativ und übersichtlich waren
 
 ###   3.  Inhalt
 ####  3.1 Auswahl der Themen
 
-
-Unser Hauptaugenmerk lag darauf, einen kurzen Überblick über Foot2Afrika zu geben, mit dem Hauptfokus jedoch auf der Fundraising Tour wie es die Aufgabenstellung verlangte. Um nicht nur die Info-Seiten von Foot2 Afrika zu kopieren, haben wir die, für den Besucher der Website, wichtigsten Informationen extrahiert und versucht diese möglichst Übersichtlich und prägnant auf unserer Website darzustellen. Da das Verhalten von Usern gezweigt hat, dass diese lange Texte auf Websites nicht lesen, sondern nur überfliegen bzw nach Key-Wörtern suchen, wollten wir durch kurze Inhaltsvolle Texte dem entgegenwirken und des Besucher unserer Website dazu bringen, möglichst viele für ihn nützliche Informationen herauszufinden.
+Unser Hauptaugenmerk lag darauf, einen kurzen Überblick über Foot2Afrika zu geben, mit dem Hauptfokus jedoch auf der Fundraising Tour, wie es die Aufgabenstellung verlangte. Um nicht nur die Informationsseiten von Foot2 Afrika zu kopieren, haben wir die, für den Besucher der Website, wichtigsten Informationen extrahiert und versucht diese möglichst übersichtlich und prägnant auf unserer Website darzustellen. Da das Verhalten von Usern gezeigt hat, dass diese lange Texte auf Websiten generell nicht gelesen werden, sondern nur überflogen werden bzw. nach Key-Wörtern gesucht werden, wollten wir durch kurze inhaltsvolle Texte dem entgegenwirken und die Besucher unserer Website dazu bringen, möglichst viele für ihn nützliche Informationen herauszufinden.
 
 ####  3.2 Fundraising Tour
 
-Die Fundraisingtour besteht aus mehreren Veranstaltungen, mit dem Ziel die Organisation Foot2Africa den Menschen näher zu bringen und Fragen zu beantworten.
-Es finden verschiedene Events statt, Beispiele dafür sind z.B. ein gemeinsames kochen, Vorträge und noch mehr.
+Die Fundraisingtour besteht aus mehreren Veranstaltungen, mit dem Ziel die Organisation "Foot2Afrika" den Menschen näher zu bringen und Fragen zu beantworten.
+Es finden verschiedene Events statt, Beispiele dafür sind z.B. ein gemeinsames Kochen, Vorträge und noch mehr.
 
 ####  3.3 Was ist Foot2Afrika
 
-Foot2Africa ist eine Organisation mit dem Ziel, die Armut in Tansania zu bekämpfen. Es werden verschiedene Projekte gefördert um unter anderem jedem Menschen den Zugang zu Wasser und zu Bildung zu gewähren.
+Foot2AfrikA ist eine Organisation mit dem Ziel, die Armut in Tansania zu bekämpfen. Es werden verschiedene Projekte gefördert; um unter anderem jedem Menschen den Zugang zu Wasser und zu Bildung zu gewähren.
 
-#### 3.4 Deren Arbeit und aktuelles Projekt
+####  3.4 Termine 
 
+Die Termine der Fundraising Tour wurden uns durch ein Googledokument zur Verfügung gestellt. Da die privaten Termine für uns unrelevant waren, haben wir uns entschieden diese auszusortieren und ausschließlich die öffentlichen Termine auf der Website zu veröffentlichen.
 
-####  3.5 Termine 
-
-Die Termine der Fundraisingtour wurden uns durch ein Google Dokument zur Verfügung gestellt. Da die privaten Termine für uns unrelevant waren, haben wir uns entschieden diese auszusortieren und ausschließlich die öffentlichen Termine auf der Website zu veröffentlichen.
-
-####  3.6 FAQ
+####  3.5 FAQ
 
 Um Fragen für die FAQ-Seite zu finden, wurden potentielle Nutzer befragt. Die gestellten Fragen wurden teils umformuliert und anschließend übernommen.
 Bei späteren Tests stellte sich heraus, dass die getesteten User keine weiteren Fragen hatten.
@@ -144,7 +185,7 @@ Den open-source - FTP-Client FileZilla haben wir zum hochladen unserer Seite auf
 
 ##### 4.2.2 HTML
 
-Bei der Erstellung der benötigten HTML-Files für die Webseite haben wir die Semantik des aktuellen Standards HTML 5 eingehalten. Während und nach der Erstellung besagter Files haben wir diese mithilfe des W3C Markup Validator (https://validator.w3.org/) überprüft um zu gewährleisten, dass wir qualiltativ hochwertiges und vor allem richtiges HTML verwenden.
+Bei der Erstellung der benötigten HTML-Files für die Webseite haben wir die Semantik des aktuellen Standards HTML5 eingehalten. Während und nach der Erstellung besagter Files haben wir diese mithilfe des W3C Markup Validator (https://validator.w3.org/) überprüft um zu gewährleisten, dass wir qualiltativ hochwertiges und vor allem richtiges HTML verwenden.
 ##### 4.2.3 CSS
 
 **Struktur/Aufbau**
@@ -187,7 +228,7 @@ Die Startseite hebt sich eindeutig durch ihre Dynamik ab und vermittelt dadurch 
 Ziel des Design bei diesen Objekten war es dem Anwender der Seite Spaß und einen Überaschungsmoment zu liefern. 
 
 
-##### 4.4  User-Testing bzw. Usability-Tests:
+### 4.4  User-Testing bzw. Usability-Tests:
 
 Zwei Mal während der Projektlaufzeit, haben wir unsere Seite ein wenig testen lassen. 
 Eigentlich wollten wir drei „Tests“ machen, den ersten nur anhand unserer Wireframes, aber wie es manchmal so ist mit der Planung, ist aus diesem ersten frühen Test nichts geworden.
