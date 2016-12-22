@@ -76,70 +76,58 @@ Bei späteren Tests stellte sich heraus, dass die getesteten User keine weiteren
 Ziel der Website ist es, die Fundraising-Tour von der Organisation "Foot2Afrika", die jährlich in Deutschland veranstaltet wird, vorzustellen und dem Besucher näherzubringen. Man wird allgemein über das Fundraising informiert und erhält zu dieser Tour die anstehende Termine. Die Besucher sollen leicht durch den Inhalt geführt werden, sodass Interesse aufkommt sich zu engageren und teilzunehmen. Außerdem informiert unsere Website über die Veranstalter "Foot2Afrika" selbst. 
 
 Damit auch ein Überblick über Foot2Afrika für nicht englischsprachige Personen vorliegt, haben wir auf unserer Website die wichtigsten Informationen und Ziele von Foot2Afrika und ihrer Fundraising Tour möglichst übersichtlich dargestellt. Wir haben uns hierbei auf die wichtigsten Informationen konzentriert, um nicht eine zweite deutschsprache Foot2Afrika Website zu erstellen, sondern eine Website bei der die Fundraising Tour im Vordergrund steht.
-####  4.2   Verwendete Technologien
-##### 4.2.1 Software
 
+####  4.2   Verwendete Technologien
+##### 4.2.1 Softwareliste
+
+- Github
 - FilaZilla (FTP-Programm)
 - JADE  (HTML-Compiler)
 - SASS  (Syntactically Awesome Stylesheets)
 - WebStorm  (HTML/CSS Editor)
 - Brackets  (HTML/CSS Editor)
 
-Verwende Software/Programme:
+**Verwende Software/Programme:**
 
-- Github
-(https://github.com/)
+- [Github](https://github.com/)
+
 Der Dienstleister Github dient der Verwaltung von quelloffener Software (engl. ‚open source hoster‘). Github bietet die Möglichkeit mit mehreren Entwicklern an einem Projekt (‚Repositorie‘) zu arbeiten. Mit dieser Möglichkeit erleichterte uns Github unsere Zusammenarbeit, an den HTML Files, CSS Stylesheets, aber beispielsweise auch an der Userstory. Völlig gleich, wann an einer Datei von einem unserer Teammitglieder eine Änderung vorgenommen wurde, durch eine kurze Synchronisation auf Github waren alle anderen sofort auf dem neusten Stand. Vergleichsweise einfach war das Zusammenarbeiten mehrerer Teammitglieder an einem CSS-Stylesheet. Dadurch, dass alle stets auf dem gleichen Stand waren und alle gemeinsamen Dateien über Github beziehen konnten, konnten auch schnell Verbesserungen angebracht oder Fehler eliminiert werden.
 Abschließend kann man festhalten, dass uns Github die Zusammenarbeit an unserem Webprojekt enorm erleichtert hat. Anstatt permanent Dateien von A nach B zu senden und überwachen zu müssen, welche Datei nun die aktuellste ist, kann man sich bei Github einloggen und hat immer einen guten Überblick über den Stand des Webprojekts.
 
+- [Brackets](http://brackets.io/)
 
+Brackets ist ein kostenloser, open-source Texteditor. Er erlaubt es, beliebige Anwendungen mit JavaScript, HTML und CSS zu erstellen, ist aber am ehesten zum Erstellen von Webprojekten gedacht. Mit der integrierten Live-Ansicht weiterer optionaler Features ermöglicht der Editor eine optimale Arbeit mit dem HTML und CSS Code.
 
-- Brackets 
-http://brackets.io/
-ist ein kostenloser, open-source Texteditor. Er erlaubt es, beliebige Anwendungen mit JavaScript, HTML und CSS zu erstellen, ist aber am ehesten zum Erstellen von Webprojekten gedacht. Mit der integrierten Live-Ansicht weiterer optionaler Features ermöglicht der Editor eine optimale Arbeit mit dem HTML und CSS Code.
+- [Balsamiq Mockups](https://balsamiq.com/products/mockups/)
 
-
-
-
-- Balsamiq Mockups
-(https://balsamiq.com/products/mockups/)
 Zur Erstellung der Skizzen/Wireframes für die verschiedenen Ansichten unserer Webseite haben wir das Wireframing10-Tool Balsamiq Mockups verwendet. Die Benutzeroberfläche des Tools stellt eine Auswahl an vorgefertigten geometrischen Objekten, verschiedenen UI-Elementen und weiteren Formen zur Verfügung. Diese können ganz einfach per Drag-and-Drop auf dem virtuellen Skizzenpapier zurechtgerückt werden. In dem Tool haben wir alle nötigen Elemente, von Navigationen bis hin zu Formularen, gefunden. Diese haben wir dann unseren Vorstellungen entsprechend angeordnet und so die Skizzen für unsere frühe Konzeptphase entwickelt. 
 Die Konzeption selbst, also Fragen wie: „Sollen die Bilder in der mobilen Ansicht untereinander oder passen auch zwei nebeneinander?“, kann einem das Toll natürlich nicht abnehmen. Allerdings veranschaulichen einem die, in Balsamiq Mockups erstellten, Wireframes sehr gut verschiedene Möglichkeiten und helfen so doch ein gutes Konzept aufzustellen.
 Außerdem Positiv: Das Tool kann bis zu 30 Tagen kostenfrei verwendet werden, danach kostet es allerdings.
 
-- StoriesOnBoard 
-(http://storiesonboard.com/)	
+- [StoriesOnBoard](http://storiesonboard.com/)	
+
 Zur Ausarbeitung unserer Userstories haben wir das Online und Cloudbasierte Tool StoriesOnBoard verwendet. Dieses bietet die Möglichkeit per Drag-and-Drop, verschiedenfarbige Karteikarten anzuordnen und somit verschiedene Ebenen der Userstory dazustellen. 
 Des Weiteren sollte an dieser Stelle die Webseite von Roman Pichler: http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/ erwähnt werden, die uns beim Grundverständnis des Themas Userstory und bei der anschließenden Ausarbeitung eine große Hilfe war.
 
+- [Sass (Syntactically Awesome Stylesheets)](http://sass-lang.com/)
 
-- Sass (Syntactically Awesome Stylesheets)
-http://sass-lang.com/
-„ist eine Stylesheet-Sprache, die als Präprozessor die Erzeugung von Cascading Style Sheets erleichtert.“ (https://de.wikipedia.org/wiki/Sass_(Stylesheet-Sprache))
+Sass „ist eine Stylesheet-Sprache, die als Präprozessor die Erzeugung von Cascading Style Sheets erleichtert.“ (https://de.wikipedia.org/wiki/Sass_(Stylesheet-Sprache))
 Aus einer erstellten SASS Datei wird also Bevor diese auf dem eigentlichen Server zum Einsatz kommt, eine CSS Datei. SASS ermöglicht es den Code schneller, einfacher, effektiver und besser zu erstellen und anschließend pflegen zu können. Als Ergebnis erhält man also (im Normalfall) eine sehr saubere CSS Datei. 
 Ein weiterer erwähnenswerter Punkt ist, dass man mit SASS rechnen kann. Als kleines Beispiel: Jede H1 Überschrift, soll 3-mal so groß sein wie die Standart-Schriftgröße. Mit SASS kein Problem.
 
-
-
-- WebStorm 
-https://www.jetbrains.com/webstorm/
+- [WebStorm](https://www.jetbrains.com/webstorm/)
 ..für Studenten zum Glück kostenlos, ist eine Entwicklungsumgebung für JavaScript und HTML. Sie unterstützt natürlich Syntax-Highlighting, IntelliSense und Autocomplete. Außerdem bietet sie ein Browser-Plugin, der das Debuggen im Browser erleichtert.
 
 !!!!!!!!!   Ehrlich gesagt kein Plan was du damit gemacht hast Max.. also vielleicht musst du hier doch selbst Hand anlegen ?!!!!!!!!!!!!!!!!!!!!
 
+- [Jade](https://www.jadeworld.com/developer-center/)
 
-- Jade 
-https://www.jadeworld.com/developer-center/
 Jade ähnelt in gewisser Weise SASS. Nur das es hier nicht darum geht das coden von CSS sondern von HTML zu erleichtern. Ein riesen Vorteil ist, dass HTML-Elemente nie wieder falsch geschlossen werden. 
 Da die Beschreibung sehr umständlich wäre hier noch ein kleines Zitat:
 „Die richtige Einrückung der jeweiligen HTML-Elemente passiert über Tab-Stopps innerhalb von Jade. Ihr könnt so ganze HTML-Konstrukte mit nur sehr wenigen Keywords beschreiben. Darüber hinaus wird HTML durch Jade unter anderem mit Logik erweitert: Schleifen, Vererbung, Mixins und Variablen stehen zur Verfügung, um den HTML-Workflow zu optimieren.“ (http://t3n.de/news/jade-638027/)
 
-
-- FileZilla  (FTP-Programm) 
-https://filezilla-project.org/
+- [FileZilla (FTP-Programm)](https://filezilla-project.org/)
 Den open-source - FTP-Client FileZilla haben wir zum hochladen unserer Seite auf den Server verwendet. Dank der einfachen Bedienbarkeit und Funktionalität wird einem genau das nämlich von FileZilla erleichtert. 
-
-
 
 
 ##### 4.2.2 HTML
