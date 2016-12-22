@@ -3,9 +3,9 @@
 
 [Foot to Afrika - Fundraising Tour Deutschland](http://www.wwi16a3.projekt.dhbw-heidenheim.de/)
 
-##  I	Projektdokumentation	
+#  I	Projektdokumentation	
 
-**Inhaltsverzeichnis**
+## Inhaltsverzeichnis
 
 ###   1	Vorstellung des Webprojekts	
 
@@ -43,6 +43,7 @@
 #### 5.1 Genehmigung für die Rechte der Bilder
 #### 5.2 Projektplan
 #### 5.3 Wireframes
+
 
 
 ###   1.  Vorstellung des Webprojekts
