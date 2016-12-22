@@ -19,37 +19,34 @@ Nach Abschluss des Projekts soll die Website auch für weitere darauffolgende To
 
 Bei der Erstellung einer statischen Website muss berücksichtig werden, dass diese mindestens vier unterscheidbare, bedeutsame und gehaltvolle Seiten beinhalten soll. 
 Zuvor muss sowohl ein Projektplan, als auch verschiedene Wireframes eingereicht werden.
-Unsere Arbeit soll darüber hinaus „responsive“ sein. Damit ist gemeint, dass die Website auf verschiedenen Browser und Geräten, wie zum Beispiel Mobiltelefone und Tablets, funktionieren soll.
+Unsere Arbeit soll darüber hinaus „responsive“ sein. Damit ist gemeint, dass die Website auf verschiedene Browser und Geräten, wie z.B. Mobiltelefone und Tablets, funktionieren soll.
 
 ###   2. Ablauf des Projekts
 
 ####  2.1 Projektplan und Planung
 
-Zu Beginn des Webprojekts war die Erstellung unseres Projektplans eins der wichtigsten Schritte in unserer  Vorgehensweise. Der Plan beinhaltete wichtige Punkte und Aufgaben für das Projekt, und noch wichtiger die Abgabefristen. Dadurch hatte jeder in der Gruppe eine allgemeine Übersicht über die anstehende Arbeit. Es war uns ebenfalls wichtig, dass jeder die Zeit im Überblick hatte, weshalb wir die Aufgabenverteilung schnell getroffen haben. Somit konnte ein Teil der Gruppe sich bereits der ersten Aufgabe witmen, die Erstellung der Wireframes, während der anderer Teil sich um den Inhalt bemüht hat. Dadurch wollten wir bezwecken, dass keine Zeit verloren ging und man parallel arbeiten konnte. Dies ersparte uns eine Menge Mühe und man verhinderte dadurch Doppelarbeiten.
-Den Projektplan findet man im Anhang …
+Zu Beginn des Webprojekts war die Erstellung unseres Projektplans eins der wichtigsten Schritte in unserer Vorgehensweise. Der Plan beinhaltete wichtige Punkte und Aufgaben für das Projekt, und noch wichtiger die Abgabefristen. Dadurch hatte jeder in der Gruppe eine allgemeine Übersicht über die anstehende Arbeit. Es war uns ebenfalls wichtig, dass jeder die Zeit im Überblick hatte, weshalb wir die Aufgabenverteilung schnell getroffen haben. Somit konnte ein Teil der Gruppe sich bereits der ersten Aufgabe widmen, die Erstellung der Wireframes, während der andere Teil sich um den Inhalt bemüht hat. Dadurch wollten wir bezwecken, dass keine Zeit verloren ging und man parallel arbeiten konnte. Dies ersparte uns eine Menge Mühe und man verhinderte dadurch Doppelarbeiten.
 
-Des Weiteren spielte die optische Strukturierung unserer Website, neben der allgemeinen Projektplanung, eine weitere große Rolle. Mit Hilfe der Wireframes haben wir erste Ideen gestalterisch umgesetzt und festgehalten, ohne dass man jegliche Kenntnisse über das HTML oder CSS besitzen muss. Weshalb die Wireframes in unseren Augen ein sehr hilfreicher Einstieg für jeder Anfänger ist, der sich mit der Erstellung einer Website auseinander setzen möchte. Die Wireframes haben eine Art wegweisende Funktion, wie z.B ein roter Pfaden, an dem man sich orientieren kann. Sie beinhalten den definierten Projektumfang und wichtige Punkte, die zu berücksichtigen sind. Dadurch hatte man ebenfalls einen Überblick über die Konstruktion gehabt.
+Des Weiteren spielte die optische Strukturierung unserer Website, neben der allgemeinen Projektplanung, eine weitere große Rolle. Mit Hilfe der Wireframes haben wir erste Ideen gestalterisch umgesetzt und festgehalten, ohne dass man jegliche Kenntnisse über das HTML oder CSS besitzen muss. Weshalb die Wireframes in unseren Augen ein sehr hilfreicher Einstieg für jeden Anfänger sind, die sich mit der Erstellung einer Website auseinandersetzen möchten. Die Wireframes haben eine Art wegweisende Funktion, wie z.B ein roter Faden, an dem man sich orientieren kann. Sie beinhalten den definierten Projektumfang und wichtige Punkte, die zu berücksichtigen sind. Dadurch hatte man ebenfalls einen Überblick über die Konstruktion gehabt.
 Des Weiteren haben wir für die Übersicht ein Storyboard und den grafischen Aufbau der Websitenstruktur erstellt.
-Diese sind im Anhang ... zu finden.
 
 ####  2.2 Informationsbeschaffung
 
 Parallel zu all den optischen Strukturierungen haben wir uns auch um den Inhalt bemüht. Für das Thema "Fundraising Tour" haben wir uns mit den Veranstaltern und Organisation "Foot2Afrika", die in Tansania ihren Sitz hat, in Verbindung gesetzt und um Nutzungserlaubnis für Texte und Bilder gebeten. Außerdem wurden weitere Bilder von Creative Common entnommen und verwendet.
-Eine Kopie der Erlaubnis in Email-Form ist im Anhang ... zu finden.
+Eine Kopie der Erlaubnis in Email-Form ist im Anhang zu finden.
 
 ####  2.3 Übersetzung und Verarbeitung der Ausgangstexte
 
-Da die inhaltliche Grundlage unserer Website auf der englischsprachigen Foot2Afrika-Website beruht, mussten alle Informationen für unsere Besucher in die deutsche Sprache übersetzt werden. Mit Hilfe von Online-Wörterbücher, wie z.B Leo, und eigenen Sprachkenntnissen haben wir wichtige Inhalte gefiltert und so gekürzt, dass sie informativ und übersichtlich waren
+Da die inhaltliche Grundlage unserer Website auf der englischsprachigen Foot2Afrika-Website beruht, mussten alle Informationen für unsere Besucher in die deutsche Sprache übersetzt werden. Mit Hilfe von Online-Wörterbüchern, wie z.B Leo, und eigenen Sprachkenntnissen haben wir wichtige Inhalte gefiltert und so gekürzt, dass sie informativ und übersichtlich waren.
 
 ###   3.  Inhalt
 ####  3.1 Auswahl der Themen
 
-
-Unser Hauptaugenmerk lag darauf, einen kurzen Überblick über Foot2Afrika zu geben, mit dem Hauptfokus jedoch auf der Fundraising Tour wie es die Aufgabenstellung verlangte. Um nicht nur die Info-Seiten von Foot2 Afrika zu kopieren, haben wir die, für den Besucher der Website, wichtigsten Informationen extrahiert und versucht diese möglichst Übersichtlich und prägnant auf unserer Website darzustellen. Da das Verhalten von Usern gezeigt hat, dass diese lange Texte auf Websites nicht lesen, sondern nur überfliegen bzw. nach Key-Wörtern suchen, wollten wir durch kurze Inhaltsvolle Texte dem entgegenwirken und den Besucher unserer Website dazu bringen, möglichst viele für ihn nützliche Informationen herauszufinden.
+Unser Hauptaugenmerk lag darauf, einen kurzen Überblick über Foot2Afrika zu geben, mit dem Hauptfokus jedoch auf der Fundraising Tour, wie es die Aufgabenstellung verlangte. Um nicht nur die Informationsseiten von Foot2Afrika zu kopieren, haben wir die, für den Besucher der Website, wichtigsten Informationen extrahiert und versucht diese möglichst übersichtlich und prägnant auf unserer Website darzustellen. Da das Verhalten von Usern gezeigt hat, dass diese langen Texte auf Websites generell nicht gelesen werden, sondern nur überflogen bzw. nach Key-Wörtern gesucht werden, wollten wir durch kurze inhaltsvolle Texte dem entgegenwirken und den Besucher unserer Website dazu bringen, möglichst viele für ihn nützliche Informationen herauszufinden.
 
 ####  3.2 Fundraising Tour
 
-Die Fundraisingtour besteht aus mehreren Veranstaltungen, mit dem Ziel die Organisation Foot2Africa den Menschen näher zu bringen und Fragen zu beantworten.
+Die Fundraisingtour besteht aus mehreren Veranstaltungen, mit dem Ziel die Organisation Foot2Afrika den Menschen näher zu bringen und Fragen zu beantworten.
 Es finden verschiedene Events statt, Beispiele dafür sind z.B. ein gemeinsames kochen, Vorträge und noch mehr.
 
 ####  3.3 Was ist Foot2Afrika
@@ -61,7 +58,7 @@ Foot2Africa ist eine Organisation mit dem Ziel, die Armut in Tansania zu bekämp
 
 ####  3.5 Termine 
 
-Die Termine der Fundraisingtour wurden uns durch ein Google Dokument zur Verfügung gestellt. Da die privaten Termine für uns unrelevant waren, haben wir uns entschieden diese auszusortieren und ausschließlich die öffentlichen Termine auf der Website zu veröffentlichen.
+Die Termine der Fundraisingtour wurden uns durch ein Googledokument zur Verfügung gestellt. Da die privaten Termine für uns unrelevant waren, haben wir uns entschieden diese auszusortieren und ausschließlich die öffentlichen Termine auf der Website zu veröffentlichen.
 
 ####  3.6 FAQ
 
@@ -107,11 +104,11 @@ Außerdem Positiv: Das Tool kann bis zu 30 Tagen kostenfrei verwendet werden, da
 - [StoriesOnBoard](http://storiesonboard.com/)	
 
 Zur Ausarbeitung unserer Userstories haben wir das Online und Cloudbasierte Tool StoriesOnBoard verwendet. Dieses bietet die Möglichkeit per Drag-and-Drop, verschiedenfarbige Karteikarten anzuordnen und somit verschiedene Ebenen der Userstory dazustellen. 
-Des Weiteren sollte an dieser Stelle die Webseite von Roman Pichler: http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/ erwähnt werden, die uns beim Grundverständnis des Themas Userstory und bei der anschließenden Ausarbeitung eine große Hilfe war.
+Des Weiteren sollte an dieser Stelle die Webseite von [Roman Pichler](http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/) erwähnt werden, die uns beim Grundverständnis des Themas Userstory und bei der anschließenden Ausarbeitung eine große Hilfe war.
 
 - [Sass (Syntactically Awesome Stylesheets)](http://sass-lang.com/)
 
-Sass „ist eine Stylesheet-Sprache, die als Präprozessor die Erzeugung von Cascading Style Sheets erleichtert.“ (https://de.wikipedia.org/wiki/Sass_(Stylesheet-Sprache))
+Sass [„ist eine Stylesheet-Sprache, die als Präprozessor die Erzeugung von Cascading Style Sheets erleichtert.“](https://de.wikipedia.org/wiki/Sass_(Stylesheet-Sprache))
 Aus einer erstellten SASS Datei wird also Bevor diese auf dem eigentlichen Server zum Einsatz kommt, eine CSS Datei. SASS ermöglicht es den Code schneller, einfacher, effektiver und besser zu erstellen und anschließend pflegen zu können. Als Ergebnis erhält man also (im Normalfall) eine sehr saubere CSS Datei. 
 Ein weiterer erwähnenswerter Punkt ist, dass man mit SASS rechnen kann. Als kleines Beispiel: Jede H1 Überschrift, soll 3-mal so groß sein wie die Standart-Schriftgröße. Mit SASS kein Problem.
 
