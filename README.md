@@ -159,7 +159,11 @@ stylesheet.css
 └── tour-event.css
 ```
 
-### 4.3 Design
+##### 4.3   Browser
+
+Da gleiche Quellcodes von unterschiedlichen Browsern nicht gleich interpretiert und dargestellt werden war es auch eine Aufgabe für uns stets zu überwachen, ob unsere Website auf allen Browsern richtig dargestellt wird. Wir haben uns hierbei auf die geläufigsten Browser konzentriert: Mozilla Firefox, Microsoft Edge, Google Chrome und Safari. Aufgrund der stark abnehmenden Verwendung und der enormen Problematiken haben wir uns dafür entschieden, für den Internet Explorer keine speziellen Anpassungen vorzunehmen.
+
+##### 4.4   Design
 
 Das Design der Website ist weitesgehend an der Vorlage von [Foot2afrika](http://www.foot2afrika.com/) ausgerichtet. Ebenfalls haben wir die Farbauswahl so getroffen, dass diese dem Logo ähnelt. Dadurch möchten wir erreichen, dass der User die Zugehörigkeit der Fundraising Tour zu Foot2Afrika erkennt. Außerdem erzeugen wir dadurch eine Einheitlichkeit und trennen uns nicht willkürlich ab, da unsere Website ebenfalls eine unterstützende Funktion haben soll.
 Jedoch möchten wir nicht den Eindruck vermitteln, dass das Design lediglich übernommen oder sogar kopiert wurde und haben uns z.B beim Footer gegen das Design von [Foot2afrika](http://www.foot2afrika.com/) entschieden und unsere eigene Kreation verwendet. 
@@ -170,7 +174,7 @@ Die Startseite hebt sich eindeutig durch ihre Dynamik ab und vermittelt dadurch 
 Ziel des Design bei diesen Objekten war es dem Anwender der Seite Spaß und einen Überaschungsmoment zu liefern. 
 
 
-##### 4.4  User-Testing bzw. Usability-Tests:
+##### 4.5  User-Testing bzw. Usability-Tests:
 
 Zwei Mal während der Projektlaufzeit, haben wir unsere Seite ein wenig testen lassen. 
 Eigentlich wollten wir drei „Tests“ machen, den ersten nur anhand unserer Wireframes, aber wie es manchmal so ist mit der Planung, ist aus diesem ersten frühen Test nichts geworden.
