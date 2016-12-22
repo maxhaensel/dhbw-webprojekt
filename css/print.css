@@ -9,10 +9,16 @@
     
     /*Kalender print*/
     .event-box {
-        max-height: 100px;
+        height: 250px;
         margin: 1em;}
     .picture-calendar {display: none;}
-    .location-toggle {
-        display: none;
-    }
+    .location-toggle {display: none;}
+    .form-group {display: none;}
+    /*Kalender print*/
+    
+    /*FAQ print*/
+    .content {display:block; margin: 3em; height: 250px;}
+    .radio {display: none;}
+    
+    /*FAQ print*/
 }
