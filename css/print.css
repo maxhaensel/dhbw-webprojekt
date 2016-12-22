@@ -1,8 +1,9 @@
 @media print {
     /*Allgemein*/
     nav {display: none;}
+    nav button {display: none;}
     footer {display: none;}
-    img {display: none;}
+    main img {display: none;}
     .no_print {display: none;}
     .event a {display: none;}
     .event-teaser {display: none;}
@@ -22,4 +23,21 @@
     .faq-list .box-content .content {max-height: 700px;}
     .radio {display: none;}
     /*FAQ print*/
+    
+    /*Kontakt print*/
+    form.kontakt .input-group.text-field input[type="text"],form.kontakt .input-group.select-field select{
+        background: white;
+        border-bottom: 1px solid black;
+        }
+    .print_input {
+        width: 100%;
+        padding: 1em;
+        background: white;
+        border-bottom: 1px solid black;
+    }
+    .personel-message {
+        padding: 10px 0px 150px 10px;
+        border: 0.5px solid #999}
+    /*Kontakt print*/
+    
 }
