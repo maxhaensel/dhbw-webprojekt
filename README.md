@@ -192,4 +192,4 @@ Abschließend kann man sagen, dass wir doch sehr von den Usability-Tests profiti
 
 #### 5.3 Wireframes
 Die Wireframes befinden sich in folgendem Ordner:
-[Wireframes](pm/wireframes/CAL-mobile.PNG)
+[Wireframes](pm/wireframes/)
