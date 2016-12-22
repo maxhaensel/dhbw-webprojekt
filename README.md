@@ -197,4 +197,6 @@ Sehr zu unserer Freude, waren alle total begeistert von unserer Website. Es gab 
 Abschließend kann man sagen, dass wir doch sehr von den Usability-Tests profitiert haben. Steckt man selbst mitten im Projekt kann man selbst mit 12 Augen manchmal nicht erkennen, was „User“ sofort entdeckt.
 
 ### 5. Anhang
+#### 5.1 Genehmigung für die Rechte der Bilder
+![Email Foot2Afrika](Email Foot2Africa.png)
 
