@@ -89,16 +89,15 @@ Verwende Software/Programme:
 
 - Github
 (https://github.com/)
-Der Dienstleister Github dient der Verwaltung von quelloffener Software (engl. ‚open source hoster‘). Github bietet die Möglichkeit mit mehreren Entwicklern an einem Projekt (‚Repositorie‘) zu arbeiten. Hierzu werden mehrere Optionen geboten: Das Erstellen (engl. ‚branch‘), und das Zusammenführen (engl. ‚merge‘) von Abspaltungen (engl. ‚forks‘). 
-Mit diesen Möglichkeiten erleichterte uns Github unsere Zusammenarbeit, an den HTML Files, CSS Stylesheets, aber beispielsweise auch an der Userstory. Völlig gleich, wann an einer Datei von einem unserer Teammitglieder eine Änderung vorgenommen wurde, durch eine kurze Synchronisation auf Github waren alle anderen sofort auf dem neusten Stand. 
-Vergleichsweise einfach war das Zusammenarbeiten mehrerer Teammitglieder an einem CSS-Stylesheet. Dadurch, dass alle stets auf dem gleichen Stand waren und alle gemeinsamen Dateien über Github beziehen konnten, konnten auch schnell Verbesserungen angebracht oder Fehler eliminiert werden. Hierzu wurde der Code einfach angepasst und anschließend über Github ein ‚pull request‘ gestellt. In diesem ‚pull request‘ hat man zudem die Möglichkeit einen Kommentar hinzuzufügen (bspw. „Habe kurz die Pixelangaben des Kalenders angepasst.“). Die Änderung konnte dann angenommen werden. Trotzdem bietet Github immer die Möglichkeit auf einer Vorgängerversion zurückzugreifen, sollte sich bspw. eine Änderung im Nachhinein als untauglich herausstellen. 
+Der Dienstleister Github dient der Verwaltung von quelloffener Software (engl. ‚open source hoster‘). Github bietet die Möglichkeit mit mehreren Entwicklern an einem Projekt (‚Repositorie‘) zu arbeiten. Mit dieser Möglichkeit erleichterte uns Github unsere Zusammenarbeit, an den HTML Files, CSS Stylesheets, aber beispielsweise auch an der Userstory. Völlig gleich, wann an einer Datei von einem unserer Teammitglieder eine Änderung vorgenommen wurde, durch eine kurze Synchronisation auf Github waren alle anderen sofort auf dem neusten Stand. Vergleichsweise einfach war das Zusammenarbeiten mehrerer Teammitglieder an einem CSS-Stylesheet. Dadurch, dass alle stets auf dem gleichen Stand waren und alle gemeinsamen Dateien über Github beziehen konnten, konnten auch schnell Verbesserungen angebracht oder Fehler eliminiert werden.
 Abschließend kann man festhalten, dass uns Github die Zusammenarbeit an unserem Webprojekt enorm erleichtert hat. Anstatt permanent Dateien von A nach B zu senden und überwachen zu müssen, welche Datei nun die aktuellste ist, kann man sich bei Github einloggen und hat immer einen guten Überblick über den Stand des Webprojekts.
 
 
-- Atom
-(https://atom.io/)
-Atom ist ein kostenloser, open-source Texteditor, der auf Electron basiert (Wikipedia: „Electron besteht aus dem Webbrowser Chromium und dem JavaScript-Framework Node.js und erlaubt es, beliebige Anwendungen mit JavaScript, HTML und CSS zu erstellen.“ (https://de.wikipedia.org/wiki/Atom_(Texteditor))). Atom bietet eine Syntaxhervorhebung, was einem auch das Auffinden von kleineren Fehlern erleichtert und den Code übersichtlicher erscheinen lässt. Des Weiteren lässt sich Atom mit Plugins erweitern, so kann man zum Beispiel eine Mini-Map installieren, die einem stets einen guten Überblick über den bereits geschriebenen Code gibt. 
-Natürlich hätten wir unseren Code auch mit Notepad++ schreiben können, jedoch bietet Atom einen besseren Überblick über die vorhandenen Dateien und es kann hier ein gesamter Ordner eingebunden werden.
+
+- Brackets 
+http://brackets.io/
+ist ein kostenloser, open-source Texteditor. Er erlaubt es, beliebige Anwendungen mit JavaScript, HTML und CSS zu erstellen, ist aber am ehesten zum Erstellen von Webprojekten gedacht. Mit der integrierten Live-Ansicht weiterer optionaler Features ermöglicht der Editor eine optimale Arbeit mit dem HTML und CSS Code.
+
 
 
 
@@ -112,6 +111,36 @@ Außerdem Positiv: Das Tool kann bis zu 30 Tagen kostenfrei verwendet werden, da
 (http://storiesonboard.com/)	
 Zur Ausarbeitung unserer Userstories haben wir das Online und Cloudbasierte Tool StoriesOnBoard verwendet. Dieses bietet die Möglichkeit per Drag-and-Drop, verschiedenfarbige Karteikarten anzuordnen und somit verschiedene Ebenen der Userstory dazustellen. 
 Des Weiteren sollte an dieser Stelle die Webseite von Roman Pichler: http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/ erwähnt werden, die uns beim Grundverständnis des Themas Userstory und bei der anschließenden Ausarbeitung eine große Hilfe war.
+
+
+- Sass (Syntactically Awesome Stylesheets)
+http://sass-lang.com/
+„ist eine Stylesheet-Sprache, die als Präprozessor die Erzeugung von Cascading Style Sheets erleichtert.“ (https://de.wikipedia.org/wiki/Sass_(Stylesheet-Sprache))
+Aus einer erstellten SASS Datei wird also Bevor diese auf dem eigentlichen Server zum Einsatz kommt, eine CSS Datei. SASS ermöglicht es den Code schneller, einfacher, effektiver und besser zu erstellen und anschließend pflegen zu können. Als Ergebnis erhält man also (im Normalfall) eine sehr saubere CSS Datei. 
+Ein weiterer erwähnenswerter Punkt ist, dass man mit SASS rechnen kann. Als kleines Beispiel: Jede H1 Überschrift, soll 3-mal so groß sein wie die Standart-Schriftgröße. Mit SASS kein Problem.
+
+
+
+- WebStorm 
+https://www.jetbrains.com/webstorm/
+..für Studenten zum Glück kostenlos, ist eine Entwicklungsumgebung für JavaScript und HTML. Sie unterstützt natürlich Syntax-Highlighting, IntelliSense und Autocomplete. Außerdem bietet sie ein Browser-Plugin, der das Debuggen im Browser erleichtert.
+
+!!!!!!!!!   Ehrlich gesagt kein Plan was du damit gemacht hast Max.. also vielleicht musst du hier doch selbst Hand anlegen ?!!!!!!!!!!!!!!!!!!!!
+
+
+- Jade 
+https://www.jadeworld.com/developer-center/
+Jade ähnelt in gewisser Weise SASS. Nur das es hier nicht darum geht das coden von CSS sondern von HTML zu erleichtern. Ein riesen Vorteil ist, dass HTML-Elemente nie wieder falsch geschlossen werden. 
+Da die Beschreibung sehr umständlich wäre hier noch ein kleines Zitat:
+„Die richtige Einrückung der jeweiligen HTML-Elemente passiert über Tab-Stopps innerhalb von Jade. Ihr könnt so ganze HTML-Konstrukte mit nur sehr wenigen Keywords beschreiben. Darüber hinaus wird HTML durch Jade unter anderem mit Logik erweitert: Schleifen, Vererbung, Mixins und Variablen stehen zur Verfügung, um den HTML-Workflow zu optimieren.“ (http://t3n.de/news/jade-638027/)
+
+
+- FileZilla  (FTP-Programm) 
+https://filezilla-project.org/
+Den open-source - FTP-Client FileZilla haben wir zum hochladen unserer Seite auf den Server verwendet. Dank der einfachen Bedienbarkeit und Funktionalität wird einem genau das nämlich von FileZilla erleichtert. 
+
+
+
 
 ##### 4.2.2 HTML
 
