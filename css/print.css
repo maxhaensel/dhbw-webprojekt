@@ -1,4 +1,5 @@
 @media print {
+    /*Allgemein*/
     nav {display: none;}
     footer {display: none;}
     img {display: none;}
@@ -6,6 +7,7 @@
     .event a {display: none;}
     .event-teaser {display: none;}
     .no_print {display: none;}
+    /*Allgemein*/
     
     /*Kalender print*/
     .event-box {
@@ -17,8 +19,7 @@
     /*Kalender print*/
     
     /*FAQ print*/
-    .content {display:block; margin: 3em; height: 250px;}
+    .faq-list .box-content .content {max-height: 700px;}
     .radio {display: none;}
-    
     /*FAQ print*/
 }
