@@ -67,16 +67,16 @@ Unsere Arbeit soll darüber hinaus „responsive“ sein. Damit ist gemeint, das
 ####  2.1 Projektplan und Planung
 
 Zu Beginn des Webprojekts war die Erstellung unseres Projektplans eins der wichtigsten Schritte in unserer  Vorgehensweise. Der Plan beinhaltete wichtige Punkte und Aufgaben für das Projekt, und noch wichtiger die Abgabefristen. Dadurch hatte jeder in der Gruppe eine allgemeine Übersicht über die anstehende Arbeit. Es war uns ebenfalls wichtig, dass jeder die Zeit im Überblick hatte, weshalb wir die Aufgabenverteilung schnell getroffen haben. Somit konnte ein Teil der Gruppe sich bereits der ersten Aufgabe widmen, die Erstellung der Wireframes, während der anderer Teil sich um den Inhalt bemüht hat. Dadurch wollten wir bezwecken, dass keine Zeit verloren ging und man parallel arbeiten konnte. Dies ersparte uns eine Menge Mühe und man verhinderte dadurch Doppelarbeiten.
-Den Projektplan findet man im Anhang …
+Den Projektplan ist im [Anhang](pm/Projektplan.PNG) zu finden.
 
 Des Weiteren spielte die optische Strukturierung unserer Website, neben der allgemeinen Projektplanung, eine weitere große Rolle. Mit Hilfe der Wireframes haben wir erste Ideen gestalterisch umgesetzt und festgehalten, ohne dass man jegliche Kenntnisse über das HTML oder CSS besitzen muss. Weshalb die Wireframes in unseren Augen ein sehr hilfreicher Einstieg für jeden Anfänger sind, die sich mit der Erstellung einer Website auseinander setzen möchten. Die Wireframes haben eine Art wegweisende Funktion, wie z.B ein roter Faden, an dem man sich orientieren kann. Sie beinhalten den definierten Projektumfang und wichtige Punkte, die zu berücksichtigen sind. Dadurch hatte man ebenfalls einen Überblick über die Konstruktion gehabt.
 Des Weiteren haben wir für die Übersicht ein Storyboard und den grafischen Aufbau der Websitenstruktur erstellt.
-Diese sind im Anhang ... zu finden.
+Diese sind im ebenfalls im [Anhang](pm/wireframes/) zu finden.
 
 ####  2.2 Informationsbeschaffung
 
 Parallel zu all den optischen Strukturierungen haben wir uns auch um den Inhalt bemüht. Für das Thema "Fundraising Tour" haben wir uns mit den Veranstaltern und Organisation "Foot2Afrika", die in Tansania ihren Sitz hat, in Verbindung gesetzt und um Nutzungserlaubnis für Texte und Bilder gebeten. Außerdem wurden weitere Bilder von Creative Common entnommen und verwendet.
-Eine Kopie der Erlaubnis in Email-Form ist im Anhang ... zu finden.
+Eine Kopie der Erlaubnis in Email-Form ist im [Anhang](Email Foot2Africa.png) zu finden.
 
 ####  2.3 Übersetzung und Verarbeitung der Ausgangstexte
 
