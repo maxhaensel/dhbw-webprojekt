@@ -114,6 +114,8 @@ Zur Ausarbeitung unserer Userstories haben wir das Online und Cloudbasierte Tool
 Des Weiteren sollte an dieser Stelle die Webseite von Roman Pichler: http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/ erwähnt werden, die uns beim Grundverständnis des Themas Userstory und bei der anschließenden Ausarbeitung eine große Hilfe war.
 
 ##### 4.2.2 HTML
+
+Bei der Erstellung der Benötigten HTML-Files für die Webseite haben wir den aktuellen Standard HTML5 eingehalten. 
 ##### 4.2.3 CSS
 
 **Struktur/Aufbau**
