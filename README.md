@@ -102,18 +102,17 @@ Außerdem Positiv: Das Tool kann bis zu 30 Tagen kostenfrei verwendet werden, da
 - [StoriesOnBoard](http://storiesonboard.com/)	
 
 Zur Ausarbeitung unserer Userstories haben wir das Online und Cloudbasierte Tool StoriesOnBoard verwendet. Dieses bietet die Möglichkeit per Drag-and-Drop, verschiedenfarbige Karteikarten anzuordnen und somit verschiedene Ebenen der Userstory dazustellen. 
-Des Weiteren sollte an dieser Stelle die Webseite von Roman Pichler: http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/ erwähnt werden, die uns beim Grundverständnis des Themas Userstory und bei der anschließenden Ausarbeitung eine große Hilfe war.
+Des Weiteren sollte an dieser Stelle die Webseite von [Roman Pichler](http://www.romanpichler.com/blog/10-tips-writing-good-user-stories/) erwähnt werden, die uns beim Grundverständnis des Themas Userstory und bei der anschließenden Ausarbeitung eine große Hilfe war.
 
 - [Sass (Syntactically Awesome Stylesheets)](http://sass-lang.com/)
 
-Sass „ist eine Stylesheet-Sprache, die als Präprozessor die Erzeugung von Cascading Style Sheets erleichtert.“ (https://de.wikipedia.org/wiki/Sass_(Stylesheet-Sprache))
+Sass [„ist eine Stylesheet-Sprache, die als Präprozessor die Erzeugung von Cascading Style Sheets erleichtert.“](https://de.wikipedia.org/wiki/Sass_(Stylesheet-Sprache))
 Aus einer erstellten SASS Datei wird also Bevor diese auf dem eigentlichen Server zum Einsatz kommt, eine CSS Datei. SASS ermöglicht es den Code schneller, einfacher, effektiver und besser zu erstellen und anschließend pflegen zu können. Als Ergebnis erhält man also (im Normalfall) eine sehr saubere CSS Datei. 
 Ein weiterer erwähnenswerter Punkt ist, dass man mit SASS rechnen kann. Als kleines Beispiel: Jede H1 Überschrift, soll 3-mal so groß sein wie die Standart-Schriftgröße. Mit SASS kein Problem.
 
 - [WebStorm](https://www.jetbrains.com/webstorm/)
-..für Studenten zum Glück kostenlos, ist eine Entwicklungsumgebung für JavaScript und HTML. Sie unterstützt natürlich Syntax-Highlighting, IntelliSense und Autocomplete. Außerdem bietet sie ein Browser-Plugin, der das Debuggen im Browser erleichtert.
 
-!!!!!!!!!   Ehrlich gesagt kein Plan was du damit gemacht hast Max.. also vielleicht musst du hier doch selbst Hand anlegen ?!!!!!!!!!!!!!!!!!!!!
+..für Studenten zum Glück kostenlos, ist eine Entwicklungsumgebung für JavaScript und HTML. Sie unterstützt natürlich Syntax-Highlighting, IntelliSense und Autocomplete. Außerdem bietet sie ein Browser-Plugin, der das Debuggen im Browser erleichtert.
 
 - [Jade](https://www.jadeworld.com/developer-center/)
 
@@ -127,7 +126,7 @@ Den open-source - FTP-Client FileZilla haben wir zum hochladen unserer Seite auf
 
 ##### 4.2.2 HTML
 
-Bei der Erstellung der benötigten HTML-Files für die Webseite haben wir die Semantik des aktuellen Standards HTML 5 eingehalten. Während und nach der Erstellung besagter Files haben wir diese mithilfe des W3C Markup Validator (https://validator.w3.org/) überprüft um zu gewährleisten, dass wir qualiltativ hochwertiges und vor allem richtiges HTML verwenden.
+Bei der Erstellung der benötigten HTML-Files für die Webseite haben wir die Semantik des aktuellen Standards HTML 5 eingehalten. Während und nach der Erstellung besagter Files haben wir diese mithilfe des [W3C Markup Validator](https://validator.w3.org/) überprüft um zu gewährleisten, dass wir qualiltativ hochwertiges und vor allem richtiges HTML verwenden.
 ##### 4.2.3 CSS
 
 **Struktur/Aufbau**
