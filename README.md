@@ -115,7 +115,7 @@ Des Weiteren sollte an dieser Stelle die Webseite von Roman Pichler: http://www.
 
 ##### 4.2.2 HTML
 
-Bei der Erstellung der Benötigten HTML-Files für die Webseite haben wir den aktuellen Standard HTML5 eingehalten. 
+Bei der Erstellung der benötigten HTML-Files für die Webseite haben wir die Semantik des aktuellen Standards HTML 5 eingehalten. Während und nach der Erstellung besagter Files haben wir diese mithilfe des W3C Markup Validator (https://validator.w3.org/) überprüft um zu gewährleisten, dass wir qualiltativ hochwertiges und vor allem richtiges HTML verwenden.
 ##### 4.2.3 CSS
 
 **Struktur/Aufbau**
