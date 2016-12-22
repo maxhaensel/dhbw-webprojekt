@@ -161,7 +161,7 @@ stylesheet.css
 
 ##### 4.3   Browser
 
-Da gleiche Quellcodes von unterschiedlichen Browsern nicht gleich interpretiert und dargestellt werden war es auch eine Aufgabe für uns stets zu überwachen, ob unsere Website auf allen Browsern richtig dargestellt wird. Wir haben uns hierbei auf die geläufigsten Browser konzentriert: Mozilla Firefox, Microsoft Edge, Google Chrome und Safari. Aufgrund der stark abnehmenden Verwendung und der enormen Problematiken haben wir uns dafür entschieden, für den Internet Explorer keine speziellen Anpassungen vorzunehmen.
+Da gleiche Quellcodes von unterschiedlichen Browsern nicht gleich interpretiert und dargestellt werden war es auch eine Aufgabe für uns stets zu überwachen, ob unsere Website auf allen Browsern richtig dargestellt wird. Wir haben uns hierbei auf die geläufigsten Browser konzentriert: Mozilla Firefox, Microsoft Edge, Google Chrome und Safari. Aufgrund der stark abnehmenden Verwendung und der enormen bekannten Problematiken haben wir uns dafür entschieden, für den Internet Explorer keine speziellen Anpassungen vorzunehmen.
 
 ##### 4.4   Design
 
