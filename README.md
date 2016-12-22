@@ -45,7 +45,7 @@ Da die inhaltliche Grundlage unserer Website auf der englischsprachigen Foot2Afr
 ####  3.1 Auswahl der Themen
 
 
-Unser Hauptaugenmerk lag darauf, einen kurzen Überblick über Foot2Afrika zu geben, mit dem Hauptfokus jedoch auf der Fundraising Tour wie es die Aufgabenstellung verlangte. Um nicht nur die Info-Seiten von Foot2 Afrika zu kopieren, haben wir die, für den Besucher der Website, wichtigsten Informationen extrahiert und versucht diese möglichst Übersichtlich und prägnant auf unserer Website darzustellen. Da das Verhalten von Usern gezweigt hat, dass diese lange Texte auf Websites nicht lesen, sondern nur überfliegen bzw nach Key-Wörtern suchen, wollten wir durch kurze Inhaltsvolle Texte dem entgegenwirken und des Besucher unserer Website dazu bringen, möglichst viele für ihn nützliche Informationen herauszufinden.
+Unser Hauptaugenmerk lag darauf, einen kurzen Überblick über Foot2Afrika zu geben, mit dem Hauptfokus jedoch auf der Fundraising Tour wie es die Aufgabenstellung verlangte. Um nicht nur die Info-Seiten von Foot2 Afrika zu kopieren, haben wir die, für den Besucher der Website, wichtigsten Informationen extrahiert und versucht diese möglichst Übersichtlich und prägnant auf unserer Website darzustellen. Da das Verhalten von Usern gezeigt hat, dass diese lange Texte auf Websites nicht lesen, sondern nur überfliegen bzw. nach Key-Wörtern suchen, wollten wir durch kurze Inhaltsvolle Texte dem entgegenwirken und den Besucher unserer Website dazu bringen, möglichst viele für ihn nützliche Informationen herauszufinden.
 
 ####  3.2 Fundraising Tour
 
@@ -54,7 +54,7 @@ Es finden verschiedene Events statt, Beispiele dafür sind z.B. ein gemeinsames 
 
 ####  3.3 Was ist Foot2Afrika
 
-Foot2Africa ist eine Organisation mit dem Ziel, die Armut in Tansania zu bekämpfen. Es werden verschiedene Projekte gefördert um unter anderem jedem Menschen den Zugang zu Wasser und zu Bildung zu gewähren.
+Foot2Africa ist eine Organisation mit dem Ziel, die Armut in Tansania zu bekämpfen. Es werden verschiedene Projekte gefördert, um unter anderem, jedem Menschen den Zugang zu Wasser und zu Bildung zu gewähren.
 
 #### 3.4 Deren Arbeit und aktuelles Projekt
 
