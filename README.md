@@ -1,4 +1,3 @@
-:shipit:
 # DHBW-Heidenheim / Webprojekt / Foot2Afrika / Gruppe A3
 
 [Link zur Dokumentation](https://github.com/maexdontcha/dhbw-webprojekt/blob/master/README.md)
