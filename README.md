@@ -1,6 +1,8 @@
 :shipit:
 # DHBW-Heidenheim / Webprojekt / Foot2Afrika / Gruppe A3
 
+[Link zur Dokumentation](https://github.com/maexdontcha/dhbw-webprojekt)
+
 [Foot to Afrika - Fundraising Tour Deutschland](http://www.wwi16a3.projekt.dhbw-heidenheim.de/)
 
 #  I	Projektdokumentation	
