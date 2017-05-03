@@ -1,4 +1,4 @@
-.neu{}
+.neu{width: 100%;}
 .event, .event .event-date, .event .event-location {box-sizing: border-box;}
 .event-box {
     width: 100%;
